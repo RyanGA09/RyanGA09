@@ -157,6 +157,15 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
     </div>
+    <h4>Data Visualization Tools</h4>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="40" height="40"/>
+        </a>
+        <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="180" height="40"/>
+        </a>
+    </div>
     <h4>Version Control & Collaboration</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
