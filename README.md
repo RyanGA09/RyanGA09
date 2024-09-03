@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm Ryan Gading</h1>
+<h1 align="center">Greetings 👋, I'm Ryan Gading Abdullah</h1>
 <h3 align="center">Data Analyst Enthusiast | Data Science | Teaching Enthusiast | Treasurer | UI Design (Figma) | Graphic Design (Canva)</h3>
 
 <p align="center">
