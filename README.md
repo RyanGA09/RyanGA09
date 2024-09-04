@@ -21,7 +21,7 @@
   </a> 
 </p>
 
-<h3 align="left">Recent Projects</h3>
+<h3 align="left">Projects</h3>
 <ul align="left">
     <li><strong>
     Impact Analysis Covid-19 (Case Study Project)</strong> - (May 2024 - May 2024).</li>
