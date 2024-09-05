@@ -23,7 +23,7 @@
   </a> 
 </p>
 
-<h3 align="left">Projects</h3>
+# Projects
 <ul align="left">
     <li><strong>
     Impact Analysis Covid-19 (Case Study Project)</strong> - (May 2024 - May 2024).</li>
@@ -37,7 +37,10 @@
     You can check my project on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
 </p>
 
-<h3 align="left">Hobbies</h3>
+
+# Hobbies & Interest:
+
+## Hobbies
 <ul align="left">
     <li><strong>Swimming</strong>: Enjoy swimming as a way to stay fit and relax.</li>
     <li><strong>Singing</strong>: Passionate about singing and exploring different genres of music.</li>
@@ -47,19 +50,19 @@
     <li><strong>Listening to Music</strong>: Enjoy listening to a wide range of music genres.</li>
 </ul>
 
-<h3 align="left">Interests</h3>
+## Interest
 <ul align="left">
     <li><strong>Design</strong>: Interested in design, including graphic and UI design.</li>
     <li><strong>Analysis</strong>: Enjoy analyzing data and deriving insights.</li>
     <li><strong>Coding</strong>: Enjoy solving programming challenges and developing new projects.</li>
 </ul>
 
-<h3 align="left">Let's Connect!</h3>
+# Let's Connect
 <p align="center">
     Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>. You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
 </p>
 
-<h3 align="left">Skills and Tools:</h3>
+# Skill and Tools:
 <p align="left">
     <h4>Programming Languages</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -193,7 +196,7 @@
     </div>
 </p>
 
-<h3 align="left">Find Me At:</h3>
+# Find Me at:
 <p align="left">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
