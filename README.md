@@ -40,7 +40,7 @@
 
 # Hobbies & Interest:
 
-<h2 align="left">Hobbies</h2>
+<h3 align="left">Hobbies</h3>
 <ul align="left">
     <li><strong>Swimming</strong>: Enjoy swimming as a way to stay fit and relax.</li>
     <li><strong>Singing</strong>: Passionate about singing and exploring different genres of music.</li>
@@ -50,7 +50,7 @@
     <li><strong>Listening to Music</strong>: Enjoy listening to a wide range of music genres.</li>
 </ul>
 
-<h2 align="left">Interest</h2>
+<h3 align="left">Interest</h3>
 <ul align="left">
     <li><strong>Design</strong>: Interested in design, including graphic and UI design.</li>
     <li><strong>Analysis</strong>: Enjoy analyzing data and deriving insights.</li>
