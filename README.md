@@ -7,8 +7,6 @@
   Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Adhi Tama Institute of Technology Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=RyanGA09&icon=5&color=1)](https://visitcount.itsvg.in)
-
 # 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanGA09&show_icons=true&locale=en" alt="RyanGA09" /></p>
@@ -212,5 +210,4 @@
     <a href="https://medium.com/@ryangadingabdullah" target="blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
     </a>
-</p>
 </p>
