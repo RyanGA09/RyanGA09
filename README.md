@@ -35,16 +35,6 @@
     You can check my project on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
 </p>
 
-<h3 align="left">Languages</h3>
-<ul align="left">
-    <li><strong>Indonesian</strong>: Native</li>
-    <li><strong>English</strong>: Intermediate</li>
-    <li><strong>Javanese</strong>: Intermediate</li>
-    <li><strong>German</strong>: Basic</li>
-    <li><strong>Japanese</strong>: Basic</li>
-    <li><strong>Korean</strong>: Basic</li>
-</ul>
-
 <h3 align="left">Hobbies</h3>
 <ul align="left">
     <li><strong>Swimming</strong>: Enjoy swimming as a way to stay fit and relax.</li>
