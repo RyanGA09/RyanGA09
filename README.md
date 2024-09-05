@@ -1,6 +1,8 @@
 <h1 align="center">Greetings 👋, I'm Ryan Gading Abdullah</h1>
 <h3 align="center">Data Analyst Enthusiast | Data Science | Teaching Enthusiast | Treasurer | UI Design (Figma) | Graphic Design (Canva)</h3>
 
+# 💫 About Me:
+
 <p align="center">
   Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Adhi Tama Institute of Technology Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
