@@ -9,6 +9,11 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center" />
+</div>
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanGA09&show_icons=true&locale=en" alt="RyanGA09" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanGA09&show_icons=true&locale=en&layout=compact" alt="RyanGA09" /></p>
