@@ -14,19 +14,13 @@
 </div>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanGA09&show_icons=true&locale=en" alt="RyanGA09" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanGA09&show_icons=true&locale=en&layout=compact" alt="RyanGA09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&" alt="RyanGA09" /></p>
+![](https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09" alt="RyanGA09" /> 
-  </a> 
-</p>
+![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
 
 # Projects
 <ul align="left">
