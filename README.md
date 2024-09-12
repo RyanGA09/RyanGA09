@@ -193,7 +193,7 @@
 
 </br>
 
-<p align="left">
+<p align="center">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
