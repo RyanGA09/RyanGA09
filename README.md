@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Ryan Gading Abdullah</h1>
-<h3 align="center">Data Analyst Enthusiast | Data Science | Teaching Enthusiast | Treasurer | UI Design (Figma) | Graphic Design (Canva)</h3>
+<h3 align="center">Undergraduate Informatics Engineering Student at ITATS | Data Analyst Enthusiast | Data Science | Teaching Enthusiast | Treasurer | Frontend Developer | UI Design (Figma) | Graphic Design (Canva)</h3>
 
 # 💫 About Me:
 
