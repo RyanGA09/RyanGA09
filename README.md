@@ -193,6 +193,9 @@
 <p align="center">
     Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>. You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
 </p>
+
+</br>
+
 <p align="left">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
@@ -209,6 +212,10 @@
     <!-- Tableau Badge -->
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
         <img src="https://img.shields.io/badge/Tableau-View-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
+    </a>
+    <!-- GitHub Badge -->
+    <a href="https://github.com/RyanGA09" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="Follow on GitHub" />
     </a>
 </p>
 
