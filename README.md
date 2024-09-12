@@ -55,11 +55,6 @@
     <li><strong>Coding</strong>: Enjoy solving programming challenges and developing new projects.</li>
 </ul>
 
-# 🌐 Let's Connect
-<p align="center">
-    Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>. You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
-</p>
-
 # 🔧 Skill and Tools:
 <p align="left">
     <h4>Programming Languages</h4>
@@ -194,7 +189,10 @@
     </div>
 </p>
 
-# 🌐 Find Me at:
+# 🌐 Connect & Find Me:
+<p align="center">
+    Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>. You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
+</p>
 <p align="left">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
