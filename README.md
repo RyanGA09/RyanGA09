@@ -209,4 +209,9 @@
     <a href="https://medium.com/@ryangadingabdullah" target="blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
     </a>
+    <!-- Tableau Badge -->
+    <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
+        <img src="https://img.shields.io/badge/Tableau-View-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
+    </a>
 </p>
+
