@@ -22,7 +22,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
 
-# Projects
+# 💼 Projects
 <ul align="left">
     <li><strong>
     Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
@@ -36,7 +36,7 @@
     You can check my project on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
 </p>
 
-# Hobbies & Interest:
+# 🎯 Hobbies & Interest:
 
 <h3 align="left">Hobbies</h3>
 <ul align="left">
@@ -55,12 +55,12 @@
     <li><strong>Coding</strong>: Enjoy solving programming challenges and developing new projects.</li>
 </ul>
 
-# Let's Connect
+# 🌐 Let's Connect
 <p align="center">
     Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>. You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
 </p>
 
-# Skill and Tools:
+# 🔧 Skill and Tools:
 <p align="left">
     <h4>Programming Languages</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -194,7 +194,7 @@
     </div>
 </p>
 
-# Find Me at:
+# 🌐 Find Me at:
 <p align="left">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
