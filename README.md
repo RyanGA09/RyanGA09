@@ -85,7 +85,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
         </a>
     </div>
-    <h4>Front-End Development</h4>
+    <h4>Frameworks & Tools</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -93,14 +93,11 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
         </a>
-    </div>
-    <h4>Back-End Development</h4>
-    <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://laravel.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
         </a>
     </div>
-    <h4>Data Science & Machine Learning</h4>
+    <h4>Data Science, Machine Learning, & Visualization Tools</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -119,6 +116,15 @@
         </a>
         <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
             <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_002.png" alt="matplotlib" width="40" height="40"/>
+        </a>
+    </div>
+    <h4>Data Visualization Tools</h4>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="40" height="40"/>
+        </a>
+        <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="180" height="40"/>
         </a>
     </div>
     <h4>IDE & Tools</h4>
@@ -145,22 +151,13 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
     </div>
-    <h4>Data Visualization Tools</h4>
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="40" height="40"/>
-        </a>
-        <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="180" height="40"/>
-        </a>
-    </div>
     <h4>Version Control & Collaboration</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
         </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
         </a>
     </div>
     <h4>Most Used Browser</h4>
