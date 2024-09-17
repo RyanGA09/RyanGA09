@@ -1,5 +1,8 @@
 <h1 align="center">Greetings 👋, I'm Ryan Gading Abdullah</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&duration=2000&pause=2000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva))](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
+</p>
+
 
 # 💫 About Me:
 
