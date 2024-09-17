@@ -13,13 +13,23 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false" alt="Streak"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Languages">
+</div>
+
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
+
 
 ## 🏆 GitHub Trophies
 
