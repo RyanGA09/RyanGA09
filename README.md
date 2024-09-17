@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Ryan Gading Abdullah</h1>
-<h3 align="center">Undergraduate Informatics Engineering Student at ITATS | Data Analyst Enthusiast | Data Science | Teaching Enthusiast | Treasurer | Frontend Developer | UI Design (Figma) | Graphic Design (Canva)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&duration=2000&pause=2000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva))](https://git.io/typing-svg)
 
 # 💫 About Me:
 
