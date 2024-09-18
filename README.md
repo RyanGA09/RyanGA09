@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <p align="center">
-  Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Adhi Tama Institute of Technology Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
+  Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
 
 # 📊 GitHub Stats:
