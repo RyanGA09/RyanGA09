@@ -45,8 +45,8 @@
   <li><strong>Independent Study - Independent Campus</strong> — <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> (February 2024 - June 2024)</li> 
   <li><strong>Laboratory Assistant</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (September 2022 - August 2024)</li>
   <li><strong>Laboratory Assistant - Treasurer</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (September 2023 - August 2024)</li> 
-  <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (May 2023 - July 2023)</li> 
-  <li><strong>Web Developer - Practical Work/Internship (KP)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (March 2023 - July 2023)</li> 
+  <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (May 2024 - July 2024)</li> 
+  <li><strong>Web Developer - Practical Work/Internship (KP)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (March 2024 - July 2024)</li> 
 </ul>
 
 # 🎓 Education
