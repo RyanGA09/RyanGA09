@@ -41,7 +41,9 @@
 
 # 💼 Work Experience
 <ul align="left"> 
-  <li><strong>Junior Web Developer</strong> — [Digital Talent Scholarship](https://digitalent.kominfo.go.id/#) (April 2023 - May 2023)</li> 
+  <p><a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>.
+</p>
+  <li><strong>Junior Web Developer</strong><p><a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> (April 2023 - May 2023)</p></li> 
   <li><strong>independent study - independent campus</strong> — [Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)](https://mikti.id/) (February 2024 - June 2024)</li>
   <li><strong>Laboratory Assistant</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (September 2022 - August 2024)</li>
   <li><strong>Laboratory Assistant - Treasurer</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (September 2023 - August 2024)</li>
