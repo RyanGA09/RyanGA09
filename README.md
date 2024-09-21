@@ -53,25 +53,6 @@
     You can check my project on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
 </p>
 
-# 🎯 Hobbies & Interest:
-
-<h3 align="left">Hobbies</h3>
-<ul align="left">
-    <li><strong>Swimming</strong>: Enjoy swimming as a way to stay fit and relax.</li>
-    <li><strong>Singing</strong>: Passionate about singing and exploring different genres of music.</li>
-    <li><strong>Badminton</strong>: Love playing badminton for fun and fitness.</li>
-    <li><strong>Cooking</strong>: Passionate about cooking and trying out new recipes.</li>
-    <li><strong>Traveling</strong>: Enjoy exploring different cultures and cuisines.</li>
-    <li><strong>Listening to Music</strong>: Enjoy listening to a wide range of music genres.</li>
-</ul>
-
-<h3 align="left">Interest</h3>
-<ul align="left">
-    <li><strong>Design</strong>: Interested in design, including graphic and UI design.</li>
-    <li><strong>Analysis</strong>: Enjoy analyzing data and deriving insights.</li>
-    <li><strong>Coding</strong>: Enjoy solving programming challenges and developing new projects.</li>
-</ul>
-
 # 🔧 Skill and Tools:
 <p align="left">
     <h4>Programming Languages</h4>
