@@ -41,18 +41,18 @@
 
 # 💼 Work Experience
 <ul align="left"> 
-  <li><strong>Junior Web Developer</strong> — Digital Talent Scholarship (April 2023 - May 2023)</li> 
-  <li><strong>independent study - independent campus</strong> — MIKTI (February 2024 - June 2024)</li>
-  <li><strong>Laboratory Assistant</strong> — Institut Teknologi Adhi Tama Surabaya (September 2022 - August 2024)</li>
-  <li><strong>Laboratory Assistant - Treasurer</strong> — Institut Teknologi Adhi Tama Surabaya (September 2023 - August 2024)</li>
-  <li><strong>Web Developer - Community Service Program/ Field Work (KKN)</strong> — Institut Teknologi Adhi Tama Surabaya (May 2023 - July 2023)</li>
-  <li><strong>Web Developer - Practical Work/ Intership (KP)</strong> — Institut Teknologi Adhi Tama Surabaya (March 2023 - July 2023)</li>
+  <li><strong>Junior Web Developer</strong> — [Digital Talent Scholarship](https://digitalent.kominfo.go.id/#) (April 2023 - May 2023)</li> 
+  <li><strong>independent study - independent campus</strong> — [Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)](https://mikti.id/) (February 2024 - June 2024)</li>
+  <li><strong>Laboratory Assistant</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (September 2022 - August 2024)</li>
+  <li><strong>Laboratory Assistant - Treasurer</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (September 2023 - August 2024)</li>
+  <li><strong>Web Developer - Community Service Program/ Field Work (KKN)</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (May 2023 - July 2023)</li>
+  <li><strong>Web Developer - Practical Work/ Intership (KP)</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (March 2023 - July 2023)</li>
 </ul>
 
 # 🎓 Education
 <ul align="left"> 
-  <li><strong>Informatics Engineering</strong> — Institut Teknologi Adhi Tama Surabaya (2021 - Expected Graduation: 2025)</li>
-  <li><strong>High School Senior</strong> — SMAN 15 Surabaya (2017 - Graduated: 2020)</li> 
+  <li><strong>Informatics Engineering</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (2021 - Expected Graduation: 2025)</li>
+  <li><strong>High School Senior</strong> — [SMAN 15 Surabaya](https://sman15-sby.sch.id/) (2017 - Graduated: 2020)</li> 
 </ul>
 
 # 💼 Projects
