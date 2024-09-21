@@ -40,21 +40,19 @@
 <!-- ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4) -->
 
 # 💼 Work Experience
-<ul align="left"> 
-  <p><a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a>.
-</p>
-  <li><strong>Junior Web Developer</strong><p><a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> (April 2023 - May 2023)</p></li> 
-  <li><strong>independent study - independent campus</strong> — [Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)](https://mikti.id/) (February 2024 - June 2024)</li>
-  <li><strong>Laboratory Assistant</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (September 2022 - August 2024)</li>
-  <li><strong>Laboratory Assistant - Treasurer</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (September 2023 - August 2024)</li>
-  <li><strong>Web Developer - Community Service Program/ Field Work (KKN)</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (May 2023 - July 2023)</li>
-  <li><strong>Web Developer - Practical Work/ Intership (KP)</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (March 2023 - July 2023)</li>
+<ul align="left">
+  <li><strong>Junior Web Developer</strong> — <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> (April 2023 - May 2023)</li> 
+  <li><strong>Independent Study - Independent Campus</strong> — <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> (February 2024 - June 2024)</li> 
+  <li><strong>Laboratory Assistant</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (September 2022 - August 2024)</li>
+  <li><strong>Laboratory Assistant - Treasurer</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (September 2023 - August 2024)</li> 
+  <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (May 2023 - July 2023)</li> 
+  <li><strong>Web Developer - Practical Work/Internship (KP)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (March 2023 - July 2023)</li> 
 </ul>
 
 # 🎓 Education
-<ul align="left"> 
-  <li><strong>Informatics Engineering</strong> — [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) (2021 - Expected Graduation: 2025)</li>
-  <li><strong>High School Senior</strong> — [SMAN 15 Surabaya](https://sman15-sby.sch.id/) (2017 - Graduated: 2020)</li> 
+<ul align="left">
+  <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (2021 - Expected Graduation: 2025)</li>
+  <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> (2017 - Graduated: 2020)</li> 
 </ul>
 
 # 💼 Projects
