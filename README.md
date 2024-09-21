@@ -66,7 +66,7 @@
     <li><strong>Bangun Sistem Informasi PKM & Proposal</strong> — (August 2024 - Present).</li>
 </ul>
 <p align="center">
-    You can check my project on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
+    You can check my educations, Experiences, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
 </p>
 
 # 🔧 Skill and Tools:
