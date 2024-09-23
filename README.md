@@ -141,7 +141,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
         </a>
     </div>
-    <h4>Data Visualization Tools</h4>
+    <h4>Software & Tools</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
             <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="40" height="40"/>
@@ -150,7 +150,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="180" height="40"/>
         </a>
     </div>
-    <h4>IDE & Tools</h4>
+    <br/>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
@@ -165,7 +165,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
         </a>
     </div>
-    <h4>Design & Tools</h4>
+    <br/>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
