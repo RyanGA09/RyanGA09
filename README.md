@@ -71,7 +71,7 @@
 
 # 🔧 Skill and Tools:
 <p align="left">
-    <h4>Programming Languages</h4>
+    <h4>Programming Languages & Markup</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -91,12 +91,15 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
         </a>
-        </a>
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
         </a>
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+        </a>
+        <!-- Menambahkan bahasa markup -->
+        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40"/>
         </a>
     </div>
     <h4>Frameworks & Tools</h4>
