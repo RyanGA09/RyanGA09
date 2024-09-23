@@ -132,6 +132,15 @@
             <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_002.png" alt="matplotlib" width="40" height="40"/>
         </a>
     </div>
+    <h4>Version Control & Collaboration</h4>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+        </a>
+    </div>
     <h4>Data Visualization Tools</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
@@ -165,15 +174,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
     </div>
-    <h4>Version Control & Collaboration</h4>
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-        </a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-        </a>
-    </div>
     <h4>Most Used Browser</h4>
      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.google.com/" target="_blank" rel="noreferrer">
@@ -189,7 +189,7 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
      </div>
-     <h4>Operating System</h4>
+     <h4>Most Used Operating System</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
