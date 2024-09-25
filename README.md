@@ -182,6 +182,9 @@
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
+        <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
+        </a>
     </div>
     <br/>
     <h4>Most Used Browser</h4>
