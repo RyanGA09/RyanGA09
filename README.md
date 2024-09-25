@@ -66,7 +66,7 @@
     <li><strong>Bangun Sistem Informasi PKM & Proposal</strong> — (August 2024 - Present).</li>
 </ul>
 <p align="center">
-    You can see more of my education, experience, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
+    You can see more of my work experience, education, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>.
 </p>
 
 # 🔧 Skill and Tools:
@@ -182,6 +182,12 @@
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
+        <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
+        </a>
+    </div>
+    <br/>
+    <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
             <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
         </a>
