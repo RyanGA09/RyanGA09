@@ -182,17 +182,16 @@
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
-        <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
-            <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
-        </a>
     </div>
     <br/>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
             <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
         </a>
+<!--         <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+            <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+        </a> -->
     </div>
-    <br/>
     <h4>Most Used Browser</h4>
      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.google.com/" target="_blank" rel="noreferrer">
