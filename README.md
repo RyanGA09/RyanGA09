@@ -215,6 +215,12 @@
         <a href="https://www.android.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
         </a>
+<!--         <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+        </a>
+        <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple logo"  />
+        </a> -->
     </div>
 </p>
 
@@ -247,4 +253,6 @@
         <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="Follow on GitHub" />
     </a>
 </p>
+
+<!-- Support Me: -->
 
