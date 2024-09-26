@@ -97,6 +97,9 @@
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
         </a>
+<!--         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        </a> -->
         <!-- Menambahkan bahasa markup -->
         <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
           <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
@@ -173,6 +176,9 @@
         <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
         </a>
+<!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+        </a> -->
     </div>
     <br/>
     <div style="display: flex; align-items: center; gap: 10px;">
