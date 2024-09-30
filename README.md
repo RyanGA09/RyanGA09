@@ -259,7 +259,50 @@
     <a href="https://github.com/RyanGA09" target="blank">
         <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="Follow on GitHub" />
     </a>
+    <!-- X (Twitter) Badge -->
+<!--     <a href="https://twitter.com/yourusername" target="blank">
+        <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge" alt="Follow on X" />
+    </a> -->
+    <!-- Facebook Badge -->
+<!--     <a href="https://www.facebook.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
+    </a> -->
+  
 </p>
 
 <!-- Support Me: -->
-
+<!-- <h3 align="left">Support Me</h3> -->
+<p align="left">
+    <!-- BuyMeACoffee Badge -->
+<!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
+    </a> -->
+    <!-- Ko-Fi Badge -->
+<!--     <a href="https://ko-fi.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Ko--Fi-Support-blue?logo=ko-fi&style=for-the-badge" alt="Support on Ko-Fi" />
+    </a> -->
+    <!-- Patreon Badge -->
+<!--     <a href="https://www.patreon.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
+    </a> -->
+    <!-- Saweria Badge -->
+<!--     <a href="https://saweria.co/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Saweria-Support-orange?logo=saweria&style=for-the-badge" alt="Support on Saweria" />
+    </a> -->
+    <!-- Sociabuzz Badge -->
+<!--     <a href="https://sociabuzz.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Sociabuzz-Support-00C3FF?logo=sociabuzz&style=for-the-badge" alt="Support on Sociabuzz" />
+    </a> -->
+    <!-- Streamlabs Badge -->
+<!--     <a href="https://streamlabs.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Streamlabs-Donate-green?logo=streamlabs&style=for-the-badge" alt="Donate with Streamlabs" />
+    </a> -->
+    <!-- Nyawer.co Badge -->
+<!--     <a href="https://nyawer.co/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Nyawer-Support-red?logo=nyawer&style=for-the-badge" alt="Support on Nyawer.co" />
+    </a> -->
+    <!-- Trakteer Badge -->
+<!--     <a href="https://trakteer.id/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
+    </a> -->
+</p>
