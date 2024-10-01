@@ -250,6 +250,14 @@
     <a href="https://www.instagram.com/ryan_g._a" target="blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
     </a>
+    <!-- X (Twitter) Badge -->
+<!--     <a href="https://twitter.com/yourusername" target="blank">
+        <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge" alt="Follow on X" />
+    </a> -->
+    <!-- Facebook Badge -->
+<!--     <a href="https://www.facebook.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
+    </a> -->
     <!-- Medium Badge -->
     <a href="https://medium.com/@ryangadingabdullah" target="blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
@@ -262,15 +270,18 @@
     <a href="https://github.com/RyanGA09" target="blank">
         <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="Follow on GitHub" />
     </a>
-    <!-- X (Twitter) Badge -->
-<!--     <a href="https://twitter.com/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge" alt="Follow on X" />
+    <!-- GitLab Badge -->
+<!--     <a href="https://gitlab.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/GitLab-Follow-black?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
     </a> -->
-    <!-- Facebook Badge -->
-<!--     <a href="https://www.facebook.com/dummy" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
+    <!-- Upwork Badge -->
+<!--     <a href="https://www.upwork.com/freelancers/~dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
     </a> -->
-  
+    <!-- Fiverr Badge -->
+<!--     <a href="https://www.fiverr.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
+    </a> -->
 </p>
 
 <!-- Support Me: -->
