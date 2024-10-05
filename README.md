@@ -228,7 +228,8 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
         </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer" >
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
+<!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
         </a>
     </div>
     <h4>💻 Software & Tools</h4>
