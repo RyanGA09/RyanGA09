@@ -3,15 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
 </p>
 
-
 # 💫 About Me:
-
 <p align="center">
   Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
 
 ## 📊 GitHub Stats:
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
@@ -24,16 +21,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide_progress=true&card_width=200" alt="Languages">
 </div>
 
-
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
 
-
 ## 🏆 GitHub Trophies
-
 <div align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Stats"> -->
   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight" alt="Stats">
@@ -57,7 +51,7 @@
   <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> (2017 - Graduated: 2020)</li> 
 </ul>
 
-# 💼 Projects
+# 📕 Projects
 <ul align="left">
     <li><strong>
     Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
@@ -71,11 +65,10 @@
 <!--     You can see more of my work experience, education, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>. -->
 </p>
 
-# 🔧 Skill and Tools:
-
-<!-- ## Skills: -->
+# 🛠️ Skill and Tools:
+<!-- ## ⚡ Skills: -->
 <p align="left">
-<!--     <h4>💼Hard Skills</h4>
+<!--     <h4>💪 Hard Skills</h4>
     <ul>
         <li>Kolaborasi Tim</li>
         <li>Pemecahan Masalah</li>
@@ -83,7 +76,7 @@
         <li>Manajemen Waktu</li>
         <li>Adaptabilitas</li>
     </ul>
-    <h4>🌱Soft Skills</h4>
+    <h4>🌱 Soft Skills</h4>
     <ul>
         <li>Kolaborasi Tim</li>
         <li>Pemecahan Masalah</li>
@@ -93,7 +86,7 @@
     </ul> -->
 </p>
 
-<!-- ## Tools: -->
+## 🔧 Tools:
 <p align="left">
     <h4>Programming Languages & Markup</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -119,13 +112,19 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
         </a>
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
         </a>
-<!--         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.script.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        </a>
+<!--         <a href="https://dart.dev/" target="_blank">
+            <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
+        </a> -->
+<!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;">
+            <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
         </a> -->
         <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-          <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="35" height="40"/>
+            <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
 <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
         </a>
     </div>
@@ -154,6 +153,9 @@
         </a>
         <a href="https://laravel.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+        </a>
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
         </a>
     </div>
     <br/>
@@ -202,14 +204,23 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
         </a>
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-            <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
         </a>
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
         </a>
         <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-            <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_002.png" alt="matplotlib" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
         </a>
+<!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        </a> -->
+<!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+        </a> -->
+<!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+        </a> -->
     </div>
     <h4>Version Control & Collaboration</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -220,7 +231,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
         </a>
     </div>
-    <h4>Software & Tools</h4>
+    <h4>💻 Software & Tools</h4>
     <!-- Data Visualization Tools -->
 <!--     <h5>Data Visualization Tools</h5> -->
 <!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
@@ -425,7 +436,7 @@
     </a> -->
 </p>
 
-<!-- Support Me: -->
+<!-- 💰 Support Me: -->
 <!-- <h3 align="left">Support Me</h3> -->
 <p align="left">
     <!-- BuyMeACoffee Badge -->
