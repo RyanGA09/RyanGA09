@@ -106,6 +106,9 @@
           <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="35" height="40"/>
 <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
         </a>
+    </div>
+    <br/>
+    <div style="display: flex; align-items: center; gap: 10px;">
         <!-- Menambahkan bahasa markup -->
         <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
           <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
@@ -117,18 +120,53 @@
           <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
         </a>
     </div>
-    <h4>Frameworks & Tools</h4>
+    <h4>Development Frameworks, Tools & Databases</h4>
+    <!-- Web Frameworks and Tools -->
+    <h5>Web Frameworks and Tools</h5>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
         </a>
         <a href="https://laravel.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
         </a>
     </div>
+    <!-- Databases -->
+    <h5>Databases</h5>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
+        </a>
+<!--         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+        </a>
+        <a href="https://redis.io/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+        </a> -->
+    </div>
+    <!-- Mobile Development Tools -->
+<!--     <h5>Mobile Development Frameworks & Tools</h5>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
+        </a>
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+            <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+        </a>
+        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+            <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android Studio" width="40" height="40"/>
+        </a>
+        <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+            <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
+        </a>
+    </div> -->
     <h4>Data Science, Machine Learning, & Visualization Tools</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -160,6 +198,9 @@
         </a>
     </div>
     <h4>Software & Tools</h4>
+    <!-- Data Visualization Tools -->
+    <h5>Data Visualization Tools</h5>
+<!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
             <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
@@ -167,8 +208,19 @@
         <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="Tableau" width="40" height="40"/>
         </a>
+<!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
+            <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+            <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="Power BI" width="30" height="40"/>
+        </a> -->
+<!--         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+            <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
+        </a> -->
     </div>
-    <br/>
+    <!-- Development Tools -->
+    <h5>Development Tools</h5>
+<!--     <p>Perangkat yang digunakan untuk pengembangan perangkat lunak, termasuk IDE, editor kode, dan platform kolaborasi.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
@@ -182,11 +234,31 @@
         <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
         </a>
-<!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+        <a href="https://laragon.org/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
+        </a>
+        <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
+        </a>
+<!--         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+            <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
+            <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
         </a> -->
     </div>
-    <br/>
+    <!-- Design Tools -->
+    <h5>Design Tools</h5>
+<!--     <p>Alat untuk mendesain antarmuka pengguna dan konten visual, membantu dalam proses kreatif dan kolaborasi tim.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
@@ -194,14 +266,46 @@
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
         </a>
+<!--         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_XD_icon.svg/1024px-Adobe_XD_icon.svg.png" alt="Adobe XD" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.sketch.com/apps" target="_blank" rel="noreferrer">
+            <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+        </a> -->
+<!--         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adobe_Photoshop_logo_2020.svg/2048px-Adobe_Photoshop_logo_2020.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
+        </a> -->
     </div>
-    <br/>
+    <!-- Streaming Tools -->
+    <h5>Streaming Tools</h5>
+<!--     <p>Perangkat untuk merekam dan melakukan streaming video secara langsung, ideal untuk konten kreator dan penyiar.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
             <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
         </a>
+<!--         <a href="https://streamlabs.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Streamlabs_Logo.png/800px-Streamlabs_Logo.png" alt="Streamlabs" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.xsplit.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.xsplit.com/logo.svg" alt="XSplit" width="40" height="40"/>
+        </a> -->
 <!--         <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
             <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.wirecast.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.wirecast.com/static/wirecast-5efc1d3d5c6b8e25c41f90cfefed7f6e.png" alt="Wirecast" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.vmix.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vmix.com/images/vmix_logo.png" alt="vMix" width="40" height="40"/>
         </a> -->
     </div>
     <h4>Most Used Browser</h4>
