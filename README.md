@@ -18,8 +18,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats"><br/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide_progress=true&card_width=200" alt="Languages">
 </div>
