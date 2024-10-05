@@ -120,7 +120,7 @@
           <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
         </a>
     </div>
-    <h4>Development Frameworks, Tools & Databases</h4>
+    <h4 style="font-weight: bold; text-decoration: underline;">Development Frameworks, Tools & Databases</h4>
     <!-- Web Frameworks and Tools -->
     <h5>Web Frameworks and Tools</h5>
     <div style="display: flex; align-items: center; gap: 10px;">
