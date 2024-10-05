@@ -122,7 +122,7 @@
     </div>
     <h4 style="font-weight: bold; text-decoration: underline;">Development Frameworks, Tools & Databases</h4>
     <!-- Web Frameworks and Tools -->
-    <h5>Web Frameworks and Tools</h5>
+<!--     <h5>Web Frameworks and Tools</h5> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -134,8 +134,9 @@
             <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
         </a>
     </div>
+    <br/>
     <!-- Databases -->
-    <h5>Databases</h5>
+<!--     <h5>Databases</h5> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
@@ -199,7 +200,7 @@
     </div>
     <h4>Software & Tools</h4>
     <!-- Data Visualization Tools -->
-    <h5>Data Visualization Tools</h5>
+<!--     <h5>Data Visualization Tools</h5> -->
 <!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
@@ -218,8 +219,9 @@
             <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
         </a> -->
     </div>
+    <br/>
     <!-- Development Tools -->
-    <h5>Development Tools</h5>
+<!--     <h5>Development Tools</h5> -->
 <!--     <p>Perangkat yang digunakan untuk pengembangan perangkat lunak, termasuk IDE, editor kode, dan platform kolaborasi.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -256,8 +258,9 @@
             <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
         </a> -->
     </div>
+    <br/>
     <!-- Design Tools -->
-    <h5>Design Tools</h5>
+<!--     <h5>Design Tools</h5> -->
 <!--     <p>Alat untuk mendesain antarmuka pengguna dan konten visual, membantu dalam proses kreatif dan kolaborasi tim.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -286,7 +289,8 @@
         </a> -->
     </div>
     <!-- Streaming Tools -->
-    <h5>Streaming Tools</h5>
+    <br/>
+<!--     <h5>Streaming Tools</h5> -->
 <!--     <p>Perangkat untuk merekam dan melakukan streaming video secara langsung, ideal untuk konten kreator dan penyiar.</p> -->
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
