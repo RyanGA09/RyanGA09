@@ -10,7 +10,7 @@
   Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
@@ -72,6 +72,28 @@
 </p>
 
 # 🔧 Skill and Tools:
+
+<!-- ## Skills: -->
+<p align="left">
+<!--     <h4>💼Hard Skills</h4>
+    <ul>
+        <li>Kolaborasi Tim</li>
+        <li>Pemecahan Masalah</li>
+        <li>Komunikasi Efektif</li>
+        <li>Manajemen Waktu</li>
+        <li>Adaptabilitas</li>
+    </ul>
+    <h4>🌱Soft Skills</h4>
+    <ul>
+        <li>Kolaborasi Tim</li>
+        <li>Pemecahan Masalah</li>
+        <li>Komunikasi Efektif</li>
+        <li>Manajemen Waktu</li>
+        <li>Adaptabilitas</li>
+    </ul> -->
+</p>
+
+<!-- ## Tools: -->
 <p align="left">
     <h4>Programming Languages & Markup</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -344,6 +366,14 @@
     </div>
 </p>
 
+<!-- ## Contoh Penerapan:
+<p align="left">
+    <ol>
+        <li><strong>Kolaborasi Tim</strong>: Mampu bekerja dalam tim lintas disiplin untuk mencapai tujuan bersama.</li>
+        <li><strong>Pemecahan Masalah</strong>: Berpengalaman dalam menganalisis dan mengatasi tantangan teknis.</li>
+    </ol>
+</p> -->
+
 # 🌐 Connect & Find Me:
 <p align="center">
     Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a> to find out more about me, my work experience, education and projects.
@@ -351,9 +381,7 @@
 <p align="center">
     You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
 </p>
-
 </br>
-
 <p align="center">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
