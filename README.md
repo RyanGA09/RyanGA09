@@ -102,6 +102,10 @@
 <!--         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
         </a> -->
+        <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+          <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="35" height="40"/>
+<!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
+        </a>
         <!-- Menambahkan bahasa markup -->
         <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
           <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
@@ -151,17 +155,17 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
         </a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+        <a href="https://github.com/" target="_blank" rel="noreferrer" >
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
         </a>
     </div>
     <h4>Software & Tools</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="40" height="40"/>
+            <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
         </a>
         <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="180" height="40"/>
+            <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="Tableau" width="40" height="40"/>
         </a>
     </div>
     <br/>
