@@ -65,7 +65,7 @@
     <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Yudisium dengan Metode Waterfall</strong> — (March 2024 - July 2024).</li>
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
-    <li><strong>Bangun Sistem Informasi PKM & Proposal</strong> — (August 2024 - Present).</li>
+    <li><strong>Rancang Bangun Sistem Informasi LPPM ITATS</strong> — (August 2024 - Present).</li>
 </ul>
 <p align="center">
 <!--     You can see more of my work experience, education, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>. -->
