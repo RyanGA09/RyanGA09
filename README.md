@@ -37,18 +37,45 @@
 
 # 💼 Work Experience
 <ul align="left">
-  <li><strong>Junior Web Developer</strong> — <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> (April 2023 - May 2023)</li> 
-  <li><strong>Independent Study - Independent Campus</strong> — <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> (February 2024 - June 2024)</li> 
-  <li><strong>Laboratory Assistant</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (September 2022 - August 2024)</li>
-  <li><strong>Laboratory Assistant - Treasurer</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (September 2023 - August 2024)</li> 
-  <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (May 2024 - July 2024)</li> 
-  <li><strong>Web Developer - Practical Work/Internship (KP)</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (March 2024 - July 2024)</li> 
+  <li>
+    <strong>Junior Web Developer</strong> — 
+    <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
+  </li> 
+  <li>
+    <strong>Independent Study - Independent Campus</strong> — 
+    <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
+  </li> 
+  <li>
+    <strong>Laboratory Assistant</strong> — 
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
+    <ul>
+      <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
+      <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Laboratory Assistant - Treasurer</strong> — 
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
+    <ul>
+      <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
+      <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+    </ul>
+  </li> 
+  <li>
+    <strong>Web Developer - Community Service Program/Field Work (KKN)</strong> — 
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [May 2024 - July 2024]
+  </li> 
+  <li>
+    <strong>Web Developer - Practical Work/Internship (KP)</strong> — 
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - July 2024]
+  </li> 
 </ul>
+
 
 # 🎓 Education
 <ul align="left">
-  <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> (2021 - Expected Graduation: 2025)</li>
-  <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> (2017 - Graduated: 2020)</li> 
+  <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [2021 - Expected Graduation: 2025]</li>
+  <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - Graduated: 2020]</li> 
 </ul>
 
 # 📕 Projects
