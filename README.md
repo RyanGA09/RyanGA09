@@ -8,17 +8,28 @@
   Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
 
-## 📊 GitHub Stats:
+# 🖧 GitHub
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
+    <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
 <br/>
 
+### 🔥 Streak Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak">
+</div>
+<br/>
+
+### 📊 Stats:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
+</div>
+<br/>
+
+### ⌨ Language:
+<div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide_progress=true&card_width=200" alt="Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide_progress=true&card_width=200" alt="Languages">
 </div>
 
 <!--
@@ -27,10 +38,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
 
-## 🏆 GitHub Trophies
+### 🏆 Trophies:
 <div align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Stats"> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight" alt="Stats">
+    <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight" alt="Stats">
 </div>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4) -->
@@ -93,29 +104,100 @@
 </p>
 
 # 🛠️ Skill and Tools:
-
-## ⚡ Skills:
+### 💡 Skills:
 <p align="left">
-<div style="display: flex; justify-content: space-between;">
-    <ul style="list-style-type: none; padding: 0;">
-        <h4>💪 Hard Skills</h4>
-        <li>Programming</li>
-        <li>Analysis</li>
-    </ul>
-    <ul style="list-style-type: none; padding: 0;">
-        <h4>🌱 Soft Skills</h4>
-        <li>Leadership</li>
-        <li>Problem Solving</li>
-        <li>Presentation</li>
-        <li>Team Work</li>
-        <li>Group Discussion</li>
-    </ul>
-</div>
+<!--     <div style="display: flex; justify-content: space-between;">
+        <ul style="list-style-type: none; padding: 0;">
+            <h4>💪 Hard Skills</h4>
+            <li>Web Development: HTML, CSS, JavaScript</li>
+            <li>Data Analysis: Excel, SQL, Python</li>
+            <li>Machine Learning: TensorFlow, Scikit-learn</li>
+            <li>Cloud Computing: AWS, Azure, Google Cloud</li>
+            <li>Cybersecurity: Network Security, Penetration Testing</li>
+            <li>Graphic Design: Adobe Photoshop, Illustrator</li>
+            <li>Project Management Tools: Trello, Jira, Asana</li>
+        </ul>
+        <ul style="list-style-type: none; padding: 0;">
+            <h4>🌱 Soft Skills</h4>
+            <li>Emotional Intelligence: Empathy, Self-awareness</li>
+            <li>Adaptability: Flexibility in changing environments</li>
+            <li>Conflict Resolution: Mediation skills</li>
+            <li>Critical Thinking: Analyzing situations effectively</li>
+            <li>Time Management: Prioritizing tasks efficiently</li>
+            <li>Networking: Building and maintaining professional relationships</li>
+            <li>Creativity: Thinking outside the box</li>
+        </ul>
+    </div> -->
+    <div style="display: flex; justify-content: space-between;">
+        <ul style="list-style-type: none; padding: 0;">
+            <h4>💪 Hard Skills</h4>
+            <li>Programming</li>
+            <li>Analysis</li>
+            <li>Web Development</li>
+            <li>Data Analysis</li>
+<!--             <li>Graphic Design</li>
+            <li>Machine Learning</li> -->
+<!--             <li>Cloud Computing</li>
+            <li>Cybersecurity</li>
+            <li>Project Management Tools</li> -->
+        </ul>
+        <ul style="list-style-type: none; padding: 0;">
+            <h4>🌱 Soft Skills</h4>
+            <li>Leadership</li>
+            <li>Problem Solving</li>
+            <li>Presentation</li>
+            <li>Team Work</li>
+            <li>Group Discussion</li>
+            <li>Critical Thinking</li>
+<!--             <li>Adaptability</li>
+            <li>Emotional Intelligence</li>
+            <li>Conflict Resolution</li>
+            <li>Time Management</li>
+            <li>Networking</li>
+            <li>Creativity</li> -->
+        </ul>
+    </div>
+<!--     <div style="display: flex; justify-content: space-between;">
+        <ul style="list-style-type: none; padding: 0;">
+            <h4>💪 Hard Skills</h4>
+            <li>Programming</li>
+            <li>Analysis</li>
+            <li>Web Development</li>
+            <li>Data Analysis</li>
+            <li>Machine Learning</li>
+            <li>Cloud Computing</li>
+            <li>Cybersecurity</li>
+            <li>Graphic Design</li>
+            <li>Project Management Tools</li>
+            <li>Database Management: SQL, NoSQL</li>
+            <li>Mobile App Development: iOS, Android</li>
+            <li>Version Control: Git, GitHub</li>
+            <li>API Development: REST, GraphQL</li>
+        </ul>
+        <ul style="list-style-type: none; padding: 0;">
+            <h4>🌱 Soft Skills</h4>
+            <li>Leadership</li>
+            <li>Problem Solving</li>
+            <li>Presentation</li>
+            <li>Team Work</li>
+            <li>Group Discussion</li>
+            <li>Emotional Intelligence</li>
+            <li>Adaptability</li>
+            <li>Conflict Resolution</li>
+            <li>Critical Thinking</li>
+            <li>Time Management</li>
+            <li>Networking</li>
+            <li>Creativity</li>
+            <li>Negotiation Skills</li>
+            <li>Interpersonal Skills</li>
+            <li>Mentoring</li>
+        </ul>
+    </div> -->
 </p>
 
-## 🔧 Tools:
+### ⚙️ Tools:
 <p align="left">
-    <h4>Programming Languages & Markup</h4>
+    <h4>🧑‍💻 Programming Languages & Markup</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -168,7 +250,7 @@
           <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
         </a>
     </div>
-    <h4 style="font-weight: bold; text-decoration: underline;">Development Frameworks, Tools & Databases</h4>
+    <h4 style="font-weight: bold; text-decoration: underline;">🛢💼🛠️ Development Frameworks, Tools & Databases</h4>
     <!-- Web Frameworks and Tools -->
 <!--     <h5>Web Frameworks and Tools</h5> -->
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -219,7 +301,7 @@
             <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
         </a>
     </div> -->
-    <h4>Data Science, Machine Learning, & Visualization Tools</h4>
+    <h4>🤖📊📈 Data Science, Machine Learning, & Visualization Tools</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -249,7 +331,7 @@
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
         </a> -->
     </div>
-    <h4>Version Control & Collaboration</h4>
+    <h4>⚡ Version Control & Collaboration</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -259,7 +341,7 @@
 <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
         </a>
     </div>
-    <h4>💻 Software & Tools</h4>
+    <h4>🖥️ Software & Tools</h4>
     <!-- Data Visualization Tools -->
 <!--     <h5>Data Visualization Tools</h5> -->
 <!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
@@ -306,12 +388,6 @@
         <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
             <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
         </a>
-        <a href="https://laragon.org/" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
-        </a>
-        <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
-        </a>
 <!--         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
             <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
         </a> -->
@@ -324,6 +400,15 @@
 <!--         <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
             <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
         </a> -->
+    </div>
+    <br/>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://laragon.org/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
+        </a>
+        <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
+        </a>
 <!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
         </a> -->
@@ -382,7 +467,7 @@
             <img src="https://www.vmix.com/images/vmix_logo.png" alt="vMix" width="40" height="40"/>
         </a> -->
     </div>
-    <h4>Most Used Browser</h4>
+    <h4>🌐 Most Used Browser</h4>
      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.google.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
@@ -397,7 +482,7 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
      </div>
-     <h4>Most Used Operating System</h4>
+     <h4>🌍 Most Used Operating System</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
@@ -422,7 +507,7 @@
     </ol>
 </p> -->
 
-# 🌐 Connect & Find Me:
+# 📬 Connect & Find Me:
 <p align="center">
     Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a> to find out more about me, my work experience, education and projects.
 </p>
