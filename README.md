@@ -93,29 +93,21 @@
 </p>
 
 # 🛠️ Skill and Tools:
-<!-- ## ⚡ Skills: -->
+
+## ⚡ Skills:
 <p align="left">
 <div style="display: flex; justify-content: space-between;">
-    <div>
-        <h3>💪 Hard Skills</h3>
-        <ul>
-            <li>Kolaborasi Tim</li>
-            <li>Pemecahan Masalah</li>
-            <li>Komunikasi Efektif</li>
-            <li>Manajemen Waktu</li>
-            <li>Adaptabilitas</li>
-        </ul>
-    </div>
-    <div>
-        <h3>🌱 Soft Skills</h3>
-        <ul>
-            <li>Kolaborasi Tim</li>
-            <li>Pemecahan Masalah</li>
-            <li>Komunikasi Efektif</li>
-            <li>Manajemen Waktu</li>
-            <li>Adaptabilitas</li>
-        </ul>
-    </div>
+    <ul style="list-style-type: none; padding: 0;">
+        <h4>💪 Hard Skills</h4>
+        <li>Programming</li>
+        <li>Analysis</li>
+    </ul>
+    <ul style="list-style-type: none; padding: 0;">
+        <h4>🌱 Soft Skills</h4>
+        <li>Leadership</li>
+        <li>Problem Solving</li>
+        <li>Presentation</li>
+    </ul>
 </div>
 </p>
 
@@ -185,10 +177,10 @@
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
         </a>
         <a href="https://laravel.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/>
         </a>
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40" />
         </a>
     </div>
     <br/>
@@ -276,6 +268,12 @@
         <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="Tableau" width="40" height="40"/>
         </a>
+        <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
+            <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
+        </a>
+<!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
+            <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
+        </a> -->
 <!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
             <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
         </a> -->
