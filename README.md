@@ -107,6 +107,8 @@
         <li>Leadership</li>
         <li>Problem Solving</li>
         <li>Presentation</li>
+        <li>Team Work</li>
+        <li>Group Discussion</li>
     </ul>
 </div>
 </p>
