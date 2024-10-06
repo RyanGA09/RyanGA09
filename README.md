@@ -95,22 +95,28 @@
 # 🛠️ Skill and Tools:
 <!-- ## ⚡ Skills: -->
 <p align="left">
-<!--     <h4>💪 Hard Skills</h4>
-    <ul>
-        <li>Kolaborasi Tim</li>
-        <li>Pemecahan Masalah</li>
-        <li>Komunikasi Efektif</li>
-        <li>Manajemen Waktu</li>
-        <li>Adaptabilitas</li>
-    </ul>
-    <h4>🌱 Soft Skills</h4>
-    <ul>
-        <li>Kolaborasi Tim</li>
-        <li>Pemecahan Masalah</li>
-        <li>Komunikasi Efektif</li>
-        <li>Manajemen Waktu</li>
-        <li>Adaptabilitas</li>
-    </ul> -->
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <h3>💪 Hard Skills</h3>
+        <ul>
+            <li>Kolaborasi Tim</li>
+            <li>Pemecahan Masalah</li>
+            <li>Komunikasi Efektif</li>
+            <li>Manajemen Waktu</li>
+            <li>Adaptabilitas</li>
+        </ul>
+    </div>
+    <div>
+        <h3>🌱 Soft Skills</h3>
+        <ul>
+            <li>Kolaborasi Tim</li>
+            <li>Pemecahan Masalah</li>
+            <li>Komunikasi Efektif</li>
+            <li>Manajemen Waktu</li>
+            <li>Adaptabilitas</li>
+        </ul>
+    </div>
+</div>
 </p>
 
 ## 🔧 Tools:
