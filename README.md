@@ -301,6 +301,9 @@
         <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
         </a>
+        <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
+            <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
+        </a>
         <a href="https://laragon.org/" target="_blank" rel="noreferrer">
             <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
         </a>
