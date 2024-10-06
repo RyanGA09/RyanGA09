@@ -23,6 +23,9 @@
 ### 📊 Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
+    <br/>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=000000&color=00ffe1&line=0008ff&point=fcfcfc&area=true&hide_border=true" /></a>
+
 </div>
 <br/>
 
