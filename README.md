@@ -3,16 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
 </p>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
+</div>
+<br/>
+
 # 💫 About Me:
 <p align="center">
   Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
 </p>
 
 # 🖧 GitHub
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
-</div>
-<br/>
 
 ### 🔥 Streak Stats:
 <div align="center">
@@ -32,7 +33,7 @@
 ### ⌨ Language:
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide_progress=true&card_width=200" alt="Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=15&hide_progress=false&card_width=350" alt="Languages">
 </div>
 
 <!--
