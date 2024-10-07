@@ -49,7 +49,11 @@
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4) -->
 
-# 💼 Work Experience
+# Qualification & Portfolio
+
+## Qualification
+
+### 💼 Work Experience
 <ul align="left">
   <li>
     <strong>Junior Web Developer</strong> — 
@@ -85,14 +89,15 @@
   </li> 
 </ul>
 
-
-# 🎓 Education
+### 🎓 Education
 <ul align="left">
   <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [2021 - Expected Graduation: 2025]</li>
   <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - Graduated: 2020]</li> 
 </ul>
 
-# 📕 Projects
+## Portfolio
+
+### 📕 Projects
 <ul align="left">
     <li><strong>
     Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
@@ -102,6 +107,7 @@
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
     <li><strong>Rancang Bangun Sistem Informasi LPPM ITATS</strong> — (August 2024 - Present).</li>
 </ul>
+
 <p align="center">
 <!--     You can see more of my work experience, education, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>. -->
 </p>
