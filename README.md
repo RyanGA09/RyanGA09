@@ -6,7 +6,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
-<br/>
 
 # 💫 About Me:
 <p align="center">
@@ -114,6 +113,7 @@
 </p>
 
 # 🛠️ Skill and Tools:
+
 ### 💡 Skills:
 <p align="left">
 <!--     <div style="display: flex; justify-content: space-between;">
@@ -341,7 +341,7 @@
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
         </a> -->
     </div>
-    <h4>⚡ Version Control & Collaboration</h4>
+    <h4> ⚡ Version Control & Collaboration</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -351,7 +351,7 @@
 <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
         </a>
     </div>
-    <h4>🖥️ Software & Tools</h4>
+    <h4> 🖥️ Software & Tools</h4>
     <!-- Data Visualization Tools -->
 <!--     <h5>Data Visualization Tools</h5> -->
 <!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
@@ -492,7 +492,7 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
      </div>
-     <h4>🌍 Most Used Operating System</h4>
+     <h4> 🌍 Most Used Operating System</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
@@ -568,7 +568,7 @@
     </a> -->
 </p>
 
-<!-- 💰 Support Me: -->
+<!-- # 💰 Support Me: -->
 <!-- <h3 align="left">Support Me</h3> -->
 <p align="left">
     <!-- BuyMeACoffee Badge -->
