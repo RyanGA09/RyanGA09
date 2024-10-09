@@ -141,8 +141,10 @@
             <h4>💪 Hard Skills</h4>
             <li>Programming</li>
             <li>Analysis</li>
-            <li>Web Development</li>
             <li>Data Analysis</li>
+            <li>FrontEnd Development</li>
+            <li>Web Development</li>
+            <li>UI Design</li>
 <!--             <li>Graphic Design</li>
             <li>Machine Learning</li> -->
 <!--             <li>Cloud Computing</li>
