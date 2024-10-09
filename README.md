@@ -341,6 +341,23 @@
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
         </a> -->
     </div>
+<!--     <br/> -->
+    <div style="display: flex; align-items: center; gap: 10px;">
+<!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+            <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
+        </a> -->
+<!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+           <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
+            <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
+        </a> -->
+<!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+            <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+            <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
+        </a> -->
+<!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+            <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
+        </a> -->
+    </div>
     <h4> ⚡ Version Control & Collaboration</h4>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
