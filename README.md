@@ -90,6 +90,7 @@
 ### 🎓 Education
 <ul align="left">
   <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [2021 - Expected Graduation: 2025]</li>
+<!--   <li><strong>Informatics Engineerin</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [2021 - Expected Graduation: 2025]</li> -->
   <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - Graduated: 2020]</li> 
 </ul>
 
