@@ -79,10 +79,11 @@
   </li> 
   <li>
     <strong>Web Developer</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - July 2024]
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
     <ul>
       <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
       <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
+      <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
     </ul>
   </li> 
 <!--   <li>
@@ -108,7 +109,8 @@
     <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Yudisium dengan Metode Waterfall</strong> — (March 2024 - July 2024).</li>
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
-    <li><strong>Rancang Bangun Sistem Informasi LPPM ITATS</strong> — (August 2024 - Present).</li>
+    <li><strong>
+Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</strong> — (August 2024 - Present).</li>
 </ul>
 
 <p align="center">
