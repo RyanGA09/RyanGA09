@@ -78,13 +78,17 @@
     </ul>
   </li> 
   <li>
-    <strong>Web Developer - Community Service Program/Field Work (KKN)</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [May 2024 - July 2024]
+    <strong>Web Developer</strong> — 
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - July 2024]
+    <ul>
+      <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
+      <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
+    </ul>
   </li> 
-  <li>
+<!--   <li>
     <strong>Web Developer - Practical Work/Internship (KP)</strong> — 
     <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - July 2024]
-  </li> 
+  </li>  -->
 </ul>
 
 ### 🎓 Education
