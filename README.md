@@ -94,9 +94,20 @@
 
 ### 🎓 Education
 <ul align="left">
-  <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [2021 - Expected Graduation: 2025]</li>
-<!--   <li><strong>Informatics Engineerin</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [2021 - Expected Graduation: 2025]</li> -->
-  <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - Graduated: 2020]</li> 
+  <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
+  <li>
+      <strong>MySkill Shortclass Monthly (2024)</strong> — 
+      <a href="https://myskill.id/">MySkill</a> [May 2024 - Present]
+      <ul>
+        <li><strong>Shortclass Monthly - May</strong> [May 2024 - May 2024]</li>
+        <li><strong>Shortclass Monthly - June</strong> [June 2024 - June 2024]</li>
+        <li><strong>Shortclass Monthly - July</strong> [July 2024 - July 2024]</li>
+        <li><strong>Shortclass Monthly - August</strong> [August 2024 - August 2024]</li>
+        <li><strong>Shortclass Monthly - September</strong> [September 2024 - September 2024]</li>
+        <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
+      </ul>
+  </li> 
+  <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
 </ul>
 
 ## Portfolio
