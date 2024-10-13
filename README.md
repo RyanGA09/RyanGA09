@@ -51,7 +51,7 @@
 
 ## Qualification
 
-### 💼 Work Experience
+### 💼 Work Experiences
 <ul align="left">
   <li>
     <strong>Junior Web Developer</strong> — 
@@ -92,7 +92,7 @@
   </li>  -->
 </ul>
 
-### 🎓 Education
+### 🎓 Educations
 <ul align="left">
   <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
   <li>
