@@ -385,6 +385,9 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
 <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
         </a>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+        </a>
     </div>
     <h4> 🖥️ Software & Tools</h4>
     <!-- Data Visualization Tools -->
