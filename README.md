@@ -590,9 +590,9 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
         <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="Follow on GitHub" />
     </a>
     <!-- GitLab Badge -->
-<!--     <a href="https://gitlab.com/dummy" target="_blank">
+    <a href="https://gitlab.com/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/GitLab-Follow-black?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
-    </a> -->
+    </a>
     <!-- Upwork Badge -->
 <!--     <a href="https://www.upwork.com/freelancers/~dummy" target="_blank">
         <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
