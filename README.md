@@ -1,16 +1,20 @@
-<h1 align="center">Greetings 👋, I'm Ryan Gading Abdullah</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
-</p>
+<div align="center">
+    <h1>Greetings 👋, I'm Ryan Gading Abdullah</h1>
+</div>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
+</div>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
 
 # 💫 About Me:
-<p align="center">
-  Hi, I'm Ryan, I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
-</p>
+<div align="center">
+    <p>
+      I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
+    </p>
+</div>
 
 # 🖧 GitHub
 
@@ -131,7 +135,7 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
 # 🛠️ Skill and Tools:
 
 ### 💡 Skills:
-<p align="left">
+<div align="left">
 <!--     <div style="display: flex; justify-content: space-between;">
         <ul style="list-style-type: none; padding: 0;">
             <h4>💪 Hard Skills</h4>
@@ -221,10 +225,10 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
             <li>Mentoring</li>
         </ul>
     </div> -->
-</p>
+</div>
 
 ### ⚙️ Tools:
-<p align="left">
+<div align="left">
     <h4>🧑‍💻 Programming Languages & Markup</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -289,10 +293,10 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
         </a>
         <a href="https://laravel.com" target="_blank" rel="noreferrer">
-            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
         </a>
         <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
         </a>
     </div>
     <br/>
@@ -545,7 +549,7 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple logo"  />
         </a> -->
     </div>
-</p>
+</div>
 
 <!-- ## Contoh Penerapan:
 <p align="left">
@@ -556,14 +560,18 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
 </p> -->
 
 # 📬 Connect & Find Me:
-<p align="center">
-    Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a> to find out more about me, my work experience, education and projects.
-</p>
-<p align="center">
-    You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
-</p>
+<div align="center">
+    <p>
+      Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a> to find out more about me, my work experience, education and projects.
+  </p>
+</div>
+<div align="center">
+    <p>
+      You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
+  </p>
+</div>
 </br>
-<p align="center">
+<div align="center">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
@@ -605,11 +613,11 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
         <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
     </a> -->
 <!--   Bitbucket -->
-</p>
+</div>
 
 <!-- # 💰 Support Me: -->
 <!-- <h3 align="left">Support Me</h3> -->
-<p align="left">
+<div align="left">
     <!-- BuyMeACoffee Badge -->
 <!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
@@ -642,4 +650,4 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
 <!--     <a href="https://trakteer.id/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
     </a> -->
-</p>
+</div>
