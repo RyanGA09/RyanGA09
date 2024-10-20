@@ -307,13 +307,13 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</str
 <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
             <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
         </a>
-<!--         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
         </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<!--         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-        </a>
-        <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        </a> -->
+<!--         <a href="https://redis.io/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
         </a> -->
     </div>
