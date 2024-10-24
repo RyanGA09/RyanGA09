@@ -73,14 +73,14 @@
       <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
     </ul>
   </li>
-  <li>
+<!--   <li>
     <strong>Laboratory Assistant - Treasurer</strong> — 
     <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
     <ul>
       <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
       <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
     </ul>
-  </li> 
+  </li>  -->
   <li>
     <strong>Web Developer</strong> — 
     <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
