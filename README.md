@@ -12,7 +12,9 @@
 # 💫 About Me:
 <div align="center">
     <p>
-      I am currently an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya. With a strong passion for data analysis and web development, I have honed my skills through various academic and professional experiences. My journey in the tech industry is complemented by my roles as a laboratory assistant and teaching assistant.
+      I am an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya, with a strong focus on data analysis and web development. Throughout my academic journey, I have gained valuable hands-on experience as a web developer, contributing to both academic and community service projects. In these roles, I focused on front-end development using frameworks like Laravel, Tailwind, and Bootstrap. These experiences have not only enhanced my technical skills but also allowed me to contribute to impactful digital solutions that benefit users.
+
+Previously, I served as a laboratory and teaching assistant for Structured Programming and Data Structures practicums, while also gaining organizational experience as the treasurer for the Programming Language Laboratory. My participation in the MIKTI MSIB Batch 6 program enhanced my data analysis skills, preparing me for a competitive career in technology.
     </p>
 </div>
 
