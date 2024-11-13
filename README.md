@@ -111,6 +111,7 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
         <li><strong>Shortclass Monthly - August</strong> [August 2024 - August 2024]</li>
         <li><strong>Shortclass Monthly - September</strong> [September 2024 - September 2024]</li>
         <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
+        <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
       </ul>
   </li> 
   <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
@@ -124,10 +125,10 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
     Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
     <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — (May 2024 - June 2024).</li>
     <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
-    <li><strong>Rancang Bangun Sistem Informasi Manajemen Yudisium dengan Metode Waterfall</strong> — (March 2024 - July 2024).</li>
+    <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
     <li><strong>
-Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat</strong> — (August 2024 - Present).</li>
+Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
 </ul>
 
 <p align="center">
