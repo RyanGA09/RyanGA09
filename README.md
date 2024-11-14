@@ -565,7 +565,7 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
 </p> -->
 
 # 📬 Connect & Find Me:
-<div align="center">
+ <!-- <div align="center">
     <p>
       Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a> to find out more about me, my work experience, education and projects.
   </p>
@@ -575,7 +575,7 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
       You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
   </p>
 </div>
-</br>
+</br> -->
 <div align="center">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
