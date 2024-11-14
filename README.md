@@ -1,5 +1,7 @@
 <div align="center">
-    <h1>Greetings 👋, I'm Ryan Gading Abdullah</h1>
+    <h1>Greetings 👋</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
+    </a>
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
