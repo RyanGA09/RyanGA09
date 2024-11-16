@@ -577,6 +577,14 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
 </div>
 </br> -->
 <div align="center">
+    <!-- Upwork Badge -->
+    <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
+        <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
+    </a>
+    <!-- Fiverr Badge -->
+<!--     <a href="https://www.fiverr.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
+    </a> -->
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
@@ -593,6 +601,18 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
 <!--     <a href="https://www.facebook.com/dummy" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
     </a> -->
+    <!-- GitHub Badge -->
+    <a href="https://github.com/RyanGA09" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
+    </a>
+    <!-- GitLab Badge -->
+    <a href="https://gitlab.com/RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/GitLab-Follow-FCA121?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
+    </a>
+    <!-- Bitbucket Badge -->
+<!--     <a href="https://bitbucket.org/RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/Bitbucket-Follow-blue?logo=bitbucket&style=for-the-badge" alt="Follow on Bitbucket" />
+    </a> -->
     <!-- Medium Badge -->
     <a href="https://medium.com/@ryangadingabdullah" target="blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
@@ -601,23 +621,6 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
         <img src="https://img.shields.io/badge/Tableau-View-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
-    <!-- GitHub Badge -->
-    <a href="https://github.com/RyanGA09" target="blank">
-        <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="Follow on GitHub" />
-    </a>
-    <!-- GitLab Badge -->
-    <a href="https://gitlab.com/RyanGA09" target="_blank">
-        <img src="https://img.shields.io/badge/GitLab-Follow-black?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
-    </a>
-    <!-- Upwork Badge -->
-    <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
-        <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
-    </a>
-    <!-- Fiverr Badge -->
-<!--     <a href="https://www.fiverr.com/dummy" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
-    </a> -->
-<!--   Bitbucket -->
 </div>
 
 <!-- # 💰 Support Me: -->
