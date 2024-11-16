@@ -610,9 +610,9 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
         <img src="https://img.shields.io/badge/GitLab-Follow-black?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
     </a>
     <!-- Upwork Badge -->
-<!--     <a href="https://www.upwork.com/freelancers/~dummy" target="_blank">
+    <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
         <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
-    </a> -->
+    </a>
     <!-- Fiverr Badge -->
 <!--     <a href="https://www.fiverr.com/dummy" target="_blank">
         <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
