@@ -172,6 +172,7 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
             <li>FrontEnd Development</li>
             <li>Web Development</li>
             <li>UI Design</li>
+            <li>Teaching</li>
 <!--             <li>Graphic Design</li>
             <li>Machine Learning</li> -->
 <!--             <li>Cloud Computing</li>
@@ -186,6 +187,7 @@ Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITAT
             <li>Team Work</li>
             <li>Group Discussion</li>
             <li>Critical Thinking</li>
+            <li>Communication</li>
 <!--             <li>Adaptability</li>
             <li>Emotional Intelligence</li>
             <li>Conflict Resolution</li>
