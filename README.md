@@ -61,43 +61,43 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
 
 ### 💼 Work Experiences
 <ul align="left">
-  <li>
-    <strong>Junior Web Developer</strong> — 
-    <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
-  </li> 
-  <li>
-    <strong>Independent Study - Independent Campus</strong> — 
-    <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
+    <li>
+    <strong>Web Developer</strong> — 
+    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
+    <ul>
+        <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
+        <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
+        <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
+    </ul>
   </li> 
   <li>
     <strong>Laboratory Assistant</strong> — 
     <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
     <ul>
-      <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
-      <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+        <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+        <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
     </ul>
   </li>
   <li>
     <strong>Laboratory Assistant - Treasurer</strong> — 
     <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
     <ul>
-      <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
-      <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
-    </ul>
-  </li> 
-  <li>
-    <strong>Web Developer</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
-    <ul>
-      <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
-      <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
-      <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
+        <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+        <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
     </ul>
   </li> 
 <!--   <li>
     <strong>Web Developer - Practical Work/Internship (KP)</strong> — 
     <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - July 2024]
   </li>  -->
+     <li>
+        <strong>Independent Study - Independent Campus</strong> — 
+        <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
+      </li> 
+    <li>
+        <strong>Junior Web Developer</strong> — 
+        <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
+    </li> 
 </ul>
 
 ### 🎓 Educations
@@ -107,13 +107,13 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
       <strong>MySkill Shortclass Monthly (2024)</strong> — 
       <a href="https://myskill.id/">MySkill</a> [May 2024 - Present]
       <ul>
-        <li><strong>Shortclass Monthly - May</strong> [May 2024 - May 2024]</li>
-        <li><strong>Shortclass Monthly - June</strong> [June 2024 - June 2024]</li>
-        <li><strong>Shortclass Monthly - July</strong> [July 2024 - July 2024]</li>
-        <li><strong>Shortclass Monthly - August</strong> [August 2024 - August 2024]</li>
-        <li><strong>Shortclass Monthly - September</strong> [September 2024 - September 2024]</li>
-        <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
-        <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
+          <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
+          <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
+          <li><strong>Shortclass Monthly - September</strong> [September 2024 - September 2024]</li>
+          <li><strong>Shortclass Monthly - August</strong> [August 2024 - August 2024]</li>
+          <li><strong>Shortclass Monthly - July</strong> [July 2024 - July 2024]</li>
+          <li><strong>Shortclass Monthly - June</strong> [June 2024 - June 2024]</li>
+          <li><strong>Shortclass Monthly - May</strong> [May 2024 - May 2024]</li>
       </ul>
   </li> 
   <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
@@ -123,15 +123,13 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
 
 ### 📕 Projects
 <ul align="left">
-    <li><strong>
-    Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
-    <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — (May 2024 - June 2024).</li>
-    <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
-    <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
+    <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
     <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
-    <li><strong>
-Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
-</ul>
+    <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
+    <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
+    <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — (May 2024 - June 2024).</li>
+    <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
+    </ul>
 
 <p align="center">
 <!--     You can see more of my work experience, education, and projects on my <a href="https://www.linkedin.com/in/ryan-gading-abdullah/details/projects/">LinkedIn</a>. -->
