@@ -38,10 +38,12 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
 ### ⌨ Language:
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=15&hide_progress=false&card_width=350" alt="Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&hide_progress=false&card_width=350" alt="Languages">
 </div>
 
 <!--
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
