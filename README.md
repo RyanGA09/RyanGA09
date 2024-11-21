@@ -4,7 +4,7 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=500&size=30&duration=1000&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
 </div>
 
 <div align="center">
