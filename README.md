@@ -4,7 +4,7 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Science;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Scientist;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -64,38 +64,34 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
 ### 💼 Work Experiences
 <ul align="left">
     <li>
-    <strong>Web Developer</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
-    <ul>
-        <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
-        <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
-        <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
-    </ul>
-  </li> 
-  <li>
-    <strong>Laboratory Assistant</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
-    <ul>
-        <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
-        <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Laboratory Assistant - Treasurer</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
-    <ul>
-        <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
-        <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
-    </ul>
-  </li> 
-<!--   <li>
-    <strong>Web Developer - Practical Work/Internship (KP)</strong> — 
-    <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - July 2024]
-  </li>  -->
-     <li>
+        <strong>Web Developer</strong> — 
+        <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
+        <ul>
+            <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
+            <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
+            <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
+        </ul>
+    </li> 
+    <li>
+        <strong>Laboratory Assistant</strong> — 
+        <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
+        <ul>
+            <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+            <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
+        </ul>
+    </li>
+    <li>
+        <strong>Laboratory Assistant - Treasurer</strong> — 
+        <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
+        <ul>
+            <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+            <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
+        </ul>
+    </li> 
+    <li>
         <strong>Independent Study - Independent Campus</strong> — 
         <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
-      </li> 
+    </li> 
     <li>
         <strong>Junior Web Developer</strong> — 
         <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
