@@ -64,6 +64,10 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
 ### 💼 Work Experiences
 <ul align="left">
     <li>
+        <strong>Writer</strong> — 
+        <a href="https://medium.com/">Medium</a> [November 2024 - Present]
+    </li> 
+    <li>
         <strong>Web Developer</strong> — 
         <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
         <ul>
