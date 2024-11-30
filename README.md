@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Greetings 👋</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
     </a>
 </div>
 <div align="center">
@@ -370,7 +370,30 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
         </a> -->
     </div>
-<!--     <br/> -->
+    <br/>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+            <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
+        </a>
+<!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+            <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+            <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
+        </a> -->
+        <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+            <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+        </a>
+<!--         <a href="https://lxml.de/" target="_blank" rel="noreferrer">
+            <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
+        </a> -->
+<!--         <a href="https://pythonhosted.org/pyquery/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/gawel/pyquery/master/docs/_static/pyquery-logo.png" alt="PyQuery" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
+            <img src="https://vectorseek.com/wp-content/uploads/2023/09/Puppeteer-Logo-Vector.svg-.png" alt="Puppeteer" width="30" height="40"/>
+        </a> -->
+    </div>
     <div style="display: flex; align-items: center; gap: 10px;">
 <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
             <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
@@ -416,6 +439,7 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
         </a>
 <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
             <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
+            <img src="https://img.apponic.com/39/219/f2e7b63321d32b52070b8012bde4c64f.png" alt="PowerDesigner" width="40" height="40"/>
         </a> -->
 <!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
             <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
