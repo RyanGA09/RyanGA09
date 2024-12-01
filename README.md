@@ -340,26 +340,26 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
             <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
         </a>
     </div> -->
-    <h4>🤖📊📈 Data Science, Machine Learning, & Visualization Tools</h4>
+<!--     <h4>🤖📊📈 Data Science, Machine Learning, & Visualization Tools</h4> -->
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<!--         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        </a>
-        <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        </a> -->
+<!--         <a href="https://numpy.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-        </a>
-        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        </a> -->
+<!--         <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-        </a>
-        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        </a> -->
+<!--         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
             <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-        </a>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        </a> -->
+<!--         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-        </a>
-        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        </a> -->
+<!--         <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-        </a>
+        </a> -->
 <!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
         </a> -->
@@ -370,20 +370,20 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
         </a> -->
     </div>
-    <br/>
+<!--     <br/> -->
     <div style="display: flex; align-items: center; gap: 10px;">
-        <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+<!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
             <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
-        </a>
+        </a> -->
 <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
             <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
         </a> -->
 <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
             <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
         </a> -->
-        <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+<!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
             <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-        </a>
+        </a> -->
 <!--         <a href="https://lxml.de/" target="_blank" rel="noreferrer">
             <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
         </a> -->
@@ -392,6 +392,194 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
         </a> -->
 <!--         <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
             <img src="https://vectorseek.com/wp-content/uploads/2023/09/Puppeteer-Logo-Vector.svg-.png" alt="Puppeteer" width="30" height="40"/>
+        </a> -->
+    </div>
+    <h4>🤖📊📈 Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Data Manipulation and Analysis Tools -->
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        </a>
+        <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+        </a>
+<!--         <a href="https://dask.org/" target="_blank" rel="noreferrer">
+            <img src="https://dask.org/assets/img/dask-logo.svg" alt="dask" width="40" height="40"/>
+        </a>
+        <a href="https://vaex.io/" target="_blank" rel="noreferrer">
+            <img src="https://vaex.io/images/vaex-logo.svg" alt="vaex" width="40" height="40"/>
+        </a>
+        <a href="https://modin.readthedocs.io/" target="_blank" rel="noreferrer">
+            <img src="https://modin.readthedocs.io/en/stable/_images/modin-logo.svg" alt="modin" width="40" height="40"/>
+        </a>
+        <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+        </a>
+        <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
+        </a> -->
+    </div>
+    <br/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Machine Learning Tools -->
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+        </a>
+<!--         <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
+            <img src="https://xgboost.readthedocs.io/en/latest/_static/xgboost-logo.png" alt="xgboost" width="40" height="40"/>
+        </a>
+        <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer">
+            <img src="https://lightgbm.readthedocs.io/en/latest/_images/lightgbm_logo.png" alt="lightgbm" width="40" height="40"/>
+        </a>
+        <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
+            <img src="https://catboost.ai/static/logo.svg" alt="catboost" width="40" height="40"/>
+        </a>
+        <a href="https://epistasislab.github.io/tpot/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/docs/_static/tpot_logo.png" alt="tpot" width="40" height="40"/>
+        </a>
+        <a href="https://www.h2o.ai/" target="_blank" rel="noreferrer">
+            <img src="https://www.h2o.ai/images/h2o-logo.png" alt="h2o" width="40" height="40"/>
+        </a>
+        <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+            <img src="https://mlflow.org/images/mlflow-logo-color.svg" alt="mlflow" width="40" height="40"/>
+        </a>
+        <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+            <img src="https://dvc.org/img/dvc-logo.svg" alt="dvc" width="40" height="40"/>
+        </a> -->
+    </div>
+    <br/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Deep Learning Frameworks -->
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+        </a>
+        <a href="https://keras.io/" target="_blank" rel="noreferrer">
+            <img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" alt="keras" width="100" height="35"/>
+        </a>
+<!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo.png" alt="pytorch" width="40" height="40"/>
+        </a>
+        <a href="https://theano.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Theano_logo.svg" alt="theano" width="40" height="40"/>
+        </a>
+        <a href="http://caffe.berkeleyvision.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Caffe_logo.png" alt="caffe" width="40" height="40"/>
+        </a>
+        <a href="https://mxnet.apache.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Apache_MXNet_logo.svg" alt="mxnet" width="40" height="40"/>
+        </a>
+        <a href="https://deeplearning4j.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/DeepLearning4J_logo.svg" alt="dl4j" width="40" height="40"/>
+        </a>
+        <a href="https://www.fast.ai/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
+        </a> -->
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Natural Language Processing (NLP) Tools -->
+<!--         <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_NLTK.svg" alt="nltk" width="40" height="40"/>
+        </a>
+        <a href="https://spacy.io/" target="_blank" rel="noreferrer">
+            <img src="https://spacy.io/static/img/spacy_logo.svg" alt="spacy" width="40" height="40"/>
+        </a>
+        <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+            <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+        </a>
+        <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/StanfordNLP_Logo.png" alt="stanford_nlp" width="40" height="40"/>
+        </a>
+        <a href="https://allennlp.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/AllenNLP_logo.png" alt="allennlp" width="40" height="40"/>
+        </a>
+        <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/master/gensim/resources/images/gen_logo.png" alt="gensim" width="40" height="40"/>
+        </a>
+        <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/sloria/TextBlob/master/docs/_static/textblob-logo.png" alt="textblob" width="40" height="40"/>
+        </a>
+        <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+            <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
+        </a>
+        <a href="https://fairseq.readthedocs.io/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Fairseq_logo.png" alt="fairseq" width="40" height="40"/>
+        </a> -->
+    </div>
+    <br/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Web Scraping Libraries -->
+        <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+            <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
+        </a>
+        <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+            <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+        </a>
+<!--         <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
+            <img src="https://requests-html.kennethreitz.org/img/logo.svg" alt="requests_html" width="40" height="40"/>
+        </a> -->
+        <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+            <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
+        </a>
+        <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+            <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
+        </a>
+<!--         <a href="https://pyquery.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+            <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> -->
+        </a>
+        <a href="https://lxml.de/" target="_blank" rel="noreferrer">
+            <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
+        </a>
+    </div>
+    <br/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Data Visualization Tools -->
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+        </a>
+        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+        </a>
+        <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+            <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"/>
+        </a>
+<!--         <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
+            <img src="https://bokeh.org/_images/bokeh-logo.svg" alt="bokeh" width="40" height="40"/>
+        </a>
+        <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
+            <img src="https://altair-viz.github.io/_static/altair-logo.svg" alt="altair" width="40" height="40"/>
+        </a>
+        <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/> -->
+        </a>
+    </div>
+<!--     <br/> -->
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Automation Tools -->
+<!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/docs/images/logo.png" alt="pyautogui" width="40" height="40"/>
+        </a>
+        <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+            <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
+        </a> -->
+    </div>
+<!--     <br/> -->
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <!-- Web Development Frameworks -->
+<!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="40" height="40"/>
+            <img src="https://mkornyev.github.io/my_images/django.png" alt="django" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+        </a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+            <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
+        </a>
+        <a href="https://trypyramid.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
         </a> -->
     </div>
     <div style="display: flex; align-items: center; gap: 10px;">
