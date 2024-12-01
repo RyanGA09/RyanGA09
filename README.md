@@ -507,7 +507,7 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
     </div>
     <br/>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <!-- Web Scraping Libraries -->
+        <!-- Web Scraping Tools -->
         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
             <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
         </a>
@@ -520,9 +520,9 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
             <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
         </a>
-        <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+<!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
             <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
-        </a>
+        </a> -->
 <!--         <a href="https://pyquery.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
         </a> -->
