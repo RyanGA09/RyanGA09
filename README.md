@@ -40,8 +40,12 @@
     </div>
     </br>
     <h3>📊 Profile Stats:</h3>
+    <h4>Github Stats</h4>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
+    </div>
+    <h4>Contribution Stats</h4>
+    <div align="center">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
     </div>
     </br>
@@ -111,7 +115,6 @@
             <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
         </li> 
     </ul>
-    </br>
     <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
     <ul align="left">
       <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
@@ -131,7 +134,6 @@
       </li> 
       <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
     </ul>
-    </br>
     <h2>Portfolio</h2>
     <h3><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h3>
     <ul align="left">
