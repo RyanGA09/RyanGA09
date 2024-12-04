@@ -715,6 +715,12 @@
     <!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
             </a> -->
+<!--             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
+                <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" alt="pgAdmin" width="40" height="40"/>
+            </a> -->
+<!--             <a href="https://www.mongodb.com/products/compass" target="_blank" rel="noreferrer">
+                <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
+            </a> -->
         </div>
         </br>
         <!-- Design Tools -->
