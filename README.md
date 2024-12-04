@@ -13,31 +13,34 @@
     <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
 
-# 💫 About Me:
-<div align="center">
-    <p>
-      I am an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya, with a strong focus on data analysis and web development. Throughout my academic journey, I have gained valuable hands-on experience as a web developer, contributing to both academic and community service projects. In these roles, I focused on front-end development using frameworks like Laravel, Tailwind, and Bootstrap. These experiences have not only enhanced my technical skills but also allowed me to contribute to impactful digital solutions that benefit users.
+<details>
+    <summary><h1>💫 About Me:</h1></summary>
+    <div align="center">
+        <p>
+            I am an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya, with a strong focus on data analysis and web development. Throughout my academic journey, I have gained valuable hands-on experience as a web developer, contributing to both academic and community service projects. In these roles, I focused on front-end development using frameworks like Laravel, Tailwind, and Bootstrap. These experiences have not only enhanced my technical skills but also allowed me to contribute to impactful digital solutions that benefit users.
+        </p>
+        <p>
+            Previously, I served as a laboratory and teaching assistant for Structured Programming and Data Structures practicums, while also gaining organizational experience as the treasurer for the Programming Language Laboratory. My participation in the MIKTI MSIB Batch 6 program enhanced my data analysis skills, preparing me for a competitive career in technology.
+        </p>
+    </div>
+</details>
 
-Previously, I served as a laboratory and teaching assistant for Structured Programming and Data Structures practicums, while also gaining organizational experience as the treasurer for the Programming Language Laboratory. My participation in the MIKTI MSIB Batch 6 program enhanced my data analysis skills, preparing me for a competitive career in technology.
-    </p>
-</div>
-
-# 🖧 GitHub
-
-### 🔥 Streak Stats:
+<details>
+    <summary><h1>🖧 GitHub Profiles</h1></summary>
+    <h2>🔥 Streak Stats:</h2>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak">
 </div>
 <br/>
 
-### 📊 Stats:
+<h2>📊 Profile Stats:</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
 
 </div>
 
-### ⌨ Language:
+<h2>⌨ Language:</h2>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&hide_progress=false&card_width=350" alt="Languages">
@@ -51,13 +54,14 @@ Previously, I served as a laboratory and teaching assistant for Structured Progr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
 
-### 🏆 Trophies:
+<h2>🏆 Trophies:</h2>
 <div align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Stats"> -->
     <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight" alt="Stats">
 </div>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4) -->
+</details>
 
 # Qualification & Portfolio
 
