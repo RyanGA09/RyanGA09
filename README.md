@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Greetings 👋</h1>
+    <h1>Greetings <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
     </a>
 </div>
@@ -31,7 +31,7 @@
 
 <details>
     <summary>
-        <h2>🖧 GitHub Profiles</h2>
+        <h2><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0461.gif" border="0" alt="animated-computer-image-0040" width="25" height="30"/> GitHub Profiles</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Streak Stats:</h3>
@@ -45,7 +45,7 @@
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
     </div>
     </br>
-    <h3>⌨ Language:</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Language:</h3>
     <div align="center">
     <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&hide_progress=false&card_width=350" alt="Languages">
@@ -57,7 +57,7 @@
     ![](https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false)</br>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
     -->
-    <h3>🏆 Trophies:</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Trophies:</h3>
     <div align="center">
     <!--   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Stats"> -->
         <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight" alt="Stats">
@@ -67,7 +67,7 @@
 
 <details>
     <summary>
-        <h2>🎓💼 Qualification & Portfolio</h2>
+        <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Qualification & <img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" alt="animated-bag-and-purse-image-0001" width="22" height="22"/> Portfolio</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3>Qualification:</h3>
@@ -133,7 +133,7 @@
     </ul>
     </br>
     <h2>Portfolio</h2>
-    <h3>📕 Projects</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h3>
     <ul align="left">
         <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
         <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
@@ -149,7 +149,7 @@
 
 <details>
     <summary>
-        <h2>🛠️ Skill and Tools</h2>
+        <h2><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0192.gif" border="0" alt="animated-tool-image-0192" width="22" height="22"/> Skill and Tools</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Skills:</h3>
@@ -160,13 +160,13 @@
                 <th>Skills</th>
             </tr>
             <tr>
-                <td>Hard Skills</td>
+                <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                 <td>
                     `Programming` `Analysis` `Data Analysis` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning`
                 </td>
             </tr>
             <tr>
-                <td>Soft Skills</td>
+                <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                 <td>`Leadership` `Problem Solving` `Presentation` `Team Work` `Group Discussion` ` Critical Thinking` `Communication`</td>
             </tr>
         </table>
@@ -264,7 +264,7 @@
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
     </br>
-    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Tools:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
         <h4>🧑‍💻 Programming Languages & Markup</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -641,7 +641,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
             </a>
         </div>
-        <h4> 🖥️ Software & Tools</h4>
+        <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Software & Tools</h4>
         <!-- Data Visualization Tools -->
     <!--     <h5>Data Visualization Tools</h5> -->
     <!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
@@ -768,7 +768,7 @@
                 <img src="https://www.vmix.com/images/vmix_logo.png" alt="vMix" width="40" height="40"/>
             </a> -->
         </div>
-        <h4>🌐 Most Used Browser</h4>
+        <h4><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0015.gif" border="0" alt="animated-world-globe-image-0015" width="22" height="22"/> Most Used Browser</h4>
          <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
             <a href="https://www.google.com/" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
@@ -783,7 +783,7 @@
                 <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
             </a>
          </div>
-         <h4> 🌍 Most Used Operating System</h4>
+         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" border="0" alt="animated-tool-image-0192" width="22" height="22"/> Most Used Operating System</h4>
         <div style="display: flex; align-items: center; gap: 10px;">
             <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
@@ -804,7 +804,7 @@
     
 <details>
     <summary>
-        <h2>📬 Connect & Find Me:</h2>
+        <h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
      <!-- <div align="center">
@@ -816,8 +816,8 @@
         <p>
           You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
       </p>
-    </div>
-    </br> -->
+    </div> -->
+    </br>
     <div align="center">
         <!-- LinkedIn Badge -->
         <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
@@ -863,6 +863,154 @@
         <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
             <img src="https://img.shields.io/badge/Tableau-View-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
         </a>
+        <!-- YouTube Badge -->
+<!--         <a href="https://www.youtube.com/channel/yourchannel" target="blank">
+            <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
+        </a> -->
+        <!-- Discord Badge -->
+<!--         <a href="https://discord.com/invite/yourserver" target="blank">
+            <img src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge" alt="Join on Discord" />
+        </a> -->
+        <!-- Behance Badge -->
+<!--         <a href="https://www.behance.net/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Behance-View-blue?logo=behance&style=for-the-badge" alt="View on Behance" />
+        </a> -->
+        <!-- Dribbble Badge -->
+<!--         <a href="https://dribbble.com/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Dribbble-Follow-pink?logo=dribbble&style=for-the-badge" alt="Follow on Dribbble" />
+        </a> -->
+        <!-- Pinterest Badge -->
+<!--         <a href="https://www.pinterest.com/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Pinterest-Follow-red?logo=pinterest&style=for-the-badge" alt="Follow on Pinterest" />
+        </a> -->
+        <!-- Snapchat Badge -->
+<!--         <a href="https://www.snapchat.com/add/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Snapchat-Follow-yellow?logo=snapchat&style=for-the-badge" alt="Follow on Snapchat" />
+        </a> -->
+        <!-- Stack Overflow Badge -->
+<!--         <a href="https://stackoverflow.com/users/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Stack_Overflow-Follow-orange?logo=stackoverflow&style=for-the-badge" alt="Follow on Stack Overflow" />
+        </a> -->
+        <!-- TikTok Badge -->
+<!--         <a href="https://www.tiktok.com/@yourusername" target="blank">
+            <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok" />
+        </a> -->
+        <!-- Blogger Blog Badge -->
+<!--         <a href="https://yourbloggerblog.blogspot.com" target="blank">
+            <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
+        </a> -->
+        <!-- WordPress Blog Badge -->
+<!--         <a href="https://yourwordpressblog.wordpress.com" target="blank">
+            <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
+        </a> -->
+        <!-- Jekyll/GitHub Pages Blog Badge -->
+<!--         <a href="https://yourusername.github.io" target="blank">
+            <img src="https://img.shields.io/badge/GitHub_Pages-Read-black?style=for-the-badge&logo=github" alt="Read My GitHub Pages Blog" />
+        </a> -->
+        <!-- Custom Blog Badge -->
+<!--         <a href="https://yourblog.com" target="blank">
+            <img src="https://img.shields.io/badge/Blog-Read-green?style=for-the-badge" alt="Read My Blog" />
+        </a> -->
+        <!-- Twitch Badge -->
+<!--         <a href="https://www.twitch.tv/yourchannel" target="blank">
+            <img src="https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch&style=for-the-badge" alt="Follow on Twitch" />
+        </a> -->
+        <!-- Reddit Badge -->
+<!--         <a href="https://www.reddit.com/u/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Reddit-Follow-orange?logo=reddit&style=for-the-badge" alt="Follow on Reddit" />
+        </a> -->
+        <!-- Vimeo Badge -->
+<!--         <a href="https://vimeo.com/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Vimeo-Subscribe-blue?logo=vimeo&style=for-the-badge" alt="Subscribe on Vimeo" />
+        </a> -->
+        <!-- GitHub Sponsors Badge -->
+<!--         <a href="https://github.com/sponsors/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
+        </a> -->
+        <!-- Quora Badge -->
+<!--         <a href="https://www.quora.com/profile/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
+        </a> -->
+        <!-- Spotify Badge -->
+<!--         <a href="https://open.spotify.com/user/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Spotify-Follow-green?logo=spotify&style=for-the-badge" alt="Follow on Spotify" />
+        </a> -->
+        <!-- Stack Exchange Badge -->
+<!--         <a href="https://stackexchange.com/users/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Stack_Exchange-Follow-blue?logo=stack-exchange&style=for-the-badge" alt="Follow on Stack Exchange" />
+        </a> -->
+        <!-- Steam Badge -->
+<!--         <a href="https://steamcommunity.com/id/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
+        </a> -->
+        <!-- GitHub Gist Badge -->
+<!--         <a href="https://gist.github.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Gist-View-yellow?logo=github&style=for-the-badge" alt="View my Gist" />
+        </a> -->
+        <!-- Eventbrite Badge -->
+<!--         <a href="https://www.eventbrite.com/o/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Eventbrite-Join-red?logo=eventbrite&style=for-the-badge" alt="Join on Eventbrite" />
+        </a> -->
+        <!-- Patreon Badge -->
+<!--         <a href="https://www.patreon.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
+        </a> -->
+        <!-- Kickstarter Badge -->
+<!--         <a href="https://www.kickstarter.com/profile/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Kickstarter-Support-orange?logo=kickstarter&style=for-the-badge" alt="Support on Kickstarter" />
+        </a> -->
+        <!-- Open Collective Badge -->
+<!--         <a href="https://opencollective.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Open_Collective-Support-blue?logo=opencollective&style=for-the-badge" alt="Support on Open Collective" />
+        </a> -->
+        <!-- Amazon Wishlist Badge -->
+<!--         <a href="https://www.amazon.com/hz/wishlist/ls/yourlist" target="blank">
+            <img src="https://img.shields.io/badge/Amazon_Wishlist-View-orange?logo=amazon&style=for-the-badge" alt="View my Amazon Wishlist" />
+        </a> -->
+        <!-- DeviantArt Badge -->
+<!--         <a href="https://www.deviantart.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/DeviantArt-Follow-darkgreen?logo=deviantart&style=for-the-badge" alt="Follow on DeviantArt" />
+        </a> -->
+        <!-- Vercel Badge -->
+<!--         <a href="https://vercel.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel&style=for-the-badge" alt="Deploy on Vercel" />
+        </a> -->
+        <!-- Netlify Badge -->
+<!--         <a href="https://www.netlify.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Netlify-Deploy-darkblue?logo=netlify&style=for-the-badge" alt="Deploy on Netlify" />
+        </a> -->
+        <!-- Heroku Badge -->
+<!--         <a href="https://www.heroku.com/yourapp" target="blank">
+            <img src="https://img.shields.io/badge/Heroku-Deploy-purple?logo=heroku&style=for-the-badge" alt="Deploy on Heroku" />
+        </a> -->
+        <!-- Cloudflare Badge -->
+<!--         <a href="https://www.cloudflare.com/yourprofile" target="blank">
+            <img src="https://img.shields.io/badge/Cloudflare-Use-green?logo=cloudflare&style=for-the-badge" alt="Use Cloudflare" />
+        </a> -->
+        <!-- Mailchimp Badge -->
+<!--         <a href="https://mailchimp.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Mailchimp-Subscribe-yellow?logo=mailchimp&style=for-the-badge" alt="Subscribe on Mailchimp" />
+        </a> -->
+        <!-- Mailgun Badge -->
+<!--         <a href="https://www.mailgun.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Mailgun-Send-emerald?logo=mailgun&style=for-the-badge" alt="Send with Mailgun" />
+        </a> -->
+        <!-- SendGrid Badge -->
+<!--         <a href="https://sendgrid.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/SendGrid-Send-blue?logo=sendgrid&style=for-the-badge" alt="Send with SendGrid" />
+        </a> -->
+        <!-- Trello Badge -->
+<!--         <a href="https://trello.com/yourusername" target="blank">
+            <img src="https://img.shields.io/badge/Trello-Organize-blue?logo=trello&style=for-the-badge" alt="Organize with Trello" />
+        </a> -->
+        <!-- Slack Badge -->
+<!--         <a href="https://slack.com/yourworkspace" target="blank">
+            <img src="https://img.shields.io/badge/Slack-Join-darkblue?logo=slack&style=for-the-badge" alt="Join on Slack" />
+        </a> -->
+        <!-- Notion Badge -->
+<!--         <a href="https://www.notion.so/yourworkspace" target="blank">
+            <img src="https://img.shields.io/badge/Notion-Organize-orange?logo=notion&style=for-the-badge" alt="Organize with Notion" />
+        </a> -->
     </div>
 </details>
 <!-- <details> -->
