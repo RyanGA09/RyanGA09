@@ -16,7 +16,7 @@
 
 <details>
     <summary>
-        <h2>💫 About Me:</h2>
+        <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> About Me:</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <div align="center">
@@ -34,7 +34,7 @@
         <h2>🖧 GitHub Profiles</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
-    <h3>🔥 Streak Stats:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Streak Stats:</h3>
     <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak">
     </div>
@@ -71,7 +71,7 @@
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3>Qualification:</h3>
-    <h4>💼 Work Experiences</h4>
+    <h4><img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" alt="animated-bag-and-purse-image-0001" width="22" height="22"/> Work Experiences</h4>
     <ul align="left">
         <li>
             <strong>Writer</strong> — 
@@ -112,7 +112,7 @@
         </li> 
     </ul>
     </br>
-    <h4>🎓 Educations:</h4>
+    <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
     <ul align="left">
       <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
       <li>
@@ -152,7 +152,7 @@
         <h2>🛠️ Skill and Tools</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
-    <h3>💡 Skills:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Skills:</h3>
     <div align="left">
         <table border="1" cellpadding="10" cellspacing="0">
             <tr>
@@ -264,7 +264,7 @@
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
     </br>
-    <h3>⚙️ Tools:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Tools:</h3>
     <div align="left">
         <h4>🧑‍💻 Programming Languages & Markup</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -628,7 +628,7 @@
                 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
             </a> -->
         </div>
-        <h4> ⚡ Version Control & Collaboration</h4>
+        <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Version Control & Collaboration</h4>
         <div style="display: flex; align-items: center; gap: 10px;">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
