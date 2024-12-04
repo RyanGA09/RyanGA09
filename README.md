@@ -39,7 +39,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak">
     </div>
     </br>
-    <h3>📊 Profile Stats:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Profile Stats:</h3>
     <h4>Github Stats</h4>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
@@ -71,7 +71,7 @@
 
 <details>
     <summary>
-        <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Qualification & <img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" alt="animated-bag-and-purse-image-0001" width="22" height="22"/> Portfolio</h2>
+        <h2><img src="https://www.animatedimages.org/data/media/1137/animated-diploma-and-graduation-image-0004.gif" border="0" alt="animated-diploma-and-graduation-image-0004" width="22" height="22"/> Qualification & Portfolio</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3>Qualification:</h3>
@@ -268,7 +268,7 @@
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
-        <h4>🧑‍💻 Programming Languages & Markup</h4>
+        <h4><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0462.gif" border="0" alt="animated-computer-image-0462" width="20" height="22"/> Programming Languages & Markup</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
             <a href="https://www.python.org" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -321,7 +321,7 @@
               <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
             </a>
         </div>
-        <h4 style="font-weight: bold; text-decoration: underline;">🛢💼🛠️ Development Frameworks, Tools & Databases</h4>
+        <h4 style="font-weight: bold; text-decoration: underline;"><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0108.gif" border="0" alt="animated-tool-image-0108" width="22" height="22"/> Development Frameworks, Tools & Databases</h4>
         <!-- Web Frameworks and Tools -->
     <!--     <h5>Web Frameworks and Tools</h5> -->
         <div style="display: flex; align-items: center; gap: 10px;">
@@ -426,7 +426,7 @@
                 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Puppeteer-Logo-Vector.svg-.png" alt="Puppeteer" width="30" height="40"/>
             </a> -->
         </div>
-        <h4>🤖📊📈 Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
+        <h4><img <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" border="0" width="20" height="20"/> Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
             <!-- Data Manipulation and Analysis Tools -->
             <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -630,7 +630,7 @@
                 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
             </a> -->
         </div>
-        <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Version Control & Collaboration</h4>
+        <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
         <div style="display: flex; align-items: center; gap: 10px;">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
