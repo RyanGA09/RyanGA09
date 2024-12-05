@@ -39,22 +39,15 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak">
     </div>
     </br>
-    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Profile Stats:</h3>
-    <h4>Github Stats</h4>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" width="22" height="22"/> Github Stats:</h3>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
     </div>
-    <h4>Contribution Stats</h4>
-    <div align="center">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
-    </div>
-    </br>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Language:</h3>
     <div align="center">
     <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&hide_progress=false&card_width=350" alt="Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=450" alt="Languages">
     </div>
-    </br>
     <!--
     ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
     ![](https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)</br>
@@ -64,9 +57,13 @@
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Trophies:</h3>
     <div align="center">
     <!--   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Stats"> -->
-        <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight" alt="Stats">
+        <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Stats">
     </div>
     <!-- ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4) -->
+    <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0366.gif" border="0" alt="animated-computer-image-0366" width="22" height="22"/> Contribution Stats</h3>
+    <div align="center">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
+    </div>
 </details>
 
 <details>
