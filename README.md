@@ -7,9 +7,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Scientist;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
 </div>
-
 </br>
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
@@ -45,7 +43,6 @@
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Language:</h3>
     <div align="center">
-    <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&langs_count=10" alt="Languages"> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=450" alt="Languages">
     </div>
     <!--
@@ -56,10 +53,8 @@
     -->
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Trophies:</h3>
     <div align="center">
-    <!--   <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="Stats"> -->
-        <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Stats">
+        <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&no-frame=false&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Stats">
     </div>
-    <!-- ![](https://github-profile-trophy.vercel.app/?username=RyanGA09&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4) -->
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0366.gif" border="0" alt="animated-computer-image-0366" width="22" height="22"/> Contribution Stats</h3>
     <div align="center">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
