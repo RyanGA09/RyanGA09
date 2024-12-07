@@ -32,17 +32,8 @@
         <h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
-     <!-- <div align="center">
-        <p>
-          Feel free to connect with me on <a href="https://www.linkedin.com/in/ryan-gading-abdullah/">LinkedIn</a> to find out more about me, my work experience, education and projects.
-      </p>
-    </div>
-    <div align="center">
-        <p>
-          You can also check out my work and projects on <a href="https://github.com/RyanGA09">GitHub</a>.
-      </p>
-    </div> -->
     </br>
+    <h3>My Social</h3>
     <div align="center">
         <!-- LinkedIn Badge -->
         <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
@@ -237,13 +228,9 @@
             <img src="https://img.shields.io/badge/Notion-Organize-orange?logo=notion&style=for-the-badge" alt="Organize with Notion" />
         </a> -->
     </div>
-</details>
-<!-- <details> -->
-<!--     <summary>
-        <h2>💰 Support Me:</h2>
-        </br>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" />
-    </summary> -->
+    </br>
+    <h2>💰 Support Me:</h2>
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" />
     <div align="left">
         <!-- BuyMeACoffee Badge -->
     <!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
@@ -278,7 +265,7 @@
             <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
         </a> -->
     </div>
-<!--</details> -->
+</details>
 
 <details>
     <summary>
@@ -414,97 +401,6 @@
                 <td>`Leadership` `Problem Solving` `Presentation` `Team Work` `Group Discussion` ` Critical Thinking` `Communication`</td>
             </tr>
         </table>
-    <!--     <div style="display: flex; justify-content: space-between;">
-            <ul style="list-style-type: none; padding: 0;">
-                <h4>💪 Hard Skills</h4>
-                <li>Web Development: HTML, CSS, JavaScript</li>
-                <li>Data Analysis: Excel, SQL, Python</li>
-                <li>Machine Learning: TensorFlow, Scikit-learn</li>
-                <li>Cloud Computing: AWS, Azure, Google Cloud</li>
-                <li>Cybersecurity: Network Security, Penetration Testing</li>
-                <li>Graphic Design: Adobe Photoshop, Illustrator</li>
-                <li>Project Management Tools: Trello, Jira, Asana</li>
-            </ul>
-            <ul style="list-style-type: none; padding: 0;">
-                <h4>🌱 Soft Skills</h4>
-                <li>Emotional Intelligence: Empathy, Self-awareness</li>
-                <li>Adaptability: Flexibility in changing environments</li>
-                <li>Conflict Resolution: Mediation skills</li>
-                <li>Critical Thinking: Analyzing situations effectively</li>
-                <li>Time Management: Prioritizing tasks efficiently</li>
-                <li>Networking: Building and maintaining professional relationships</li>
-                <li>Creativity: Thinking outside the box</li>
-            </ul>
-        </div> -->
-        <div style="display: flex; justify-content: space-between;">
-<!--             <h4>💪 Hard Skills</h4> -->
-            <ul style="list-style-type: none; padding: 0;">
-<!--                 <li>Programming</li>
-                <li>Analysis</li>
-                <li>Data Analysis</li>
-                <li>FrontEnd Development</li>
-                <li>Web Development</li>
-                <li>UI Design</li>
-                <li>Teaching</li>
-                <li>Graphic Design</li>
-                <li>Machine Learning</li> -->
-    <!--             <li>Cloud Computing</li>
-                <li>Cybersecurity</li>
-                <li>Project Management Tools</li> -->
-            </ul>
-<!--             <h4>🌱 Soft Skills</h4> -->
-            <ul style="list-style-type: none; padding: 0;">
-<!--                 <li>Leadership</li>
-                <li>Problem Solving</li>
-                <li>Presentation</li>
-                <li>Team Work</li>
-                <li>Group Discussion</li>
-                <li>Critical Thinking</li>
-                <li>Communication</li> -->
-    <!--             <li>Adaptability</li>
-                <li>Emotional Intelligence</li>
-                <li>Conflict Resolution</li>
-                <li>Time Management</li>
-                <li>Networking</li>
-                <li>Creativity</li> -->
-            </ul>
-        </div>
-    <!--     <div style="display: flex; justify-content: space-between;">
-            <ul style="list-style-type: none; padding: 0;">
-                <h4>💪 Hard Skills</h4>
-                <li>Programming</li>
-                <li>Analysis</li>
-                <li>Web Development</li>
-                <li>Data Analysis</li>
-                <li>Machine Learning</li>
-                <li>Cloud Computing</li>
-                <li>Cybersecurity</li>
-                <li>Graphic Design</li>
-                <li>Project Management Tools</li>
-                <li>Database Management: SQL, NoSQL</li>
-                <li>Mobile App Development: iOS, Android</li>
-                <li>Version Control: Git, GitHub</li>
-                <li>API Development: REST, GraphQL</li>
-            </ul>
-            <ul style="list-style-type: none; padding: 0;">
-                <h4>🌱 Soft Skills</h4>
-                <li>Leadership</li>
-                <li>Problem Solving</li>
-                <li>Presentation</li>
-                <li>Team Work</li>
-                <li>Group Discussion</li>
-                <li>Emotional Intelligence</li>
-                <li>Adaptability</li>
-                <li>Conflict Resolution</li>
-                <li>Critical Thinking</li>
-                <li>Time Management</li>
-                <li>Networking</li>
-                <li>Creativity</li>
-                <li>Negotiation Skills</li>
-                <li>Interpersonal Skills</li>
-                <li>Mentoring</li>
-            </ul>
-        </div> -->
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
     </br>
