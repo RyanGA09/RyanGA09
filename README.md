@@ -33,7 +33,7 @@
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     </br>
-    <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0012.gif" border="0" alt="animated-post-image-0012" width="22" height="22"/> My Social</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="22" height="22"/> My Social</h3>
     <div align="center">
         <!-- LinkedIn Badge -->
         <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
@@ -399,514 +399,475 @@
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
-        <h4><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0462.gif" border="0" alt="animated-computer-image-0462" width="20" height="22"/> Programming Languages & Markup</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <a href="https://www.python.org" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-            </a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-            </a>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-            </a>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-            </a>
-            <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-            </a>
-            <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-            </a>
-            <a href="https://www.script.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://dart.dev/" target="_blank">
-                <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
-            </a> -->
-    <!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;">
-                <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-            </a> -->
-            <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-                <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
-    <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
-            </a>
-        </div>
-        </br>
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <!-- Menambahkan bahasa markup -->
-            <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
-              <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
-            </a>
-            <a href="https://www.powershell.org/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-            </a>
-            <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-              <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
-            </a>
-        </div>
-        <h4 style="font-weight: bold; text-decoration: underline;"><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0108.gif" border="0" alt="animated-tool-image-0108" width="22" height="22"/> Development Frameworks, Tools & Databases</h4>
-        <!-- Web Frameworks and Tools -->
-    <!--     <h5>Web Frameworks and Tools</h5> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-            </a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-            </a>
-            <a href="https://laravel.com" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
-            </a>
-            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-            </a>
-        </div>
-        </br>
-        <!-- Databases -->
-    <!--     <h5>Databases</h5> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
-                <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
-            </a>
-            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://redis.io/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-            </a> -->
-        </div>
-        <!-- Mobile Development Tools -->
-    <!--     <h5>Mobile Development Frameworks & Tools</h5>
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
-            </a>
-            <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-                <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-            </a>
-            <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-                <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android Studio" width="40" height="40"/>
-            </a>
-            <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-                <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
-            </a>
-        </div> -->
-    <!--     <h4>🤖📊📈 Data Science, Machine Learning, & Visualization Tools</h4> -->
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    <!--         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-            </a> -->
-    <!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-            </a> -->
-    <!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;">
-                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-            </a> -->
-        </div>
-    <!--     </br> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-    <!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-                <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
-            </a> -->
-    <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-                <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://lxml.de/" target="_blank" rel="noreferrer">
-                <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
-            </a> -->
-    <!--         <a href="https://pythonhosted.org/pyquery/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/gawel/pyquery/master/docs/_static/pyquery-logo.png" alt="PyQuery" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
-                <img src="https://vectorseek.com/wp-content/uploads/2023/09/Puppeteer-Logo-Vector.svg-.png" alt="Puppeteer" width="30" height="40"/>
-            </a> -->
-        </div>
-        <h4><img <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" border="0" width="20" height="20"/> Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Data Manipulation and Analysis Tools -->
-            <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-            </a>
-            <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://dask.org/" target="_blank" rel="noreferrer">
-                <img src="https://dask.org/assets/img/dask-logo.svg" alt="dask" width="40" height="40"/>
-            </a>
-            <a href="https://vaex.io/" target="_blank" rel="noreferrer">
-                <img src="https://vaex.io/images/vaex-logo.svg" alt="vaex" width="40" height="40"/>
-            </a>
-            <a href="https://modin.readthedocs.io/" target="_blank" rel="noreferrer">
-                <img src="https://modin.readthedocs.io/en/stable/_images/modin-logo.svg" alt="modin" width="40" height="40"/>
-            </a>
-            <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
-            </a>
-            <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
-            </a> -->
-        </div>
-        </br>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Machine Learning Tools -->
-            <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-                <img src="https://xgboost.readthedocs.io/en/latest/_static/xgboost-logo.png" alt="xgboost" width="40" height="40"/>
-            </a>
-            <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer">
-                <img src="https://lightgbm.readthedocs.io/en/latest/_images/lightgbm_logo.png" alt="lightgbm" width="40" height="40"/>
-            </a>
-            <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
-                <img src="https://catboost.ai/static/logo.svg" alt="catboost" width="40" height="40"/>
-            </a>
-            <a href="https://epistasislab.github.io/tpot/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/docs/_static/tpot_logo.png" alt="tpot" width="40" height="40"/>
-            </a>
-            <a href="https://www.h2o.ai/" target="_blank" rel="noreferrer">
-                <img src="https://www.h2o.ai/images/h2o-logo.png" alt="h2o" width="40" height="40"/>
-            </a>
-            <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-                <img src="https://mlflow.org/images/mlflow-logo-color.svg" alt="mlflow" width="40" height="40"/>
-            </a>
-            <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-                <img src="https://dvc.org/img/dvc-logo.svg" alt="dvc" width="40" height="40"/>
-            </a> -->
-        </div>
-        </br>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Deep Learning Frameworks -->
-            <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-            </a>
-            <a href="https://keras.io/" target="_blank" rel="noreferrer">
-                <img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" alt="keras" width="100" height="35"/>
-            </a>
-    <!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo.png" alt="pytorch" width="40" height="40"/>
-            </a>
-            <a href="https://theano.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Theano_logo.svg" alt="theano" width="40" height="40"/>
-            </a>
-            <a href="http://caffe.berkeleyvision.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Caffe_logo.png" alt="caffe" width="40" height="40"/>
-            </a>
-            <a href="https://mxnet.apache.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Apache_MXNet_logo.svg" alt="mxnet" width="40" height="40"/>
-            </a>
-            <a href="https://deeplearning4j.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/DeepLearning4J_logo.svg" alt="dl4j" width="40" height="40"/>
-            </a>
-            <a href="https://www.fast.ai/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
-            </a> -->
-        </div>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Natural Language Processing (NLP) Tools -->
-    <!--         <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_NLTK.svg" alt="nltk" width="40" height="40"/>
-            </a>
-            <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-                <img src="https://spacy.io/static/img/spacy_logo.svg" alt="spacy" width="40" height="40"/>
-            </a>
-            <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-                <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
-            </a>
-            <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/StanfordNLP_Logo.png" alt="stanford_nlp" width="40" height="40"/>
-            </a>
-            <a href="https://allennlp.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/AllenNLP_logo.png" alt="allennlp" width="40" height="40"/>
-            </a>
-            <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/master/gensim/resources/images/gen_logo.png" alt="gensim" width="40" height="40"/>
-            </a>
-            <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/sloria/TextBlob/master/docs/_static/textblob-logo.png" alt="textblob" width="40" height="40"/>
-            </a>
-            <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-                <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
-            </a>
-            <a href="https://fairseq.readthedocs.io/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Fairseq_logo.png" alt="fairseq" width="40" height="40"/>
-            </a> -->
-        </div>
-        </br>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Web Scraping Tools -->
-            <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-                <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
-            </a>
-            <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
-                <img src="https://requests-html.kennethreitz.org/img/logo.svg" alt="requests_html" width="40" height="40"/>
-            </a> -->
-            <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-                <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://pyquery.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-                <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> -->
-            </a>
-            <a href="https://lxml.de/" target="_blank" rel="noreferrer">
-                <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
-            </a>
-        </div>
-        </br>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Data Visualization Tools -->
-            <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-            </a>
-            <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-            </a>
-            <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-                <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
-                <img src="https://bokeh.org/_images/bokeh-logo.svg" alt="bokeh" width="40" height="40"/>
-            </a>
-            <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
-                <img src="https://altair-viz.github.io/_static/altair-logo.svg" alt="altair" width="40" height="40"/>
-            </a>
-            <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/> -->
-            </a>
-        </div>
-    <!--     </br> -->
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Automation Tools -->
-    <!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/docs/images/logo.png" alt="pyautogui" width="40" height="40"/>
-            </a>
-            <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-                <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
-            </a> -->
-        </div>
-    <!--     </br> -->
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-            <!-- Web Development Frameworks -->
-    <!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="40" height="40"/>
-                <img src="https://mkornyev.github.io/my_images/django.png" alt="django" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-            </a>
-            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-                <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
-            </a>
-            <a href="https://trypyramid.com/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
-            </a> -->
-        </div>
-        <div style="display: flex; align-items: center; gap: 10px;">
-    <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-                <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-               <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
-                <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
-            </a> -->
-    <!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-                <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
-            </a> -->
-        </div>
-        <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-            </a>
-            <a href="https://github.com/" target="_blank" rel="noreferrer" >
-                <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
-    <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
-            </a>
-            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-            </a>
-        </div>
-        <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Software & Tools</h4>
-        <!-- Data Visualization Tools -->
-    <!--     <h5>Data Visualization Tools</h5> -->
-    <!--     <p>Alat yang digunakan untuk membuat visualisasi data yang menarik dan informatif, membantu dalam pengambilan keputusan berbasis data.</p> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
-            </a>
-            <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="Tableau" width="40" height="40"/>
-            </a>
-            <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
-                <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
-                <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
-                <img src="https://img.apponic.com/39/219/f2e7b63321d32b52070b8012bde4c64f.png" alt="PowerDesigner" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
-                <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-                <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="Power BI" width="30" height="40"/>
-            </a> -->
-    <!--         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-                <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
-            </a> -->
-        </div>
-        </br>
-        <!-- Development Tools -->
-    <!--     <h5>Development Tools</h5> -->
-    <!--     <p>Perangkat yang digunakan untuk pengembangan perangkat lunak, termasuk IDE, editor kode, dan platform kolaborasi.</p> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
-            </a>
-            <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
-            </a>
-            <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colaboratory" width="40" height="40"/>
-            </a>
-            <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-            </a>
-            <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
-                <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-                <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
-                <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-                <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
-            </a> -->
-        </div>
-        </br>
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://laragon.org/" target="_blank" rel="noreferrer">
-                <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
-            </a>
-            <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-                <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
-            </a> -->
-<!--             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
-                <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" alt="pgAdmin" width="40" height="40"/>
-            </a> -->
-<!--             <a href="https://www.mongodb.com/products/compass" target="_blank" rel="noreferrer">
-                <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
-            </a> -->
-        </div>
-        </br>
-        <!-- Design Tools -->
-    <!--     <h5>Design Tools</h5> -->
-    <!--     <p>Alat untuk mendesain antarmuka pengguna dan konten visual, membantu dalam proses kreatif dan kolaborasi tim.</p> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-            </a>
-            <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_XD_icon.svg/1024px-Adobe_XD_icon.svg.png" alt="Adobe XD" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.sketch.com/apps" target="_blank" rel="noreferrer">
-                <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-            </a> -->
-    <!--         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adobe_Photoshop_logo_2020.svg/2048px-Adobe_Photoshop_logo_2020.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
-            </a> -->
-        </div>
-        <!-- Streaming Tools -->
-        </br>
-    <!--     <h5>Streaming Tools</h5> -->
-    <!--     <p>Perangkat untuk merekam dan melakukan streaming video secara langsung, ideal untuk konten kreator dan penyiar.</p> -->
-        <div style="display: flex; align-items: center; gap: 10px;">
-            <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
-                <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
-            </a>
-    <!--         <a href="https://streamlabs.com/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Streamlabs_Logo.png/800px-Streamlabs_Logo.png" alt="Streamlabs" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.xsplit.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.xsplit.com/logo.svg" alt="XSplit" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-                <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.wirecast.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.wirecast.com/static/wirecast-5efc1d3d5c6b8e25c41f90cfefed7f6e.png" alt="Wirecast" width="40" height="40"/>
-            </a> -->
-    <!--         <a href="https://www.vmix.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vmix.com/images/vmix_logo.png" alt="vMix" width="40" height="40"/>
-            </a> -->
-        </div>
+        <table border="1" cellpadding="10" cellspacing="0">
+            <tr>
+                <th>Category</th>
+                <th>Tools</th>
+            </tr>
+            <tr>
+                <td>
+                    <h4><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0462.gif" border="0" alt="animated-computer-image-0462" width="20" height="22"/> Programming Languages & Markup</h4>
+                </td>
+                <td>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+                        </a>
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+                        </a>
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.script.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://dart.dev/" target="_blank">
+                            <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
+                        </a> -->
+                <!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;">
+                            <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+                        </a> -->
+                        <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+                            <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
+                <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
+                        </a>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <!-- Menambahkan bahasa markup -->
+                        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
+                        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.powershell.org/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+                        <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 style="font-weight: bold; text-decoration: underline;"><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0108.gif" border="0" alt="animated-tool-image-0108" width="22" height="22"/> Development Frameworks, Tools & Databases</h4>
+                </td>
+                <td>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+                        </a>
+                        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+                        </a>
+                        <a href="https://laravel.com" target="_blank" rel="noreferrer">
+                            <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+                        </a>
+                        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+                        </a>
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
+                            <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://redis.io/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4><img <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" border="0" width="20" height="20"/> Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
+                </td>
+                <td>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Data Manipulation and Analysis Tools -->
+                        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+                        </a>
+                        <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://dask.org/" target="_blank" rel="noreferrer">
+                            <img src="https://dask.org/assets/img/dask-logo.svg" alt="dask" width="40" height="40"/>
+                        </a>
+                        <a href="https://vaex.io/" target="_blank" rel="noreferrer">
+                            <img src="https://vaex.io/images/vaex-logo.svg" alt="vaex" width="40" height="40"/>
+                        </a>
+                        <a href="https://modin.readthedocs.io/" target="_blank" rel="noreferrer">
+                            <img src="https://modin.readthedocs.io/en/stable/_images/modin-logo.svg" alt="modin" width="40" height="40"/>
+                        </a>
+                        <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+                        </a>
+                        <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Machine Learning Tools -->
+                        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
+                            <img src="https://xgboost.readthedocs.io/en/latest/_static/xgboost-logo.png" alt="xgboost" width="40" height="40"/>
+                        </a>
+                        <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer">
+                            <img src="https://lightgbm.readthedocs.io/en/latest/_images/lightgbm_logo.png" alt="lightgbm" width="40" height="40"/>
+                        </a>
+                        <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
+                            <img src="https://catboost.ai/static/logo.svg" alt="catboost" width="40" height="40"/>
+                        </a>
+                        <a href="https://epistasislab.github.io/tpot/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/docs/_static/tpot_logo.png" alt="tpot" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.h2o.ai/" target="_blank" rel="noreferrer">
+                            <img src="https://www.h2o.ai/images/h2o-logo.png" alt="h2o" width="40" height="40"/>
+                        </a>
+                        <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+                            <img src="https://mlflow.org/images/mlflow-logo-color.svg" alt="mlflow" width="40" height="40"/>
+                        </a>
+                        <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+                            <img src="https://dvc.org/img/dvc-logo.svg" alt="dvc" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Deep Learning Frameworks -->
+                        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+                        </a>
+                        <a href="https://keras.io/" target="_blank" rel="noreferrer">
+                            <img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" alt="keras" width="100" height="35"/>
+                        </a>
+                <!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo.png" alt="pytorch" width="40" height="40"/>
+                        </a>
+                        <a href="https://theano.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Theano_logo.svg" alt="theano" width="40" height="40"/>
+                        </a>
+                        <a href="http://caffe.berkeleyvision.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Caffe_logo.png" alt="caffe" width="40" height="40"/>
+                        </a>
+                        <a href="https://mxnet.apache.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Apache_MXNet_logo.svg" alt="mxnet" width="40" height="40"/>
+                        </a>
+                        <a href="https://deeplearning4j.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/DeepLearning4J_logo.svg" alt="dl4j" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.fast.ai/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Natural Language Processing (NLP) Tools -->
+                <!--         <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_NLTK.svg" alt="nltk" width="40" height="40"/>
+                        </a>
+                        <a href="https://spacy.io/" target="_blank" rel="noreferrer">
+                            <img src="https://spacy.io/static/img/spacy_logo.svg" alt="spacy" width="40" height="40"/>
+                        </a>
+                        <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+                            <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+                        </a>
+                        <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/StanfordNLP_Logo.png" alt="stanford_nlp" width="40" height="40"/>
+                        </a>
+                        <a href="https://allennlp.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/AllenNLP_logo.png" alt="allennlp" width="40" height="40"/>
+                        </a>
+                        <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/master/gensim/resources/images/gen_logo.png" alt="gensim" width="40" height="40"/>
+                        </a>
+                        <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/sloria/TextBlob/master/docs/_static/textblob-logo.png" alt="textblob" width="40" height="40"/>
+                        </a>
+                        <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+                            <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
+                        </a>
+                        <a href="https://fairseq.readthedocs.io/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Fairseq_logo.png" alt="fairseq" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Web Scraping Tools -->
+                        <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+                            <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
+                        </a>
+                        <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+                            <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
+                            <img src="https://requests-html.kennethreitz.org/img/logo.svg" alt="requests_html" width="40" height="40"/>
+                        </a> -->
+                        <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+                            <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+                            <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://pyquery.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+                            <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> -->
+                        </a>
+                        <a href="https://lxml.de/" target="_blank" rel="noreferrer">
+                            <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
+                        </a>
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Data Visualization Tools -->
+                        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+                            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+                        </a>
+                        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+                        </a>
+                        <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+                            <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
+                            <img src="https://bokeh.org/_images/bokeh-logo.svg" alt="bokeh" width="40" height="40"/>
+                        </a>
+                        <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
+                            <img src="https://altair-viz.github.io/_static/altair-logo.svg" alt="altair" width="40" height="40"/>
+                        </a>
+                        <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/> -->
+                        </a>
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Automation Tools -->
+                <!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/docs/images/logo.png" alt="pyautogui" width="40" height="40"/>
+                        </a>
+                        <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+                            <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <!-- Web Development Frameworks -->
+                <!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="40" height="40"/>
+                            <img src="https://mkornyev.github.io/my_images/django.png" alt="django" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+                        </a>
+                        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+                            <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
+                        </a>
+                        <a href="https://trypyramid.com/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+                            <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+                        <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
+                            <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
+                        </a> -->
+                <!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+                            <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+                            <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+                            <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
+                </td>
+                <td>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+                        </a>
+                        <a href="https://github.com/" target="_blank" rel="noreferrer" >
+                            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
+                <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
+                        </a>
+                        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Software & Tools</h4>
+                </td>
+                <td>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+                            <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="Tableau" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
+                            <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
+                            <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
+                            <img src="https://img.apponic.com/39/219/f2e7b63321d32b52070b8012bde4c64f.png" alt="PowerDesigner" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
+                            <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+                            <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="Power BI" width="30" height="40"/>
+                        </a> -->
+                <!--         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+                            <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
+                        </a>
+                        <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+                            <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colaboratory" width="40" height="40"/>
+                        </a>
+                        <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
+                            <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+                            <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
+                            <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+                            <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://laragon.org/" target="_blank" rel="noreferrer">
+                            <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
+                        </a>
+                        <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+                            <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
+                        </a> -->
+            <!--             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
+                            <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" alt="pgAdmin" width="40" height="40"/>
+                        </a> -->
+            <!--             <a href="https://www.mongodb.com/products/compass" target="_blank" rel="noreferrer">
+                            <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+                    </a>
+                    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+                    </a>
+            <!--         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_XD_icon.svg/1024px-Adobe_XD_icon.svg.png" alt="Adobe XD" width="40" height="40"/>
+                    </a> -->
+            <!--         <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
+                    </a> -->
+            <!--         <a href="https://www.sketch.com/apps" target="_blank" rel="noreferrer">
+                        <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
+                    </a> -->
+            <!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+                    </a> -->
+            <!--         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
+                    </a> -->
+            <!--         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adobe_Photoshop_logo_2020.svg/2048px-Adobe_Photoshop_logo_2020.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
+                    </a> -->
+                </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
+                            <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://streamlabs.com/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Streamlabs_Logo.png/800px-Streamlabs_Logo.png" alt="Streamlabs" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.xsplit.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.xsplit.com/logo.svg" alt="XSplit" width="40" height="40"/>
+                        </a> -->
+                        <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+                            <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+                        </a>
+                <!--         <a href="https://www.wirecast.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.wirecast.com/static/wirecast-5efc1d3d5c6b8e25c41f90cfefed7f6e.png" alt="Wirecast" width="40" height="40"/>
+                        </a> -->
+                <!--         <a href="https://www.vmix.com/" target="_blank" rel="noreferrer">
+                            <img src="https://www.vmix.com/images/vmix_logo.png" alt="vMix" width="40" height="40"/>
+                        </a> -->
+                    </div>
+                </td>
+            </tr>
+            <!-- <tr>
+                <td>
+                    <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Mobile Development Frameworks & Tools</h4>
+                </td>
+                <td>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
+                    </a>
+                    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+                    </a>
+                    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+                        <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android Studio" width="40" height="40"/>
+                    </a>
+                    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+                        <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
+                    </a>
+                </div>
+                </td>
+            </tr> -->
+        </table>
+    </div>
+    <div align="left">
         <h4><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0015.gif" border="0" alt="animated-world-globe-image-0015" width="22" height="22"/> Most Used Browser</h4>
          <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
             <a href="https://www.google.com/" target="_blank" rel="noreferrer">
