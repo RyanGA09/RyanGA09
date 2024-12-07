@@ -33,7 +33,7 @@
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     </br>
-    <h3>My Social</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0012.gif" border="0" alt="animated-post-image-0012" width="22" height="22"/> My Social</h3>
     <div align="center">
         <!-- LinkedIn Badge -->
         <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
@@ -229,8 +229,7 @@
         </a> -->
     </div>
     </br>
-    <h2>💰 Support Me:</h2>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" />
+    <h2><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h2>
     <div align="left">
         <!-- BuyMeACoffee Badge -->
     <!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
@@ -285,12 +284,6 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=450" alt="Languages">
     </div>
-    <!--
-    ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-    ![](https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)</br>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=vue-dark&hide_border=false)</br>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-    -->
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Trophies:</h3>
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&no-frame=false&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Stats">
