@@ -399,19 +399,19 @@
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
-        <table border="1" cellpadding="10" cellspacing="0">
+        <table border="2" cellpadding="10" cellspacing="0" >
             <thead>
                 <tr>
-                    <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc;">Category</th>
-                    <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc;">Tools</th>
+                    <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Category</th>
+                    <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Tools</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0462.gif" border="0" alt="animated-computer-image-0462" width="20" height="22"/> Programming Languages & Markup</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.python.org" target="_blank" rel="noreferrer">
                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -465,11 +465,11 @@
                         </div>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0108.gif" border="0" alt="animated-tool-image-0108" width="22" height="22"/> Development Frameworks, Tools & Databases</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -501,11 +501,11 @@
                         </div>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" border="0" width="20" height="20"/> Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Data Manipulation and Analysis Tools -->
                             <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -705,11 +705,11 @@
                         </div>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -724,11 +724,11 @@
                         </div>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Software & Tools</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
@@ -847,11 +847,11 @@
                         </div>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0015.gif" border="0" alt="animated-world-globe-image-0015" width="22" height="22"/> Most Used Browser</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
@@ -868,11 +868,11 @@
                         </div>
                     </td>
                 </tr>
-                <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" border="0" alt="animated-tool-image-0192" width="22" height="22"/> Most Used Operating System</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
@@ -889,11 +889,11 @@
                         </div>
                     </td>
                 </tr>
-                <!-- <tr>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                <!-- <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Mobile Development Frameworks & Tools</h4>
                     </td>
-                    <td style="padding: 20px 10px; vertical-align: top;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; align-items: center; gap: 10px;">
                             <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
