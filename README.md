@@ -229,8 +229,8 @@
         </a> -->
     </div>
     </br>
-    <h2><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h2>
-    <div align="left">
+    <!-- <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
+    <div align="left"> -->
         <!-- BuyMeACoffee Badge -->
     <!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
             <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
