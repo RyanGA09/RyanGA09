@@ -1,9 +1,8 @@
 <div align="center">
-    <h1>Greetings<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
+    <h1>Greetings <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
     </a>
 </div>
-
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Scientist;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
 </div>
@@ -11,7 +10,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
-
 <details>
     <summary>
         <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> About Me:</h2>
@@ -33,11 +31,11 @@
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     </br>
-    <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="22" height="22"/> My Social</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="30" height="25"/> My Social</h3>
     <div align="center">
         <!-- LinkedIn Badge -->
         <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+            <img src="https://img.shields.io/badge/LinkedIn-Connect/Follow-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
         </a>
         <!-- Upwork Badge -->
         <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
@@ -77,7 +75,7 @@
         </a>
         <!-- Tableau Badge -->
         <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
-            <img src="https://img.shields.io/badge/Tableau-View-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
+            <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
         </a>
         <!-- YouTube Badge -->
 <!--         <a href="https://www.youtube.com/channel/yourchannel" target="blank">
