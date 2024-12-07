@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Greetings <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
+    <h1>Greetings<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
     </a>
 </div>
@@ -280,11 +280,11 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
     </div>
-    <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Language:</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Languages Stats:</h3>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=450" alt="Languages">
     </div>
-    <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Trophies:</h3>
+    <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Achievements Stats:</h3>
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=RyanGA09&no-frame=false&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Stats">
     </div>
@@ -441,17 +441,26 @@
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
                             </a>
                     <!--         <a href="https://dart.dev/" target="_blank">
-                                <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
+                                <img  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
                             </a> -->
                     <!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;">
                                 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+                            </a> -->
+                            <!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+                            </a> -->
+                            <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
                             </a> -->
                             <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
                     <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
                             </a>
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Menambahkan bahasa markup -->
                             <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
                             <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
@@ -470,7 +479,7 @@
                         <h4><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0108.gif" border="0" alt="animated-tool-image-0108" width="22" height="22"/> Development Frameworks, Tools & Databases</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
                             </a>
@@ -481,10 +490,13 @@
                                 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
                             </a>
                             <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
                             </a>
+                            <!-- <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
+                            </a> -->
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                     <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
                                 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
@@ -498,6 +510,9 @@
                     <!--         <a href="https://redis.io/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
                             </a> -->
+                            <!-- <a href="https://cassandra.apache.org/_/index.html" target="_blank">
+                                <img  src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40"/>
+                            </a>   -->
                         </div>
                     </td>
                 </tr>
@@ -652,15 +667,18 @@
                             <a href="https://plotly.com/" target="_blank" rel="noreferrer">
                                 <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
                                 <img src="https://bokeh.org/_images/bokeh-logo.svg" alt="bokeh" width="40" height="40"/>
                             </a>
                             <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
                                 <img src="https://altair-viz.github.io/_static/altair-logo.svg" alt="altair" width="40" height="40"/>
                             </a>
                             <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/> -->
-                            </a>
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" target="_blank" rel="noreferrer">
+                                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+                            </a> -->
                         </div>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Automation Tools -->
@@ -687,7 +705,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                     <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
                             </a> -->
@@ -710,7 +728,7 @@
                         <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
                             </a>
@@ -729,7 +747,7 @@
                         <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Software & Tools</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
                             </a>
@@ -753,7 +771,7 @@
                                 <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
                             </a>
@@ -782,7 +800,7 @@
                                 <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://laragon.org/" target="_blank" rel="noreferrer">
                                 <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
                             </a>
@@ -799,18 +817,36 @@
                                 <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
                             </a>
                             <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_XD_icon.svg/1024px-Adobe_XD_icon.svg.png" alt="Adobe XD" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
+                            <!-- <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg" alt="Adobe Dreamweaver" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="Adobe XD" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+                                <img  src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
+                                <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
+                                <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" width="40" height="40"/>
                             </a> -->
                     <!--         <a href="https://www.sketch.com/apps" target="_blank" rel="noreferrer">
                                 <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
@@ -821,11 +857,8 @@
                     <!--         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
                             </a> -->
-                    <!--         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adobe_Photoshop_logo_2020.svg/2048px-Adobe_Photoshop_logo_2020.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
-                            </a> -->
                         </div>
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
                                 <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
                             </a>
@@ -873,18 +906,24 @@
                         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" border="0" alt="animated-tool-image-0192" width="22" height="22"/> Most Used Operating System</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
                             </a>
                             <a href="https://www.android.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+                            <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
+                            </a>
+                            <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.linuxmint.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
                             </a>
                             <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple logo"  />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple logo"  />
                             </a> -->
                         </div>
                     </td>
@@ -894,7 +933,7 @@
                         <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Mobile Development Frameworks & Tools</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
                             </a>
