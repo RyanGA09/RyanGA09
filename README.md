@@ -374,20 +374,26 @@
     <h3>Latest Publications</h3>
     <div>
         <h4>Medium</h4>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-            <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
-                <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26">
-                    <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Google Colab Cloud Notebook" title="How to Use Google Colab with Free GPU/TPU Access" width="150" height="150" style="display: block; margin: 0 auto;">
-                </a>
-                <p style="margin-top: 5px; font-size: 14px;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
-            </div>
-            <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
-                <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590">
-                    <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from Books to Scrape with Python" width="300" height="150" style="display: block; margin: 0 auto;">
-                </a>
-                <p style="margin-top: 5px; font-size: 14px;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
-            </div>
-        </div>
+        <table border="1" cellpadding="10" cellspacing="0">
+            <tr>
+                <td>
+                    <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
+                        <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26">
+                            <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Google Colab Cloud Notebook" title="How to Use Google Colab with Free GPU/TPU Access" width="150" height="150" style="display: block; margin: 0 auto;">
+                        </a>
+                        <p style="margin-top: 5px; font-size: 14px;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
+                        <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590">
+                            <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from Books to Scrape with Python" width="300" height="150" style="display: block; margin: 0 auto;">
+                        </a>
+                        <p style="margin-top: 5px; font-size: 14px;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
+                    </div>
+                </td>
+            </tr>
+        </table>
     </div>
 </details>
 
