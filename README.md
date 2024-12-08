@@ -298,75 +298,97 @@
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3>Qualification:</h3>
-    <h4><img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" alt="animated-bag-and-purse-image-0001" width="22" height="22"/> Work Experiences</h4>
-    <ul align="left">
-        <li>
-            <strong>Writer</strong> — 
-            <a href="https://medium.com/">Medium</a> [November 2024 - Present]
-        </li> 
-        <li>
-            <strong>Web Developer</strong> — 
-            <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
-            <ul>
-                <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
-                <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
-                <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
-            </ul>
-        </li> 
-        <li>
-            <strong>Laboratory Assistant</strong> — 
-            <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
-            <ul>
-                <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
-                <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Laboratory Assistant - Treasurer</strong> — 
-            <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
-            <ul>
-                <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
-                <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
-            </ul>
-        </li> 
-        <li>
-            <strong>Independent Study - Independent Campus</strong> — 
-            <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
-        </li> 
-        <li>
-            <strong>Junior Web Developer</strong> — 
-            <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
-        </li> 
-    </ul>
-    <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
-    <ul align="left">
-      <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
-      <li>
-          <strong>MySkill Shortclass Monthly (2024)</strong> — 
-          <a href="https://myskill.id/">MySkill</a> [May 2024 - December 2024]
-          <ul>
-              <li><strong>Shortclass Monthly - December</strong> [December 2024 - December 2024]</li>
-              <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
-              <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
-              <li><strong>Shortclass Monthly - September</strong> [September 2024 - September 2024]</li>
-              <li><strong>Shortclass Monthly - August</strong> [August 2024 - August 2024]</li>
-              <li><strong>Shortclass Monthly - July</strong> [July 2024 - July 2024]</li>
-              <li><strong>Shortclass Monthly - June</strong> [June 2024 - June 2024]</li>
-              <li><strong>Shortclass Monthly - May</strong> [May 2024 - May 2024]</li>
-          </ul>
-      </li> 
-      <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
-    </ul>
-    <h2>Portfolio</h2>
-    <h3><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h3>
-    <ul align="left">
-        <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
-        <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
-        <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
-        <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
-        <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — (May 2024 - June 2024).</li>
-        <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
+    <div>
+        <h4><img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" alt="animated-bag-and-purse-image-0001" width="22" height="22"/> Work Experiences</h4>
+        <ul align="left">
+            <li>
+                <strong>Writer</strong> — 
+                <a href="https://medium.com/">Medium</a> [November 2024 - Present]
+            </li> 
+            <li>
+                <strong>Web Developer</strong> — 
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - Present]
+                <ul>
+                    <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
+                    <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
+                    <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
+                </ul>
+            </li> 
+            <li>
+                <strong>Laboratory Assistant</strong> — 
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
+                <ul>
+                    <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+                    <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Laboratory Assistant - Treasurer</strong> — 
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
+                <ul>
+                    <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
+                    <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
+                </ul>
+            </li> 
+            <li>
+                <strong>Independent Study - Independent Campus</strong> — 
+                <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
+            </li> 
+            <li>
+                <strong>Junior Web Developer</strong> — 
+                <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
+            </li> 
         </ul>
+        <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
+        <ul align="left">
+            <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
+            <li>
+                <strong>MySkill Shortclass Monthly (2024)</strong> — 
+                <a href="https://myskill.id/">MySkill</a> [May 2024 - December 2024]
+                <ul>
+                    <li><strong>Shortclass Monthly - December</strong> [December 2024 - December 2024]</li>
+                    <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
+                    <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
+                    <li><strong>Shortclass Monthly - September</strong> [September 2024 - September 2024]</li>
+                    <li><strong>Shortclass Monthly - August</strong> [August 2024 - August 2024]</li>
+                    <li><strong>Shortclass Monthly - July</strong> [July 2024 - July 2024]</li>
+                    <li><strong>Shortclass Monthly - June</strong> [June 2024 - June 2024]</li>
+                    <li><strong>Shortclass Monthly - May</strong> [May 2024 - May 2024]</li>
+                </ul>
+            </li> 
+            <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
+        </ul>
+    </div>
+    <h3>Portfolio</h3>
+    <div>
+        <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
+        <ul align="left">
+            <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
+            <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
+            <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
+            <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
+            <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — (May 2024 - June 2024).</li>
+            <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
+        </ul>
+    </div>
+    <h3>Latest Publications</h3>
+    <div>
+        <h4>Medium</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
+            <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
+                <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26">
+                    <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Google Colab Cloud Notebook" title="How to Use Google Colab with Free GPU/TPU Access" width="150" height="150" style="display: block; margin: 0 auto;">
+                </a>
+                <p style="margin-top: 5px; font-size: 14px;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
+            </div>
+            <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
+                <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590">
+                    <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from Books to Scrape with Python" width="300" height="150" style="display: block; margin: 0 auto;">
+                </a>
+                <p style="margin-top: 5px; font-size: 14px;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
+            </div>
+        </div>
+    </div>
 </details>
 
 <details>
