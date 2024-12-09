@@ -374,26 +374,24 @@
     <h3>Latest Publications</h3>
     <div>
         <h4>Medium</h4>
-        <table border="1" cellpadding="10" cellspacing="0" style="width: 100%; text-align: center;">
-            <tr>
-                <td>
-                    <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
-                        <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26" style="color: black; text-decoration: none;">
-                            <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Google Colab Cloud Notebook" title="How to Use Google Colab with Free GPU/TPU Access" width="150" height="150" style="display: block; margin: 0 auto;">
-                            <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
-                        </a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
-                        <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590" style="color: black; text-decoration: none;">
-                            <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from Books to Scrape with Python" width="300" height="150" style="display: block; margin: 0 auto;">
-                            <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
-                        </a>
-                    </div>
-                </td>
-            </tr>
-        </table>
+        <p align="left">
+            <div style="border: 1px solid #ddd; padding: 10px; width: 300px; text-align: center; margin-bottom: 20px; background-color: #f9f9f9;">
+                <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26" style="color: black; text-decoration: none;">
+                    <img width="250" src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="How to Use Google Colab with Free GPU/TPU Access" style="border: 1px solid #ddd; padding: 5px;">
+                    <br>
+                    <strong style="font-size: 14px; display: block; margin-top: 10px;">How to Use Google Colab with Free GPU/TPU Access</strong>
+                </a>
+            </div>
+        </p>
+        <p align="left">
+            <div style="border: 1px solid #ddd; padding: 10px; width: 300px; text-align: center; margin-bottom: 20px; background-color: #f9f9f9;">
+                <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590" style="color: black; text-decoration: none;">
+                    <img width="250" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" alt="Scraping Book Data from Books to Scrape with Python" style="border: 1px solid #ddd; padding: 5px;">
+                    <br>
+                    <strong style="font-size: 14px; display: block; margin-top: 10px;">Scraping Book Data from Books to Scrape with Python</strong>
+                </a>
+            </div>
+        </p>
     </div>
 </details>
 
