@@ -377,18 +377,18 @@
         <p align="left">
             <div style="border: 1px solid #ddd; padding: 10px; width: 300px; text-align: center; margin-bottom: 20px; background-color: #f9f9f9;">
                 <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26" style="color: black; text-decoration: none;">
-                    <img width="250" src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="How to Use Google Colab with Free GPU/TPU Access" style="border: 1px solid #ddd; padding: 5px;">
+                    <img width="100" src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="How to Use Google Colab with Free GPU/TPU Access" style="border: 1px solid #ddd; padding: 5px;">
                     <br>
-                    <strong style="font-size: 14px; display: block; margin-top: 10px;">How to Use Google Colab with Free GPU/TPU Access</strong>
+                    <strong style="font-size: 10px; display: block; margin-top: 10px;">How to Use Google Colab with Free GPU/TPU Access</strong>
                 </a>
             </div>
         </p>
         <p align="left">
             <div style="border: 1px solid #ddd; padding: 10px; width: 300px; text-align: center; margin-bottom: 20px; background-color: #f9f9f9;">
                 <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590" style="color: black; text-decoration: none;">
-                    <img width="250" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" alt="Scraping Book Data from Books to Scrape with Python" style="border: 1px solid #ddd; padding: 5px;">
+                    <img width="100" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" alt="Scraping Book Data from Books to Scrape with Python" style="border: 1px solid #ddd; padding: 5px;">
                     <br>
-                    <strong style="font-size: 14px; display: block; margin-top: 10px;">Scraping Book Data from Books to Scrape with Python</strong>
+                    <strong style="font-size: 10px; display: block; margin-top: 10px;">Scraping Book Data from Books to Scrape with Python</strong>
                 </a>
             </div>
         </p>
