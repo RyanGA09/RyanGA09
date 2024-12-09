@@ -374,7 +374,7 @@
     <h3>Latest Publications</h3>
     <div>
         <h4>Medium</h4>
-        <table border="2" cellpadding="10" cellspacing="0" style="width: 100%; text-align: center;">
+        <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
             <thead>
                 <tr>
                     <th style="text-align: center; padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Banner</th>
@@ -423,7 +423,7 @@
     </summary>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Skills:</h3>
     <div align="left">
-        <table border="1" cellpadding="10" cellspacing="0">
+        <table align="center" border="1" cellpadding="10" cellspacing="0">
             <tr>
                 <th>Category</th>
                 <th>Skills</th>
@@ -444,7 +444,7 @@
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
-        <table border="2" cellpadding="10" cellspacing="0" >
+        <table align="center" border="2" cellpadding="10" cellspacing="0" >
             <thead>
                 <tr>
                     <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Category</th>
