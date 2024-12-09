@@ -378,7 +378,7 @@
             <thead>
                 <tr>
                     <th style="text-align: center; padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Banner</th>
-                    <th style="text-align: center; padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Details</th>
+                    <th style="text-align: center; padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Titles</th>
                 </tr>
             </thead>
             <tbody>
@@ -387,13 +387,13 @@
                     <td>
                         <div align="center"; style="flex: 1 1 250px; max-width: 300px;">
                             <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26" style="color: black; text-decoration: none;">
-                                <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Google Colab Cloud Notebook" title="How to Use Google Colab with Free GPU/TPU Access" width="150" height="150" style="display: block; margin: 0 auto;">
+                                <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Cloud-Based Python Notebook: How to Use Google Colab with Free GPU/TPU Access" title="How to Use Google Colab with Free GPU/TPU Access" width="200" height="150" style="display: block; margin: 0 auto;">
                             </a>
                         </div>
                     </td>
                     <td>
                         <div align="center"; style="flex: 1 1 250px; max-width: 300px;">
-                            <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
+                            <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>Cloud-Based Python Notebook: How to Use Google Colab with Free GPU/TPU Access</strong></p>
                         </div>
                     </td>
                 </tr>
@@ -401,13 +401,13 @@
                     <td>
                         <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
                             <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590" style="color: black; text-decoration: none;">
-                                <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from Books to Scrape with Python" width="300" height="150" style="display: block; margin: 0 auto;">
+                                <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from “Books to Scrape” with Python: Basic Version (V1)" width="300" height="150" style="display: block; margin: 0 auto;">
                             </a>
                         </div>
                     </td>
                     <td>
                         <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
-                            <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
+                            <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>Scraping Book Data from “Books to Scrape” with Python: Basic Version (V1)</strong></p>
                         </div>
                     </td>
                 </tr>
@@ -505,6 +505,7 @@
                     <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
                             </a>
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Menambahkan bahasa markup -->
                             <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
@@ -541,6 +542,7 @@
                                 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                     <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
@@ -590,6 +592,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Machine Learning Tools -->
                             <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -617,6 +620,7 @@
                                 <img src="https://dvc.org/img/dvc-logo.svg" alt="dvc" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Deep Learning Frameworks -->
                             <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
@@ -644,6 +648,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Natural Language Processing (NLP) Tools -->
                     <!--         <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
@@ -674,6 +679,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Fairseq_logo.png" alt="fairseq" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Scraping Tools -->
                             <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
@@ -701,6 +707,7 @@
                                 <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
                             </a>
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Data Visualization Tools -->
                             <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
@@ -725,6 +732,7 @@
                                 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Automation Tools -->
                     <!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
@@ -734,6 +742,7 @@
                                 <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Development Frameworks -->
                     <!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -750,6 +759,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                     <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
