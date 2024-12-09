@@ -380,16 +380,16 @@
                     <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
                         <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26">
                             <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Google Colab Cloud Notebook" title="How to Use Google Colab with Free GPU/TPU Access" width="150" height="150" style="display: block; margin: 0 auto;">
+                            <p style="margin-top: 5px; font-size: 14px;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
                         </a>
-                        <p style="margin-top: 5px; font-size: 14px;"><strong>How to Use Google Colab with Free GPU/TPU Access</strong></p>
                     </div>
                 </td>
                 <td>
                     <div style="text-align: center; flex: 1 1 250px; max-width: 300px;">
                         <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590">
                             <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from Books to Scrape with Python" width="300" height="150" style="display: block; margin: 0 auto;">
+                            <p style="margin-top: 5px; font-size: 14px;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
                         </a>
-                        <p style="margin-top: 5px; font-size: 14px;"><strong>Scraping Book Data from Books to Scrape with Python</strong></p>
                     </div>
                 </td>
             </tr>
@@ -440,28 +440,28 @@
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
                             </a>
                             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
                             </a>
                             <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
                             </a>
                             <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
                             </a>
                             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
                             </a>
                             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
                             </a>
                             <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
                             </a>
                             <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
                             </a>
                             <a href="https://www.script.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -489,13 +489,13 @@
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Menambahkan bahasa markup -->
                             <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
-                            <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
+                                <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
                             </a>
                             <a href="https://www.powershell.org/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
                             </a>
                             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-                            <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
+                                <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
                             </a>
                         </div>
                     </td>
