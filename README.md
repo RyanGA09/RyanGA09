@@ -431,12 +431,12 @@
             <tr>
                 <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                 <td>
-                    `Programming` `Analysis` `Data Analysis` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning`
+                    `Programming` `Analysis` `Data Analysis` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Technical Writing` `Web Scraping`
                 </td>
             </tr>
             <tr>
                 <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
-                <td>`Leadership` `Problem Solving` `Presentation` `Team Work` `Group Discussion` ` Critical Thinking` `Communication`</td>
+                <td>`Leadership` `Problem Solving` `Presentations` `Listening` `Team Work` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`</td>
             </tr>
         </table>
     </div>
@@ -701,8 +701,22 @@
                                 <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
                             </a> -->
                     <!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> -->
-                            </a>
+                                <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+                            </a> -->
+                            <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+                                <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
+                            </a> -->
+                    <!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+                            <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
+                                <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
+                            </a> -->
+                    <!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+                                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+                                <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
+                            </a> -->
+                    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+                                <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
+                            </a> -->
                             <a href="https://lxml.de/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
                             </a>
@@ -732,7 +746,7 @@
                                 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
                             </a> -->
                         </div>
-                        </br>
+                        <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Automation Tools -->
                     <!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
@@ -742,7 +756,7 @@
                                 <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
                             </a> -->
                         </div>
-                        </br>
+                        <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Development Frameworks -->
                     <!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -759,23 +773,8 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
                             </a> -->
                         </div>
-                        </br>
-                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                    <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-                                <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-                            <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
-                                <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-                                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-                                <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
-                            </a> -->
-                        </div>
+                        <!-- </br> -->
+                        <!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div> -->
                     </td>
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
@@ -845,9 +844,9 @@
                     <!--         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
                             </a> -->
-                    <!--         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+                            <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
-                            </a> -->
+                            </a>
                     <!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
                                 <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
                             </a> -->
