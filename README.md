@@ -385,14 +385,14 @@
                 <!-- <tr></tr> -->
                 <tr>
                     <td>
-                        <div align="center"; style="flex: 1 1 250px; max-width: 300px;">
+                        <div align="center"; style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26" style="color: black; text-decoration: none;">
                                 <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Cloud-Based Python Notebook: How to Use Google Colab with Free GPU/TPU Access" title="How to Use Google Colab with Free GPU/TPU Access" width="200" height="150" style="display: block; margin: 0 auto;">
                             </a>
                         </div>
                     </td>
                     <td>
-                        <div align="center"; style="flex: 1 1 250px; max-width: 300px;">
+                        <div align="center"; style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <p style="margin-top: 5px; font-size: 14px; color: black;"><strong>Cloud-Based Python Notebook: How to Use Google Colab with Free GPU/TPU Access</strong></p>
                         </div>
                     </td>
