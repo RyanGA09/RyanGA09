@@ -416,6 +416,10 @@
                 </tr>
             </tbody>
         </table>
+        <!-- Menambahkan link ke halaman Medium untuk membaca lebih banyak artikel -->
+        <div align="center" style="margin-top: 20px;">
+            <p style="font-size: 16px; color: black;">Want to read more articles? Visit my <a href="https://medium.com/@ryangadingabdullah" style="color: blue; text-decoration: none;">Medium page</a> for more publications!</p>
+        </div>
     </div>
 </details>
 
