@@ -385,6 +385,22 @@
                 <tr>
                     <td>
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EIJyg5Z8ZFiXBb0s3--dGA.jpeg" title="Scraping Book Data from “Books to Scrape” with Python: Basic Version (V1)" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+                        </div>
+                    </td>
+                    <td>
+                        <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                            <details style="text-align: center;">
+                                <summary style="font-size: 14px; color: black; font-weight: bold;">Scraping Book Data from “Books to Scrape” with Python Using BeautifulSoup: Basic Version (V1)</summary>
+                                <p style="font-size: 12px; color: black;">This tutorial covers how to scrape book data from the "Books to Scrape" website using Python & BeautifulSoup. Learn the basics of web scraping techniques and automate data extraction.</p>
+                            </details>
+                            <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-using-beautifulsoup-basic-version-v1-29eb974a2384" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <img src="https://miro.medium.com/v2/resize:fit:520/format:webp/1*3N_kSQjXXlkLFFvMVPfq1w.png" alt="Cloud-Based Python Notebook: How to Use Google Colab with Free GPU/TPU Access" title="How to Use Google Colab with Free GPU/TPU Access" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                         </div>
                     </td>
@@ -395,22 +411,6 @@
                                 <p style="font-size: 12px; color: black;">This article explains how to utilize Google Colab for cloud-based Python notebooks, offering free access to powerful GPU/TPU resources for better performance and productivity.</p>
                             </details>
                             <a href="https://medium.com/@ryangadingabdullah/cloud-based-python-notebook-how-to-use-google-colab-with-free-gpu-tpu-access-d561a2109d26" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*6g6-MkU2B12N6o4TDbSYDQ.jpeg" title="Scraping Book Data from “Books to Scrape” with Python: Basic Version (V1)" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-                        </div>
-                    </td>
-                    <td>
-                        <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                            <details style="text-align: center;">
-                                <summary style="font-size: 14px; color: black; font-weight: bold;">Scraping Book Data from “Books to Scrape” with Python: Basic Version (V1)</summary>
-                                <p style="font-size: 12px; color: black;">This tutorial covers how to scrape book data from the "Books to Scrape" website using Python. Learn the basics of web scraping techniques and automate data extraction.</p>
-                            </details>
-                            <a href="https://medium.com/@ryangadingabdullah/scraping-book-data-from-books-to-scrape-with-python-basic-version-v1-95cf9b8bb590" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
                         </div>
                     </td>
                 </tr>
