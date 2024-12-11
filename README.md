@@ -359,6 +359,7 @@
             <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
         </ul>
     </div>
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
     <h3>Portfolio</h3>
     <div>
         <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
@@ -371,9 +372,11 @@
             <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
         </ul>
     </div>
-    <h3>Latest Publications</h3>
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
+    <h3>Publications</h3>
     <div>
         <h4>Medium</h4>
+        <h5>Latest Publications</h5>
         <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
             <thead>
                 <tr>
@@ -420,6 +423,14 @@
         <div align="center" style="margin-top: 20px;">
             <p style="font-size: 16px; color: black;">Want to read more articles? Visit my <a href="https://medium.com/@ryangadingabdullah" style="color: blue; text-decoration: none;">Medium page</a> for more publications!</p>
         </div>
+    </div>
+    <div>
+        <!-- <h4>Dev.To</h4>
+        <h5>Latest Publications</h5> -->
+        <!-- Menambahkan link ke halaman Medium untuk membaca lebih banyak artikel -->
+        <!-- <div align="center" style="margin-top: 20px;">
+            <p style="font-size: 16px; color: black;">Want to read more articles? Visit my <a href="https://medium.com/@ryangadingabdullah" style="color: blue; text-decoration: none;">Dev.To page</a> for more publications!</p>
+        </div> -->
     </div>
 </details>
 
@@ -695,7 +706,7 @@
                             <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
                                 <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
                                 <img src="https://requests-html.kennethreitz.org/img/logo.svg" alt="requests_html" width="40" height="40"/>
                             </a> -->
                             <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
@@ -753,6 +764,25 @@
                                 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Computer Vision Tools -->
+                            <!-- <a href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" target="_blank" rel="noreferrer">
+                                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+                                <img src="https://pillow.readthedocs.io/en/stable/_images/pillow-logo.png" alt="pillow" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://simplecv.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/SimpleCV_Logo.png" alt="simplecv" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://www.tensorflow.org/lite" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TensorFlow_logo.svg/120px-TensorFlow_logo.svg.png" alt="tensorflow_lite" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://detectron2.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/tools/logo.jpg" alt="detectron2" width="40" height="40"/>
+                            </a> -->
+                        </div>
                         <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Automation Tools -->
@@ -761,6 +791,15 @@
                             </a>
                             <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
                                 <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
+                            </a> 
+                            <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Ansible_Logo.png" alt="ansible" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.svg" alt="docker" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
                             </a> -->
                         </div>
                         <!-- </br> -->
