@@ -227,8 +227,8 @@
         </a> -->
     </div>
     </br>
-    <!-- <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
-    <div align="left"> -->
+    <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
+    <div align="left">
         <!-- BuyMeACoffee Badge -->
     <!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
             <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
@@ -242,9 +242,9 @@
             <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
         </a> -->
         <!-- Saweria Badge -->
-    <!--     <a href="https://saweria.co/yourusername" target="_blank">
+        <a href="https://saweria.co/RyanGA09" target="_blank">
             <img src="https://img.shields.io/badge/Saweria-Support-orange?logo=saweria&style=for-the-badge" alt="Support on Saweria" />
-        </a> -->
+        </a>
         <!-- Sociabuzz Badge -->
     <!--     <a href="https://sociabuzz.com/yourusername" target="_blank">
             <img src="https://img.shields.io/badge/Sociabuzz-Support-00C3FF?logo=sociabuzz&style=for-the-badge" alt="Support on Sociabuzz" />
