@@ -10,259 +10,200 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=RyanGA09&&style=flat-square" align="center"/>
 </div>
-<details>
-    <summary>
-        <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> About Me:</h2>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
-    </summary>
-    <div align="center">
-        <p>
-            I am an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya, with a strong focus on data analysis and web development. Throughout my academic journey, I have gained valuable hands-on experience as a web developer, contributing to both academic and community service projects. In these roles, I focused on front-end development using frameworks like Laravel, Tailwind, and Bootstrap. These experiences have not only enhanced my technical skills but also allowed me to contribute to impactful digital solutions that benefit users.
-        </p>
-        <p>
-            Previously, I served as a laboratory and teaching assistant for Structured Programming and Data Structures practicums, while also gaining organizational experience as the treasurer for the Programming Language Laboratory. My participation in the MIKTI MSIB Batch 6 program enhanced my data analysis skills, preparing me for a competitive career in technology.
-        </p>
-    </div>
-</details>
 
-<details>
-    <summary>
-        <h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
-    </summary>
-    </br>
-    <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="30" height="25"/> My Social</h3>
-    <div align="center">
-        <!-- LinkedIn Badge -->
-        <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect/Follow-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
-        </a>
-        <!-- Upwork Badge -->
-        <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
-            <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
-        </a>
-        <!-- Fiverr Badge -->
-    <!--     <a href="https://www.fiverr.com/dummy" target="_blank">
-            <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
-        </a> -->
-        <!-- Instagram Badge -->
-        <a href="https://www.instagram.com/ryan_g._a" target="blank">
-            <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
-        </a>
-        <!-- X (Twitter) Badge -->
-    <!--     <a href="https://twitter.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge" alt="Follow on X" />
-        </a> -->
-        <!-- Facebook Badge -->
-    <!--     <a href="https://www.facebook.com/dummy" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
-        </a> -->
-        <!-- GitHub Badge -->
-        <a href="https://github.com/RyanGA09" target="blank">
-            <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
-        </a>
-        <!-- GitLab Badge -->
-        <a href="https://gitlab.com/RyanGA09" target="_blank">
-            <img src="https://img.shields.io/badge/GitLab-Follow-FCA121?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
-        </a>
-        <!-- Bitbucket Badge -->
-    <!--     <a href="https://bitbucket.org/RyanGA09" target="_blank">
-            <img src="https://img.shields.io/badge/Bitbucket-Follow-blue?logo=bitbucket&style=for-the-badge" alt="Follow on Bitbucket" />
-        </a> -->
-        <!-- Medium Badge -->
-        <a href="https://medium.com/@ryangadingabdullah" target="blank">
-            <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
-        </a>
-        <!-- Tableau Badge -->
-        <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
-            <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
-        </a>
-        <!-- YouTube Badge -->
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> About Me:</h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
+<div align="center">
+    <p>
+        I am an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya, with a strong focus on data analysis and web development. Throughout my academic journey, I have gained valuable hands-on experience as a web developer, contributing to both academic and community service projects. In these roles, I focused on front-end development using frameworks like Laravel, Tailwind, and Bootstrap. These experiences have not only enhanced my technical skills but also allowed me to contribute to impactful digital solutions that benefit users.
+    </p>
+    <p>
+        Previously, I served as a laboratory and teaching assistant for Structured Programming and Data Structures practicums, while also gaining organizational experience as the treasurer for the Programming Language Laboratory. My participation in the MIKTI MSIB Batch 6 program enhanced my data analysis skills, preparing me for a competitive career in technology.
+    </p>
+</div>
+
+<h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
+</br>
+<h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="30" height="25"/> My Social</h3>
+<div align="center">
+    <!-- LinkedIn Badge -->
+    <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect/Follow-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+    </a>
+    <!-- Upwork Badge -->
+    <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
+        <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
+    </a>
+    <!-- Fiverr Badge -->
+<!--     <a href="https://www.fiverr.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
+    </a> -->
+    <!-- Instagram Badge -->
+    <a href="https://www.instagram.com/ryan_g._a" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
+    </a>
+    <!-- X (Twitter) Badge -->
+<!--     <a href="https://twitter.com/yourusername" target="blank">
+        <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge" alt="Follow on X" />
+    </a> -->
+    <!-- Facebook Badge -->
+<!--     <a href="https://www.facebook.com/dummy" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
+    </a> -->
+    <!-- GitHub Badge -->
+    <a href="https://github.com/RyanGA09" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
+    </a>
+    <!-- GitLab Badge -->
+    <a href="https://gitlab.com/RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/GitLab-Follow-FCA121?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
+    </a>
+    <!-- Bitbucket Badge -->
+<!--     <a href="https://bitbucket.org/RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/Bitbucket-Follow-blue?logo=bitbucket&style=for-the-badge" alt="Follow on Bitbucket" />
+    </a> -->
+    <!-- Medium Badge -->
+    <a href="https://medium.com/@ryangadingabdullah" target="blank">
+        <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
+    </a>
+    <!-- Tableau Badge -->
+    <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
+        <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
+    </a>
+    <!-- YouTube Badge -->
 <!--         <a href="https://www.youtube.com/channel/yourchannel" target="blank">
-            <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
-        </a> -->
-        <!-- Discord Badge -->
+        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
+    </a> -->
+    <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
-            <img src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge" alt="Join on Discord" />
-        </a> -->
-        <!-- Behance Badge -->
+        <img src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge" alt="Join on Discord" />
+    </a> -->
+    <!-- Behance Badge -->
 <!--         <a href="https://www.behance.net/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Behance-View-blue?logo=behance&style=for-the-badge" alt="View on Behance" />
-        </a> -->
-        <!-- Dribbble Badge -->
+        <img src="https://img.shields.io/badge/Behance-View-blue?logo=behance&style=for-the-badge" alt="View on Behance" />
+    </a> -->
+    <!-- Dribbble Badge -->
 <!--         <a href="https://dribbble.com/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Dribbble-Follow-pink?logo=dribbble&style=for-the-badge" alt="Follow on Dribbble" />
-        </a> -->
-        <!-- Pinterest Badge -->
+        <img src="https://img.shields.io/badge/Dribbble-Follow-pink?logo=dribbble&style=for-the-badge" alt="Follow on Dribbble" />
+    </a> -->
+    <!-- Pinterest Badge -->
 <!--         <a href="https://www.pinterest.com/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Pinterest-Follow-red?logo=pinterest&style=for-the-badge" alt="Follow on Pinterest" />
-        </a> -->
-        <!-- Snapchat Badge -->
-<!--         <a href="https://www.snapchat.com/add/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Snapchat-Follow-yellow?logo=snapchat&style=for-the-badge" alt="Follow on Snapchat" />
-        </a> -->
-        <!-- Stack Overflow Badge -->
+        <img src="https://img.shields.io/badge/Pinterest-Follow-red?logo=pinterest&style=for-the-badge" alt="Follow on Pinterest" />
+    </a> -->
+    <!-- Stack Overflow Badge -->
 <!--         <a href="https://stackoverflow.com/users/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Stack_Overflow-Follow-orange?logo=stackoverflow&style=for-the-badge" alt="Follow on Stack Overflow" />
-        </a> -->
-        <!-- TikTok Badge -->
+        <img src="https://img.shields.io/badge/Stack_Overflow-Follow-orange?logo=stackoverflow&style=for-the-badge" alt="Follow on Stack Overflow" />
+    </a> -->
+    <!-- TikTok Badge -->
 <!--         <a href="https://www.tiktok.com/@yourusername" target="blank">
-            <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok" />
-        </a> -->
-        <!-- Blogger Blog Badge -->
+        <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok" />
+    </a> -->
+    <!-- Blogger Blog Badge -->
 <!--         <a href="https://yourbloggerblog.blogspot.com" target="blank">
-            <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
-        </a> -->
-        <!-- WordPress Blog Badge -->
+        <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
+    </a> -->
+    <!-- WordPress Blog Badge -->
 <!--         <a href="https://yourwordpressblog.wordpress.com" target="blank">
-            <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
-        </a> -->
-        <!-- Jekyll/GitHub Pages Blog Badge -->
+        <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
+    </a> -->
+    <!-- Jekyll/GitHub Pages Blog Badge -->
 <!--         <a href="https://yourusername.github.io" target="blank">
-            <img src="https://img.shields.io/badge/GitHub_Pages-Read-black?style=for-the-badge&logo=github" alt="Read My GitHub Pages Blog" />
-        </a> -->
-        <!-- Custom Blog Badge -->
+        <img src="https://img.shields.io/badge/GitHub_Pages-Read-black?style=for-the-badge&logo=github" alt="Read My GitHub Pages Blog" />
+    </a> -->
+    <!-- Custom Blog Badge -->
 <!--         <a href="https://yourblog.com" target="blank">
-            <img src="https://img.shields.io/badge/Blog-Read-green?style=for-the-badge" alt="Read My Blog" />
-        </a> -->
-        <!-- Twitch Badge -->
+        <img src="https://img.shields.io/badge/Blog-Read-green?style=for-the-badge" alt="Read My Blog" />
+    </a> -->
+    <!-- Twitch Badge -->
 <!--         <a href="https://www.twitch.tv/yourchannel" target="blank">
-            <img src="https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch&style=for-the-badge" alt="Follow on Twitch" />
-        </a> -->
-        <!-- Reddit Badge -->
-<!--         <a href="https://www.reddit.com/u/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Reddit-Follow-orange?logo=reddit&style=for-the-badge" alt="Follow on Reddit" />
-        </a> -->
-        <!-- Vimeo Badge -->
+        <img src="https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch&style=for-the-badge" alt="Follow on Twitch" />
+    </a> -->
+    <!-- Vimeo Badge -->
 <!--         <a href="https://vimeo.com/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Vimeo-Subscribe-blue?logo=vimeo&style=for-the-badge" alt="Subscribe on Vimeo" />
-        </a> -->
-        <!-- GitHub Sponsors Badge -->
+        <img src="https://img.shields.io/badge/Vimeo-Subscribe-blue?logo=vimeo&style=for-the-badge" alt="Subscribe on Vimeo" />
+    </a> -->
+    <!-- GitHub Sponsors Badge -->
 <!--         <a href="https://github.com/sponsors/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
-        </a> -->
-        <!-- Quora Badge -->
+        <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
+    </a> -->
+    <!-- Quora Badge -->
 <!--         <a href="https://www.quora.com/profile/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
-        </a> -->
-        <!-- Spotify Badge -->
+        <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
+    </a> -->
+    <!-- Spotify Badge -->
 <!--         <a href="https://open.spotify.com/user/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Spotify-Follow-green?logo=spotify&style=for-the-badge" alt="Follow on Spotify" />
-        </a> -->
-        <!-- Stack Exchange Badge -->
-<!--         <a href="https://stackexchange.com/users/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Stack_Exchange-Follow-blue?logo=stack-exchange&style=for-the-badge" alt="Follow on Stack Exchange" />
-        </a> -->
-        <!-- Steam Badge -->
+        <img src="https://img.shields.io/badge/Spotify-Follow-green?logo=spotify&style=for-the-badge" alt="Follow on Spotify" />
+    </a> -->
+    <!-- Steam Badge -->
 <!--         <a href="https://steamcommunity.com/id/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
-        </a> -->
-        <!-- GitHub Gist Badge -->
-<!--         <a href="https://gist.github.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Gist-View-yellow?logo=github&style=for-the-badge" alt="View my Gist" />
-        </a> -->
-        <!-- Eventbrite Badge -->
+        <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
+    </a> -->
+    <!-- Eventbrite Badge -->
 <!--         <a href="https://www.eventbrite.com/o/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Eventbrite-Join-red?logo=eventbrite&style=for-the-badge" alt="Join on Eventbrite" />
-        </a> -->
-        <!-- Patreon Badge -->
+        <img src="https://img.shields.io/badge/Eventbrite-Join-red?logo=eventbrite&style=for-the-badge" alt="Join on Eventbrite" />
+    </a> -->
+    <!-- Patreon Badge -->
 <!--         <a href="https://www.patreon.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
-        </a> -->
-        <!-- Kickstarter Badge -->
-<!--         <a href="https://www.kickstarter.com/profile/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Kickstarter-Support-orange?logo=kickstarter&style=for-the-badge" alt="Support on Kickstarter" />
-        </a> -->
-        <!-- Open Collective Badge -->
-<!--         <a href="https://opencollective.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Open_Collective-Support-blue?logo=opencollective&style=for-the-badge" alt="Support on Open Collective" />
-        </a> -->
-        <!-- Amazon Wishlist Badge -->
-<!--         <a href="https://www.amazon.com/hz/wishlist/ls/yourlist" target="blank">
-            <img src="https://img.shields.io/badge/Amazon_Wishlist-View-orange?logo=amazon&style=for-the-badge" alt="View my Amazon Wishlist" />
-        </a> -->
-        <!-- DeviantArt Badge -->
+        <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
+    </a> -->
+    <!-- DeviantArt Badge -->
 <!--         <a href="https://www.deviantart.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/DeviantArt-Follow-darkgreen?logo=deviantart&style=for-the-badge" alt="Follow on DeviantArt" />
-        </a> -->
-        <!-- Vercel Badge -->
+        <img src="https://img.shields.io/badge/DeviantArt-Follow-darkgreen?logo=deviantart&style=for-the-badge" alt="Follow on DeviantArt" />
+    </a> -->
+    <!-- Vercel Badge -->
 <!--         <a href="https://vercel.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel&style=for-the-badge" alt="Deploy on Vercel" />
-        </a> -->
-        <!-- Netlify Badge -->
+        <img src="https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel&style=for-the-badge" alt="Deploy on Vercel" />
+    </a> -->
+    <!-- Netlify Badge -->
 <!--         <a href="https://www.netlify.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Netlify-Deploy-darkblue?logo=netlify&style=for-the-badge" alt="Deploy on Netlify" />
-        </a> -->
-        <!-- Heroku Badge -->
+        <img src="https://img.shields.io/badge/Netlify-Deploy-darkblue?logo=netlify&style=for-the-badge" alt="Deploy on Netlify" />
+    </a> -->
+    <!-- Heroku Badge -->
 <!--         <a href="https://www.heroku.com/yourapp" target="blank">
-            <img src="https://img.shields.io/badge/Heroku-Deploy-purple?logo=heroku&style=for-the-badge" alt="Deploy on Heroku" />
-        </a> -->
-        <!-- Cloudflare Badge -->
+        <img src="https://img.shields.io/badge/Heroku-Deploy-purple?logo=heroku&style=for-the-badge" alt="Deploy on Heroku" />
+    </a> -->
+    <!-- Cloudflare Badge -->
 <!--         <a href="https://www.cloudflare.com/yourprofile" target="blank">
-            <img src="https://img.shields.io/badge/Cloudflare-Use-green?logo=cloudflare&style=for-the-badge" alt="Use Cloudflare" />
-        </a> -->
-        <!-- Mailchimp Badge -->
-<!--         <a href="https://mailchimp.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Mailchimp-Subscribe-yellow?logo=mailchimp&style=for-the-badge" alt="Subscribe on Mailchimp" />
-        </a> -->
-        <!-- Mailgun Badge -->
-<!--         <a href="https://www.mailgun.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Mailgun-Send-emerald?logo=mailgun&style=for-the-badge" alt="Send with Mailgun" />
-        </a> -->
-        <!-- SendGrid Badge -->
-<!--         <a href="https://sendgrid.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/SendGrid-Send-blue?logo=sendgrid&style=for-the-badge" alt="Send with SendGrid" />
-        </a> -->
-        <!-- Trello Badge -->
-<!--         <a href="https://trello.com/yourusername" target="blank">
-            <img src="https://img.shields.io/badge/Trello-Organize-blue?logo=trello&style=for-the-badge" alt="Organize with Trello" />
-        </a> -->
-        <!-- Slack Badge -->
-<!--         <a href="https://slack.com/yourworkspace" target="blank">
-            <img src="https://img.shields.io/badge/Slack-Join-darkblue?logo=slack&style=for-the-badge" alt="Join on Slack" />
-        </a> -->
-        <!-- Notion Badge -->
-<!--         <a href="https://www.notion.so/yourworkspace" target="blank">
-            <img src="https://img.shields.io/badge/Notion-Organize-orange?logo=notion&style=for-the-badge" alt="Organize with Notion" />
-        </a> -->
-    </div>
-    </br>
-    <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
-    <div align="left">
-        <!-- BuyMeACoffee Badge -->
-    <!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
-        </a> -->
-        <!-- Ko-Fi Badge -->
-    <!--     <a href="https://ko-fi.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Ko--Fi-Support-blue?logo=ko-fi&style=for-the-badge" alt="Support on Ko-Fi" />
-        </a> -->
-        <!-- Patreon Badge -->
-    <!--     <a href="https://www.patreon.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
-        </a> -->
-        <!-- Saweria Badge -->
-        <a href="https://saweria.co/RyanGA09" target="_blank">
-            <img src="https://img.shields.io/badge/Saweria-Support-orange?logo=saweria&style=for-the-badge" alt="Support on Saweria" />
-        </a>
-        <!-- Sociabuzz Badge -->
-    <!--     <a href="https://sociabuzz.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Sociabuzz-Support-00C3FF?logo=sociabuzz&style=for-the-badge" alt="Support on Sociabuzz" />
-        </a> -->
-        <!-- Streamlabs Badge -->
-    <!--     <a href="https://streamlabs.com/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Streamlabs-Donate-green?logo=streamlabs&style=for-the-badge" alt="Donate with Streamlabs" />
-        </a> -->
-        <!-- Nyawer.co Badge -->
-    <!--     <a href="https://nyawer.co/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Nyawer-Support-red?logo=nyawer&style=for-the-badge" alt="Support on Nyawer.co" />
-        </a> -->
-        <!-- Trakteer Badge -->
-    <!--     <a href="https://trakteer.id/yourusername" target="_blank">
-            <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
-        </a> -->
-    </div>
-</details>
+        <img src="https://img.shields.io/badge/Cloudflare-Use-green?logo=cloudflare&style=for-the-badge" alt="Use Cloudflare" />
+    </a> -->
+</div>
+</br>
+<h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
+<div align="left">
+    <!-- BuyMeACoffee Badge -->
+<!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
+    </a> -->
+    <!-- Ko-Fi Badge -->
+<!--     <a href="https://ko-fi.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Ko--Fi-Support-blue?logo=ko-fi&style=for-the-badge" alt="Support on Ko-Fi" />
+    </a> -->
+    <!-- Patreon Badge -->
+<!--     <a href="https://www.patreon.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
+    </a> -->
+    <!-- Saweria Badge -->
+    <a href="https://saweria.co/RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/Saweria-Support-orange?logo=saweria&style=for-the-badge" alt="Support on Saweria" />
+    </a>
+    <!-- Sociabuzz Badge -->
+<!--     <a href="https://sociabuzz.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Sociabuzz-Support-00C3FF?logo=sociabuzz&style=for-the-badge" alt="Support on Sociabuzz" />
+    </a> -->
+    <!-- Streamlabs Badge -->
+<!--     <a href="https://streamlabs.com/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Streamlabs-Donate-green?logo=streamlabs&style=for-the-badge" alt="Donate with Streamlabs" />
+    </a> -->
+    <!-- Nyawer.co Badge -->
+<!--     <a href="https://nyawer.co/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Nyawer-Support-red?logo=nyawer&style=for-the-badge" alt="Support on Nyawer.co" />
+    </a> -->
+    <!-- Trakteer Badge -->
+<!--     <a href="https://trakteer.id/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
+    </a> -->
+</div>
 
 <details>
     <summary>
