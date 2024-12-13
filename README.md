@@ -24,7 +24,6 @@
 
 <h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
-</br>
 <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="30" height="25"/> My Social</h3>
 <div align="center">
     <!-- LinkedIn Badge -->
@@ -907,12 +906,6 @@
                             <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
                                 <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://streamlabs.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Streamlabs_Logo.png/800px-Streamlabs_Logo.png" alt="Streamlabs" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.xsplit.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.xsplit.com/logo.svg" alt="XSplit" width="40" height="40"/>
-                            </a> -->
                             <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
                             </a>
