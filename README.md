@@ -667,7 +667,8 @@
                             <!-- GUI Development/ Desktop Applications -->
                             <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
                                 <!-- <img src="https://i.morioh.com/2019/11/20/e508febfbc11.jpg" alt="Tkinter" width="40" height="40"/> -->
-                                <img src="https://thedeveloperblog.com/tutorial/python/images/tkinter-tutorial.png" alt="Tkinter" width="40" height="40"/>
+                                <!-- <img src="https://thedeveloperblog.com/tutorial/python/images/tkinter-tutorial.png" alt="Tkinter" width="40" height="40"/> -->
+                                <img src="https://i0.wp.com/pythonprogramming.altervista.org/wp-content/uploads/2023/07/image-26.png" alt="Tkinter" width="40" height="40"/>
                             </a>
                         </div>
                         </br>
