@@ -34,22 +34,10 @@
     <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
         <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
     </a>
-    <!-- Fiverr Badge -->
-<!--     <a href="https://www.fiverr.com/dummy" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-Hire-1DBF73?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
-    </a> -->
     <!-- Instagram Badge -->
     <a href="https://www.instagram.com/ryan_g._a" target="blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
     </a>
-    <!-- X (Twitter) Badge -->
-<!--     <a href="https://twitter.com/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge" alt="Follow on X" />
-    </a> -->
-    <!-- Facebook Badge -->
-<!--     <a href="https://www.facebook.com/dummy" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
-    </a> -->
     <!-- GitHub Badge -->
     <a href="https://github.com/RyanGA09" target="blank">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
@@ -94,10 +82,6 @@
 <!--         <a href="https://stackoverflow.com/users/yourprofile" target="blank">
         <img src="https://img.shields.io/badge/Stack_Overflow-Follow-orange?logo=stackoverflow&style=for-the-badge" alt="Follow on Stack Overflow" />
     </a> -->
-    <!-- TikTok Badge -->
-<!--         <a href="https://www.tiktok.com/@yourusername" target="blank">
-        <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok" />
-    </a> -->
     <!-- Blogger Blog Badge -->
 <!--         <a href="https://yourbloggerblog.blogspot.com" target="blank">
         <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
@@ -138,10 +122,6 @@
 <!--         <a href="https://steamcommunity.com/id/yourusername" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a> -->
-    <!-- Eventbrite Badge -->
-<!--         <a href="https://www.eventbrite.com/o/yourprofile" target="blank">
-        <img src="https://img.shields.io/badge/Eventbrite-Join-red?logo=eventbrite&style=for-the-badge" alt="Join on Eventbrite" />
-    </a> -->
     <!-- Patreon Badge -->
 <!--         <a href="https://www.patreon.com/yourusername" target="blank">
         <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
@@ -170,14 +150,6 @@
 </br>
 <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
 <div align="left">
-    <!-- BuyMeACoffee Badge -->
-<!--     <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buymeacoffee&style=for-the-badge" alt="Support on BuyMeACoffee" />
-    </a> -->
-    <!-- Ko-Fi Badge -->
-<!--     <a href="https://ko-fi.com/yourusername" target="_blank">
-        <img src="https://img.shields.io/badge/Ko--Fi-Support-blue?logo=ko-fi&style=for-the-badge" alt="Support on Ko-Fi" />
-    </a> -->
     <!-- Patreon Badge -->
 <!--     <a href="https://www.patreon.com/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
@@ -393,7 +365,7 @@
             <tr>
                 <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                 <td>
-                    `Programming` `Analysis` `Data Analysis` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Technical Writing` `Web Scraping`
+                    `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing`
                 </td>
             </tr>
             <tr>
@@ -507,7 +479,6 @@
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                    <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
                                 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
                             </a>
                             <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -636,48 +607,35 @@
                             </a>
                             <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
                                 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
-                            </a>
-                            <a href="https://fairseq.readthedocs.io/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Fairseq_logo.png" alt="fairseq" width="40" height="40"/>
                             </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Scraping Tools -->
                             <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+                                <!-- <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/> -->
                                 <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
                             </a>
                             <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
                                 <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+                                <!-- <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/> -->
                             </a>
                             <!-- <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
-                                <img src="https://requests-html.kennethreitz.org/img/logo.svg" alt="requests_html" width="40" height="40"/>
+                                <img src="https://requests-html.kennethreitz.org/_static/requests-html-logo.png" alt="requests_html" width="40" height="40"/>
                             </a> -->
                             <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
+                                <!-- <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/> -->
                             </a>
                     <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
+                                <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
                             </a> -->
                     <!--         <a href="https://pyquery.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
                             </a> -->
                     <!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
-                            </a> -->
-                            <!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-                                <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-                            <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
-                                <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-                                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-                                <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
                             </a> -->
                             <a href="https://lxml.de/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
@@ -704,19 +662,25 @@
                             <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/>
                             </a> -->
-                            <!-- <a href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-                            </a> -->
+                        </div>
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- GUI Development/ Desktop Applications -->
+                            <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
+                                <!-- <img src="https://i.morioh.com/2019/11/20/e508febfbc11.jpg" alt="Tkinter" width="40" height="40"/> -->
+                                <img src="https://thedeveloperblog.com/tutorial/python/images/tkinter-tutorial.png" alt="Tkinter" width="40" height="40"/>
+                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Computer Vision Tools -->
-                            <!-- <a href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" target="_blank" rel="noreferrer">
+                            <a href="https://opencv.org/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-                                <img src="https://pillow.readthedocs.io/en/stable/_images/pillow-logo.png" alt="pillow" width="40" height="40"/>
-                            </a> -->
+                            </a>
+                            <a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+                                <img src="https://d2jdgazzki9vjm.cloudfront.net/tutorial/python-pillow/images/python-pillow.png" alt="pillow" width="40" height="40"/>
+                                <!-- <img src="https://user-images.githubusercontent.com/56552566/75696001-8115bf00-5c70-11ea-8c98-945107d21076.png" alt="pillow" width="40" height="40"/> -->
+                                <!-- <img src="https://user-images.githubusercontent.com/56552566/75473711-4ef81a80-595b-11ea-9b7a-15015fb16cca.png" alt="pillow" width="40" height="40"/> -->
+                            </a>
                             <!-- <a href="https://simplecv.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/SimpleCV_Logo.png" alt="simplecv" width="40" height="40"/>
                             </a> -->
@@ -800,6 +764,11 @@
                             </a>
                             <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
                                 <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
+                            </a>
+                            <a href="https://gephi.org/" target="_blank" rel="noreferrer">
+                                <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gephi_logo.svg" alt="Gephi" width="40" height="40"/> -->
+                                <!-- <img src="https://docs.gephi.org/img/logo.svg" alt="Gephi" width="40" height="40"/> -->
+                                <img src="https://img.informer.com/icons_mac/png/128/613/613066.png" alt="Gephi" width="40" height="40"/>
                             </a>
                     <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
