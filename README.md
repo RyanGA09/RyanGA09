@@ -581,31 +581,31 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
                             </a> -->
                         </div>
-                        </br>
+                        <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Natural Language Processing (NLP) Tools -->
-                    <!--         <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_NLTK.svg" alt="nltk" width="40" height="40"/>
-                            </a>
-                            <a href="https://spacy.io/" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+                                <img src="https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png" alt="nltk" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://spacy.io/" target="_blank" rel="noreferrer">
                                 <img src="https://spacy.io/static/img/spacy_logo.svg" alt="spacy" width="40" height="40"/>
-                            </a>
-                            <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-                                <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
-                            </a>
-                            <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+                                <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="huggingface" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/StanfordNLP_Logo.png" alt="stanford_nlp" width="40" height="40"/>
-                            </a>
-                            <a href="https://allennlp.org/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://allennlp.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/AllenNLP_logo.png" alt="allennlp" width="40" height="40"/>
-                            </a>
-                            <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/master/gensim/resources/images/gen_logo.png" alt="gensim" width="40" height="40"/>
-                            </a>
-                            <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/sloria/TextBlob/master/docs/_static/textblob-logo.png" alt="textblob" width="40" height="40"/>
-                            </a>
-                            <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
                                 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
                             </a> -->
                         </div>
@@ -627,6 +627,9 @@
                                 <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
                                 <!-- <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/> -->
                             </a>
+                            <a href="https://lxml.de/" target="_blank" rel="noreferrer">
+                                <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
+                            </a>
                     <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
                                 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
@@ -637,9 +640,6 @@
                     <!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
                             </a> -->
-                            <a href="https://lxml.de/" target="_blank" rel="noreferrer">
-                                <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
-                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -663,6 +663,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- GUI Development/ Desktop Applications -->
                             <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
