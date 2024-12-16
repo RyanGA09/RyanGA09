@@ -114,10 +114,6 @@
 <!--         <a href="https://www.quora.com/profile/yourusername" target="blank">
         <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
     </a> -->
-    <!-- Spotify Badge -->
-<!--         <a href="https://open.spotify.com/user/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/Spotify-Follow-green?logo=spotify&style=for-the-badge" alt="Follow on Spotify" />
-    </a> -->
     <!-- Steam Badge -->
 <!--         <a href="https://steamcommunity.com/id/yourusername" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
@@ -436,7 +432,6 @@
                             </a> -->
                             <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
-                    <!--           <img src="https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png" alt="SQL" width="35" height="40" style="filter: brightness(0) invert(1);"/> -->
                             </a>
                         </div>
                         </br>
@@ -618,14 +613,12 @@
                             </a>
                             <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
                                 <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
-                                <!-- <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/> -->
                             </a>
                             <!-- <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
                                 <img src="https://requests-html.kennethreitz.org/_static/requests-html-logo.png" alt="requests_html" width="40" height="40"/>
                             </a> -->
                             <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
-                                <!-- <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/> -->
                             </a>
                             <a href="https://lxml.de/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
@@ -633,12 +626,6 @@
                     <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
                                 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://pyquery.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/gawel/pyquery/master/pyquery-logo.png" alt="pyquery" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
                             </a> -->
                         </div>
                         </br>
@@ -667,8 +654,6 @@
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- GUI Development/ Desktop Applications -->
                             <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
-                                <!-- <img src="https://i.morioh.com/2019/11/20/e508febfbc11.jpg" alt="Tkinter" width="40" height="40"/> -->
-                                <!-- <img src="https://thedeveloperblog.com/tutorial/python/images/tkinter-tutorial.png" alt="Tkinter" width="40" height="40"/> -->
                                 <img src="https://i0.wp.com/pythonprogramming.altervista.org/wp-content/uploads/2023/07/image-26.png" alt="Tkinter" width="40" height="40"/>
                             </a>
                         </div>
@@ -680,8 +665,6 @@
                             </a>
                             <a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
                                 <img src="https://d2jdgazzki9vjm.cloudfront.net/tutorial/python-pillow/images/python-pillow.png" alt="pillow" width="40" height="40"/>
-                                <!-- <img src="https://user-images.githubusercontent.com/56552566/75696001-8115bf00-5c70-11ea-8c98-945107d21076.png" alt="pillow" width="40" height="40"/> -->
-                                <!-- <img src="https://user-images.githubusercontent.com/56552566/75473711-4ef81a80-595b-11ea-9b7a-15015fb16cca.png" alt="pillow" width="40" height="40"/> -->
                             </a>
                             <!-- <a href="https://simplecv.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/SimpleCV_Logo.png" alt="simplecv" width="40" height="40"/>
@@ -715,17 +698,17 @@
                         <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Development Frameworks -->
-                    <!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="40" height="40"/>
                                 <img src="https://mkornyev.github.io/my_images/django.png" alt="django" width="40" height="40"/>
                             </a> -->
-                    <!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-                            </a>
-                            <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
                                 <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
-                            </a>
-                            <a href="https://trypyramid.com/" target="_blank" rel="noreferrer">
+                            </a> -->
+                            <!-- <a href="https://trypyramid.com/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
                             </a> -->
                         </div>
@@ -744,7 +727,6 @@
                             </a>
                             <a href="https://github.com/" target="_blank" rel="noreferrer" >
                                 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
-                    <!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
                             </a>
                             <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
@@ -768,8 +750,6 @@
                                 <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
                             </a>
                             <a href="https://gephi.org/" target="_blank" rel="noreferrer">
-                                <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Gephi_logo.svg" alt="Gephi" width="40" height="40"/> -->
-                                <!-- <img src="https://docs.gephi.org/img/logo.svg" alt="Gephi" width="40" height="40"/> -->
                                 <img src="https://img.informer.com/icons_mac/png/128/613/613066.png" alt="Gephi" width="40" height="40"/>
                             </a>
                     <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
@@ -802,9 +782,9 @@
                             <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+                            <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
-                            </a> -->
+                            </a>
                             <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
                             </a>
@@ -922,42 +902,9 @@
                             <a href="https://www.android.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
                             </a>
-                            <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
-                            </a>
-                            <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.linuxmint.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple logo"  />
-                            </a> -->
                         </div>
                     </td>
                 </tr>
-                <!-- <tr style="border-bottom: 2px solid #ccc;">
-                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <h4><img <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0365.gif" border="0" alt="animated-computer-image-0365" width="28" height="20"/> Mobile Development Frameworks & Tools</h4>
-                    </td>
-                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
-                            </a>
-                            <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-                            </a>
-                            <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-                                <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android Studio" width="40" height="40"/>
-                            </a>
-                            <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-                                <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
-                            </a>
-                        </div>
-                    </td>
-                </tr> -->
             </tbody>
         </table>
     </div>
