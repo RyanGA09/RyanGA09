@@ -749,9 +749,9 @@
                             <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
                                 <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
                             </a>
-                            <a href="https://gephi.org/" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://gephi.org/" target="_blank" rel="noreferrer">
                                 <img src="https://img.informer.com/icons_mac/png/128/613/613066.png" alt="Gephi" width="40" height="40"/>
-                            </a>
+                            </a> -->
                     <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
                                 <img src="https://img.apponic.com/39/219/f2e7b63321d32b52070b8012bde4c64f.png" alt="PowerDesigner" width="40" height="40"/>
@@ -785,9 +785,23 @@
                             <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
                             </a>
+                            <!-- <a href="https://www.sublimemerge.com/" target="_blank" rel="noreferrer">
+                                <img src="https://www.sublimemerge.com/images/logo.svg" alt="Sublime Merge" width="40" height="40"/>
+                                <img src="https://softradar.com/static/products/sublime-merge/sublime-merge-logo.jpg" alt="Sublime Merge" width="40" height="40"/>
+                            </a> -->
                             <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
                             </a>
+                            <!-- <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+                                <img src="https://winaero.com/blog/wp-content/uploads/2021/02/Notepad-plus-plus-icon.png" alt="Notepad++" width="40" height="40"/>
+                                <img src="https://www.lydo.nl/blog/wp-content/uploads/2016/04/notepad.png" alt="Notepad++" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Vimlogo.svg" alt="Vim" width="40" height="40"/>
+                            </a> -->
+                            <!-- <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Xcode_Logo.svg" alt="Xcode" width="40" height="40"/>
+                            </a> -->
                     <!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
                                 <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
                             </a> -->
