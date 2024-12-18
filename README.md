@@ -608,7 +608,6 @@
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Scraping Tools -->
                             <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-                                <!-- <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/> -->
                                 <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
                             </a>
                             <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
@@ -874,12 +873,6 @@
                             <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://www.wirecast.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.wirecast.com/static/wirecast-5efc1d3d5c6b8e25c41f90cfefed7f6e.png" alt="Wirecast" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.vmix.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.vmix.com/images/vmix_logo.png" alt="vMix" width="40" height="40"/>
-                            </a> -->
                         </div>
                     </td>
                 </tr>
