@@ -361,7 +361,7 @@
             <tr>
                 <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                 <td>
-                    `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing`
+                    `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`
                 </td>
             </tr>
             <tr>
@@ -579,9 +579,9 @@
                         <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Natural Language Processing (NLP) Tools -->
-                            <!-- <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+                            <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
                                 <img src="https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png" alt="nltk" width="40" height="40"/>
-                            </a> -->
+                            </a>
                             <!-- <a href="https://spacy.io/" target="_blank" rel="noreferrer">
                                 <img src="https://spacy.io/static/img/spacy_logo.svg" alt="spacy" width="40" height="40"/>
                             </a> -->
@@ -721,12 +721,15 @@
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Git -->
                             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
                             </a>
+                            <!-- Github -->
                             <a href="https://github.com/" target="_blank" rel="noreferrer" >
                                 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
                             </a>
+                            <!-- Gitlab -->
                             <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
                             </a>
@@ -739,15 +742,19 @@
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Google Looker Studio -->
                             <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/>
                             </a>
+                            <!-- Tableau -->
                             <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" alt="Tableau" width="40" height="40"/>
                             </a>
+                            <!-- Diagrams (Draw IO) -->
                             <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
                                 <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
                             </a>
+                            <!-- Gephi -->
                             <!-- <a href="https://gephi.org/" target="_blank" rel="noreferrer">
                                 <img src="https://img.informer.com/icons_mac/png/128/613/613066.png" alt="Gephi" width="40" height="40"/>
                             </a> -->
@@ -766,21 +773,36 @@
                             </a> -->
                         </div>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Visual Studio Code -->
                             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
                             </a>
-                            <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+                            <!-- JetBrains -->
+                            <!-- <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
+                            </a> -->
+                            <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-j1qgfe43.png" alt="IntelliJ IDEA" width="40" height="40"/>
+                                <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="40" height="40"/> -->
                             </a>
+                            <!-- <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/pycharm-icon-2048x2048-50p1jq6b.png" alt="PyCharm" width="40" height="40"/>
+                                <img src="https://www.liblogo.com/img-logo/py8871icf9-pycharm-logo-intellij-pycharm-alt-macos-icon-in-macos-big-sur.png" alt="PyCharm" width="40" height="40"/>
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PyCharm_Logo.svg" alt="PyCharm" width="40" height="40"/>
+                            </a> -->
+                            <!-- Google Colaboratory -->
                             <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colaboratory" width="40" height="40"/>
                             </a>
+                            <!-- Jupyter -->
                             <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
                             </a>
+                            <!-- Dev C++ -->
                             <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
                             </a>
+                            <!-- Sublime -->
                             <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
                             </a>
@@ -788,50 +810,64 @@
                                 <img src="https://www.sublimemerge.com/images/logo.svg" alt="Sublime Merge" width="40" height="40"/>
                                 <img src="https://softradar.com/static/products/sublime-merge/sublime-merge-logo.jpg" alt="Sublime Merge" width="40" height="40"/>
                             </a> -->
+                            <!-- Postman -->
                             <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
                             </a>
+                            <!-- Notepad++ -->
                             <!-- <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
                                 <img src="https://winaero.com/blog/wp-content/uploads/2021/02/Notepad-plus-plus-icon.png" alt="Notepad++" width="40" height="40"/>
                                 <img src="https://www.lydo.nl/blog/wp-content/uploads/2016/04/notepad.png" alt="Notepad++" width="40" height="40"/>
                             </a> -->
+                            <!-- Vim -->
                             <!-- <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Vimlogo.svg" alt="Vim" width="40" height="40"/>
                             </a> -->
+                            <!-- Xcode -->
                             <!-- <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Xcode_Logo.svg" alt="Xcode" width="40" height="40"/>
                             </a> -->
+                            <!-- Atom -->
                     <!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
                                 <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
                             </a> -->
+                            <!-- Eclipse -->
                     <!--         <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
                                 <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
                             </a> -->
                         </div>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Laragon -->
                             <a href="https://laragon.org/" target="_blank" rel="noreferrer">
                                 <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
                             </a>
+                            <!-- XAMPP -->
                             <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
                             </a>
+                            <!-- Docker -->
                     <!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
                             </a> -->
-                <!--             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
+                            <!-- PgAdmin -->
+                            <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" alt="pgAdmin" width="40" height="40"/>
-                            </a> -->
+                            </a>
+                            <!-- MongoDB -->
                 <!--             <a href="https://www.mongodb.com/products/compass" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
                             </a> -->
                         </div>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Figma -->
                             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
                             </a>
+                            <!-- Canva -->
                             <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
                             </a>
+                            <!-- Adobe -->
                             <!-- <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg" alt="Adobe Dreamweaver" width="40" height="40"/>
                             </a>
@@ -856,20 +892,25 @@
                             <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
                                 <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" width="40" height="40"/>
                             </a> -->
+                            <!-- Sketch -->
                     <!--         <a href="https://www.sketch.com/apps" target="_blank" rel="noreferrer">
                                 <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
                             </a> -->
+                            <!-- Blender -->
                     <!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
                             </a> -->
+                            <!-- InVision -->
                     <!--         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
                             </a> -->
                         </div>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- OBS Studio -->
                             <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
                                 <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
                             </a>
+                            <!-- Capcut -->
                             <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
                             </a>
