@@ -921,6 +921,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
                             </a> -->
                         </div>
+                        <!-- Video Editing & Streaming Tools -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- OBS Studio -->
                             <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
@@ -930,19 +931,20 @@
                             <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
                             </a>
-                        </div>
-                        <!-- Reference Management Tools -->
-                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <!-- Mendeley -->
-                            <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
-                            </a>
-                            <!-- Zotero -->
-                            <!-- <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/zotero-icon-2048x2026-ce7or9e3.png" alt="Zotero" width="40" height="40"/>
+                            <!-- Adobe Premiere Pro -->
+                            <!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
+                            </a> -->
+                            <!-- DaVinci Resolve -->
+                            <!-- <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.shopify.com/s/files/1/0004/7661/0624/products/DavinciResolve14_logo_580x.png" alt="DaVinci Resolve" width="40" height="40"/>
+                            </a> -->
+                            <!-- Filmora -->
+                            <!-- <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/filmora_logo.png" alt="Filmora" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <!-- Microsoft Products -->
+                        <!-- Reference Management Tools -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Microsoft Word -->
                             <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
@@ -964,46 +966,22 @@
                             <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
                             </a>
-                            <!-- Microsoft OneNote -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/onenote" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/ms-onenote-icon-1024x897-uzkn8tru.png" alt="Microsoft OneNote" width="40" height="40"/>
-                            </a>
-                            <!-- Microsoft OneDrive -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive" target="_blank" rel="noreferrer">
-                                <img src="https://logodownload.org/wp-content/uploads/2022/06/onedrive-logo.png" alt="Microsoft OneDrive" width="45" height="40"/>
-                            </a>
-                            <!-- Microsoft SharePoint -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/ms-sharepoint-icon-1024x897-nd71wzcx.png" alt="Microsoft SharePoint" width="40" height="40"/>
-                            </a>
-                            <!-- Microsoft Visual Studio -->
-                            <!-- <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Visual_Studio_Logo_2022.svg" alt="Microsoft Visual Studio" width="40" height="40"/>
-                            </a> -->
-                            <!-- Microsoft Power BI -->
-                            <!-- <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Power_BI_Logo.svg" alt="Microsoft Power BI" width="40" height="40"/>
-                            </a> -->
-                            <!-- Microsoft Dynamics 365 -->
-                            <!-- <a href="https://dynamics.microsoft.com/en-us/dynamics365/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Microsoft_Dynamics_365_logo.svg" alt="Microsoft Dynamics 365" width="40" height="40"/>
-                            </a> -->
                             <!-- Microsoft Access -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-access-logo-1.png" alt="Microsoft Access" width="40" height="40"/>
-                            </a>
+                            </a> -->
                             <!-- Microsoft Publisher -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/publisher" target="_blank" rel="noreferrer">
+                            <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/publisher" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_publisher_logo_icon_145717.png" alt="Microsoft Publisher" width="40" height="40"/>
+                            </a> -->
+                            <!-- Mendeley -->
+                            <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
                             </a>
-                            <!-- Microsoft Azure -->
-                            <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-                                <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Microsoft Azure" width="40" height="40"/>
-                            </a>
-                            <!-- Microsoft Skype -->
-                            <a href="https://www.skype.com/en/" target="_blank" rel="noreferrer">
-                                <img src="https://logos-download.com/wp-content/uploads/2016/03/Skype_Windows_icon.png" alt="Microsoft Skype" width="40" height="40"/>
-                            </a>
+                            <!-- Zotero -->
+                            <!-- <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/zotero-icon-2048x2026-ce7or9e3.png" alt="Zotero" width="40" height="40"/>
+                            </a> -->
                         </div>
                     </td>
                 </tr>
