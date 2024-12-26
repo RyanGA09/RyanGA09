@@ -958,14 +958,14 @@
                             <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" alt="Microsoft PowerPoint" width="40" height="40"/>
                             </a>
-                            <!-- Microsoft Outlook -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/ms-outlook-icon-1024x897-itvc63x9.png" alt="Microsoft Outlook" width="40" height="40"/>
-                            </a>
                             <!-- Microsoft Teams -->
                             <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
                             </a>
+                            <!-- Microsoft Outlook -->
+                            <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/ms-outlook-icon-1024x897-itvc63x9.png" alt="Microsoft Outlook" width="40" height="40"/>
+                            </a> -->
                             <!-- Microsoft Access -->
                             <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-access-logo-1.png" alt="Microsoft Access" width="40" height="40"/>
