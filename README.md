@@ -188,7 +188,7 @@
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Languages Stats:</h3>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=450" alt="Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=600" alt="Languages">
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Achievements Stats:</h3>
     <div align="center">
@@ -931,6 +931,80 @@
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
                             </a>
                         </div>
+                        <!-- Reference Management Tools -->
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Mendeley -->
+                            <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
+                            </a>
+                            <!-- Zotero -->
+                            <!-- <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/zotero-icon-2048x2026-ce7or9e3.png" alt="Zotero" width="40" height="40"/>
+                            </a> -->
+                        </div>
+                        <!-- Microsoft Products -->
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Microsoft Word -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-8.png" alt="Microsoft Word" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Excel -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo.png" alt="Microsoft Excel" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft PowerPoint -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" alt="Microsoft PowerPoint" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Outlook -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/ms-outlook-icon-1024x897-itvc63x9.png" alt="Microsoft Outlook" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Teams -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft OneNote -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/onenote" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/ms-onenote-icon-1024x897-uzkn8tru.png" alt="Microsoft OneNote" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft OneDrive -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2022/06/onedrive-logo.png" alt="Microsoft OneDrive" width="45" height="40"/>
+                            </a>
+                            <!-- Microsoft SharePoint -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/ms-sharepoint-icon-1024x897-nd71wzcx.png" alt="Microsoft SharePoint" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Visual Studio -->
+                            <!-- <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Visual_Studio_Logo_2022.svg" alt="Microsoft Visual Studio" width="40" height="40"/>
+                            </a> -->
+                            <!-- Microsoft Power BI -->
+                            <!-- <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Power_BI_Logo.svg" alt="Microsoft Power BI" width="40" height="40"/>
+                            </a> -->
+                            <!-- Microsoft Dynamics 365 -->
+                            <!-- <a href="https://dynamics.microsoft.com/en-us/dynamics365/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Microsoft_Dynamics_365_logo.svg" alt="Microsoft Dynamics 365" width="40" height="40"/>
+                            </a> -->
+                            <!-- Microsoft Access -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-access-logo-1.png" alt="Microsoft Access" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Publisher -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/publisher" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_publisher_logo_icon_145717.png" alt="Microsoft Publisher" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Azure -->
+                            <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+                                <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Microsoft Azure" width="40" height="40"/>
+                            </a>
+                            <!-- Microsoft Skype -->
+                            <a href="https://www.skype.com/en/" target="_blank" rel="noreferrer">
+                                <img src="https://logos-download.com/wp-content/uploads/2016/03/Skype_Windows_icon.png" alt="Microsoft Skype" width="40" height="40"/>
+                            </a>
+                        </div>
                     </td>
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
@@ -939,15 +1013,19 @@
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                             <!-- Google -->
                             <a href="https://www.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
                             </a>
+                             <!-- Chrome -->
                             <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
                             </a>
+                            <!-- Microsoft Edge -->
                             <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge.svg" alt="Edge" width="40" height="40"/>
                             </a>
+                             <!-- Brave -->
                             <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
                             </a>
