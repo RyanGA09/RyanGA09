@@ -189,7 +189,7 @@
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Languages Stats:</h3>
     <div align="center">
         <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=600" alt="Languages"> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=800" alt="Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal&langs_count=20&hide_progress=false&card_width=600" alt="Languages">
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Achievements Stats:</h3>
     <div align="center">
@@ -772,9 +772,9 @@
                                 <img src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" alt="Draw.io" width="40" height="40"/>
                             </a>
                             <!-- Gephi -->
-                            <!-- <a href="https://gephi.org/" target="_blank" rel="noreferrer">
+                            <a href="https://gephi.org/" target="_blank" rel="noreferrer">
                                 <img src="https://img.informer.com/icons_mac/png/128/613/613066.png" alt="Gephi" width="40" height="40"/>
-                            </a> -->
+                            </a>
                     <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
                                 <img src="https://img.apponic.com/39/219/f2e7b63321d32b52070b8012bde4c64f.png" alt="PowerDesigner" width="40" height="40"/>
@@ -819,10 +819,11 @@
                             <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
                             </a>
-                            <!-- Sublime -->
+                            <!-- Sublime Text -->
                             <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
                             </a>
+                            <!-- Sublime Merge -->
                             <!-- <a href="https://www.sublimemerge.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.sublimemerge.com/images/logo.svg" alt="Sublime Merge" width="40" height="40"/>
                                 <img src="https://softradar.com/static/products/sublime-merge/sublime-merge-logo.jpg" alt="Sublime Merge" width="40" height="40"/>
@@ -891,9 +892,6 @@
                             <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>
                             </a>
-                            <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
-                            </a>
                             <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40"/>
                             </a>
@@ -933,6 +931,10 @@
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
                             </a>
                             <!-- Adobe Premiere Pro -->
+                            <!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
+                            </a> -->
+                            <!-- Adobe Premiere -->
                             <!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
                             </a> -->
@@ -990,7 +992,32 @@
                             <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
                             </a>
+                            <!-- Zoom -->
+                            <!-- <a href="https://zoom.us" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Zoom_Communications_2020_logo.svg" alt="Zoom" width="40" height="40"/>
+                            </a> -->
+                            <!-- Google Meet -->
+                            <!-- <a href="https://meet.google.com" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Meet_logo_2020.svg" alt="Google Meet" width="40" height="40"/>
+                            </a> -->
+                            <!-- Skype -->
+                            <!-- <a href="https://www.skype.com" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Skype_logo_2019.svg" alt="Skype" width="40" height="40"/>
+                            </a> -->
+                            <!-- Webex -->
+                            <!-- <a href="https://www.webex.com" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Webex_logo_2020.svg" alt="Webex" width="40" height="40"/>
+                            </a> -->
+                            <!-- Jitsi Meet -->
+                            <!-- <a href="https://meet.jit.si" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Jitsi_Meet_logo.svg" alt="Jitsi Meet" width="40" height="40"/>
+                            </a> -->
+                            <!-- GoToMeeting -->
+                            <!-- <a href="https://www.goto.com/meeting" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/GoToMeeting_logo.svg" alt="GoToMeeting" width="40" height="40"/>
+                            </a> -->
                         </div>
+
                     </td>
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
