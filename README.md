@@ -188,7 +188,8 @@
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Languages Stats:</h3>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=600" alt="Languages">
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=600" alt="Languages"> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=800" alt="Languages">
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Achievements Stats:</h3>
     <div align="center">
@@ -944,7 +945,7 @@
                                 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/filmora_logo.png" alt="Filmora" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <!-- Reference Management Tools -->
+                        <!-- Tools for Office and Research Management -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Microsoft Word -->
                             <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
@@ -958,10 +959,6 @@
                             <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" alt="Microsoft PowerPoint" width="40" height="40"/>
                             </a>
-                            <!-- Microsoft Teams -->
-                            <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams" target="_blank" rel="noreferrer">
-                                <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
-                            </a>
                             <!-- Microsoft Outlook -->
                             <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/ms-outlook-icon-1024x897-itvc63x9.png" alt="Microsoft Outlook" width="40" height="40"/>
@@ -974,6 +971,10 @@
                             <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/publisher" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_publisher_logo_icon_145717.png" alt="Microsoft Publisher" width="40" height="40"/>
                             </a> -->
+                            <!-- Adobe Acrobat -->
+                            <a href="https://get.adobe.com/reader/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/adobe-pdf-1024.png" alt="Adobe Acrobat" width="40" height="40"/>
+                            </a>
                             <!-- Mendeley -->
                             <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
@@ -982,6 +983,13 @@
                             <!-- <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/zotero-icon-2048x2026-ce7or9e3.png" alt="Zotero" width="40" height="40"/>
                             </a> -->
+                        </div>
+                        <!-- Meeting -->
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Microsoft Teams -->
+                            <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams" target="_blank" rel="noreferrer">
+                                <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
+                            </a>
                         </div>
                     </td>
                 </tr>
