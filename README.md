@@ -993,13 +993,17 @@
                                 <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" alt="Microsoft Teams" width="40" height="40"/>
                             </a>
                             <!-- Zoom -->
-                            <!-- <a href="https://zoom.us" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Zoom_Communications_2020_logo.svg" alt="Zoom" width="40" height="40"/>
-                            </a> -->
+                            <a href="https://zoom.us" target="_blank" rel="noreferrer">
+                                <img src="https://static.vecteezy.com/system/resources/previews/012/871/376/original/zoom-logo-in-blue-colors-meetings-app-logotype-illustration-free-png.png" alt="Zoom" width="40" height="40"/>
+                                <!-- <img src="https://www.vhv.rs/dpng/d/256-2564047_ibm-logo-ibm-icon-hd-png-download.png" alt="Zoom" width="40" height="40"/> -->
+                                <!-- <img src="https://bpb-us-w2.wpmucdn.com/sites.umassd.edu/dist/f/777/files/2020/03/Zoom-Icon-Large-transparent.png" alt="Zoom" width="40" height="40"/> -->
+                            </a>
                             <!-- Google Meet -->
-                            <!-- <a href="https://meet.google.com" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Meet_logo_2020.svg" alt="Google Meet" width="40" height="40"/>
-                            </a> -->
+                            <a href="https://meet.google.com" target="_blank" rel="noreferrer">
+                                <img src="https://agatsoftware.com/wp-content/uploads/2023/04/logos-agat-menu-16-1200x1201.png" alt="Google Meet" width="40" height="40"/>
+                                <!-- <img src="https://static.vecteezy.com/system/resources/previews/025/267/305/non_2x/google-toolbar-icon-search-symbol-map-gmail-calendar-drive-photo-google-play-meet-chat-and-my-ad-center-free-png.png" alt="Google Meet" width="40" height="40"/> -->
+                                <!-- <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-meet-1024.png" alt="Google Meet" width="40" height="40"/> -->
+                            </a>
                             <!-- Skype -->
                             <!-- <a href="https://www.skype.com" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Skype_logo_2019.svg" alt="Skype" width="40" height="40"/>
@@ -1017,7 +1021,6 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/GoToMeeting_logo.svg" alt="GoToMeeting" width="40" height="40"/>
                             </a> -->
                         </div>
-
                     </td>
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
