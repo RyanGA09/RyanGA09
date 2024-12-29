@@ -184,7 +184,7 @@
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" width="22" height="22"/> Github Stats:</h3>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Stats">
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Languages Stats:</h3>
     <div align="center">
@@ -572,7 +572,9 @@
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
                             </a>
                             <a href="https://keras.io/" target="_blank" rel="noreferrer">
-                                <img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" alt="keras" width="100" height="35"/>
+                                <img src="https://www.tgcindia.com/wp-content/uploads/2023/01/1200px-Keras_logo.svg-1024x1024.png" alt="keras" width="40" height="40"/>
+                                <!-- <img src="http://man.hubwiz.com/docset/Keras.docset/Contents/Resources/Documents/img/keras-logo-small-wb.png" alt="keras" width="40" height="40"/> -->
+                                <!-- <img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" alt="keras" width="100" height="35"/> -->
                             </a>
                     <!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo.png" alt="pytorch" width="40" height="40"/>
