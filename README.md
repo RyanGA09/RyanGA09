@@ -197,7 +197,7 @@
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0366.gif" border="0" alt="animated-computer-image-0366" width="22" height="22"/> Contribution Stats</h3>
     <div align="center">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=true" /></a>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RyanGA09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanGA09&bg_color=202330&color=00ffe1&line=3d59a1&point=ffffff&area=true&hide_border=false" /></a>
     </div>
 </details>
 
