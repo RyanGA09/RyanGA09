@@ -253,8 +253,9 @@
             <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
             <li>
                 <strong>MySkill Shortclass Monthly (2024)</strong> — 
-                <a href="https://myskill.id/">MySkill</a> [May 2024 - December 2024]
+                <a href="https://myskill.id/">MySkill</a> [May 2025 - January 2025]
                 <ul>
+                    <li><strong>Shortclass Monthly - January</strong> [January 2025 - January 2025]</li>
                     <li><strong>Shortclass Monthly - December</strong> [December 2024 - December 2024]</li>
                     <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
                     <li><strong>Shortclass Monthly - October</strong> [October 2024 - October 2024]</li>
