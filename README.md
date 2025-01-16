@@ -984,7 +984,10 @@
                             </a>
                             <!-- Notepad -->
                             <a href="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-us&gl=US" target="_blank" rel="noreferrer">
-                                <img src="https://p7.hiclipart.com/preview/836/766/495/notepad-microsoft-office-microsoft.jpg" alt="Notepad" width="40" height="40"/>
+                                <img src="https://mspoweruser.com/wp-content/uploads/2020/02/notepad-10x.png" alt="Notepad" width="40" height="40"/>
+                                <!-- <img src="https://p7.hiclipart.com/preview/836/766/495/notepad-microsoft-office-microsoft.jpg" alt="Notepad" width="40" height="40"/>
+                                <img src="https://techdator.net/wp-content/uploads/2021/06/Fluent-Notepad.jpg" alt="Notepad" width="40" height="40"/>
+                                <img src="https://winaero.com/blog/wp-content/uploads/2020/02/Windows-10X-Colorful-Notepad-Fluent-Icon.png" alt="Notepad" width="40" height="40"/> -->
                             </a>
                             <!-- <a href="notepad://" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Notepad%2B%2B_Logo.png" alt="Notepad" width="40" height="40"/>
