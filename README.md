@@ -381,7 +381,7 @@
             <tr>
                 <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                 <td>
-                    `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Development` `Web Development` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`
+                    `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`
                 </td>
             </tr>
             <tr>
@@ -982,6 +982,13 @@
                             <a href="https://get.adobe.com/reader/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/adobe-pdf-1024.png" alt="Adobe Acrobat" width="40" height="40"/>
                             </a>
+                            <!-- Notepad -->
+                            <a href="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-us&gl=US" target="_blank" rel="noreferrer">
+                                <img src="https://p7.hiclipart.com/preview/836/766/495/notepad-microsoft-office-microsoft.jpg" alt="Notepad" width="40" height="40"/>
+                            </a>
+                            <!-- <a href="notepad://" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Notepad%2B%2B_Logo.png" alt="Notepad" width="40" height="40"/>
+                            </a> -->
                             <!-- Mendeley -->
                             <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
