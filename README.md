@@ -251,6 +251,7 @@
         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
         <ul align="left">
             <li><strong>Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
+            <li><strong>IDCamp 2024 Scholarship Program</strong> — <a href="https://www.dicoding.com/">Dicoding Academy</a> [September 2024 - Present]</li>
             <li>
                 <strong>MySkill Shortclass Monthly (2024)</strong> — 
                 <a href="https://myskill.id/">MySkill</a> [May 2025 - January 2025]
@@ -265,8 +266,9 @@
                     <li><strong>Shortclass Monthly - June</strong> [June 2024 - June 2024]</li>
                     <li><strong>Shortclass Monthly - May</strong> [May 2024 - May 2024]</li>
                 </ul>
-            </li> 
-            <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li> 
+            </li>
+            <li><strong>IDCamp 2023 Scholarship Program</strong> — <a href="https://www.dicoding.com/">Dicoding Academy</a> [September 2023 - December 2023]</li> 
+            <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li>
         </ul>
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
