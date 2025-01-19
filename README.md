@@ -619,9 +619,9 @@
                             <!-- <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/master/gensim/resources/images/gen_logo.png" alt="gensim" width="40" height="40"/>
                             </a> -->
-                            <!-- <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
+                            <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/sloria/TextBlob/master/docs/_static/textblob-logo.png" alt="textblob" width="40" height="40"/>
-                            </a> -->
+                            </a>
                             <!-- <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
                                 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
                             </a> -->
