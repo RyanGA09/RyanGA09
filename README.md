@@ -294,8 +294,10 @@
                 <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
                     <thead>
                         <tr>
-                            <th style="text-align: center; padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Banner</th>
-                            <th style="text-align: center; padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Titles</th>
+                            <div align="center">
+                                <th style="padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Banner</th>
+                                <th style="padding: 15px; background-color: #f4f4f4; font-size: 18px; vertical-align: top;">Titles</th>
+                            </div>
                         </tr>
                     </thead>
                     <tbody>
