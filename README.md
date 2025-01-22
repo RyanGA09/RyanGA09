@@ -699,7 +699,6 @@
                                 <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/tools/logo.jpg" alt="detectron2" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Automation Tools -->
                     <!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
@@ -718,7 +717,6 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <!-- </br> -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Development Frameworks -->
                             <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -735,7 +733,6 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <!-- </br> -->
                         <!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div> -->
                     </td>
                 </tr>
