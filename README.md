@@ -294,8 +294,8 @@
                 <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
                     <thead>
                         <tr>
-                            <th>Category</th>
-                            <th>Skills</th>
+                            <th>Banner</th>
+                            <th>Titles</th>
                         </tr>
                     </thead>
                     <tbody>
