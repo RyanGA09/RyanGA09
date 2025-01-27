@@ -374,20 +374,24 @@
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Skills:</h3>
     <div align="left">
         <table align="center" border="1" cellpadding="10" cellspacing="0">
-            <tr>
-                <th>Category</th>
-                <th>Skills</th>
-            </tr>
-            <tr>
-                <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
-                <td>
-                    `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`
-                </td>
-            </tr>
-            <tr>
-                <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
-                <td>`Leadership` `Problem Solving` `Presentations` `Listening` `Team Work` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`</td>
-            </tr>
+            <thead align="center">
+                <tr>
+                    <th>Category</th>
+                    <th>Skills</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
+                    <td>
+                        `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`
+                    </td>
+                </tr>
+                <tr>
+                    <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
+                    <td>`Leadership` `Problem Solving` `Presentations` `Listening` `Team Work` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`</td>
+                </tr>
+            </tbody>
         </table>
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
