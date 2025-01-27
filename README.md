@@ -292,7 +292,7 @@
                 <h5>Medium</h5>
                 <h6>Latest Publications</h6>
                 <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
-                    <thead>
+                    <thead align="center">
                         <tr>
                             <th>Banner</th>
                             <th>Titles</th>
