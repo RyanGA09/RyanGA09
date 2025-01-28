@@ -795,6 +795,7 @@
                                 <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Visual Studio Code -->
                             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -860,6 +861,7 @@
                                 <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Laragon -->
                             <a href="https://laragon.org/" target="_blank" rel="noreferrer">
@@ -882,6 +884,7 @@
                                 <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Figma -->
                             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -926,6 +929,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <!-- Video Editing & Streaming Tools -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- OBS Studio -->
@@ -953,6 +957,7 @@
                                 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/filmora_logo.png" alt="Filmora" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <!-- Tools for Office and Research Management -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Microsoft Word -->
@@ -1002,6 +1007,7 @@
                                 <img src="https://static-00.iconduck.com/assets.00/zotero-icon-2048x2026-ce7or9e3.png" alt="Zotero" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <!-- Meeting -->
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Microsoft Teams -->
