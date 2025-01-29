@@ -145,7 +145,7 @@
 </div>
 </br>
 <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
-<div align="left">
+<div align="center">
     <!-- Patreon Badge -->
 <!--     <a href="https://www.patreon.com/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
