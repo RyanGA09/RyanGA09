@@ -254,8 +254,9 @@
             <li><strong>IDCamp 2024 Scholarship Program</strong> — <a href="https://www.dicoding.com/">Dicoding Academy</a> [September 2024 - Present]</li>
             <li>
                 <strong>MySkill Shortclass Monthly (2024)</strong> — 
-                <a href="https://myskill.id/">MySkill</a> [May 2025 - January 2025]
+                <a href="https://myskill.id/">MySkill</a> [May 2025 - February 2025]
                 <ul>
+                    <li><strong>Shortclass Monthly - February</strong> [February 2025 - February 2025]</li>
                     <li><strong>Shortclass Monthly - January</strong> [January 2025 - January 2025]</li>
                     <li><strong>Shortclass Monthly - December</strong> [December 2024 - December 2024]</li>
                     <li><strong>Shortclass Monthly - November</strong> [November 2024 - November 2024]</li>
@@ -268,7 +269,7 @@
                 </ul>
             </li>
             <li><strong>IDCamp 2023 Scholarship Program</strong> — <a href="https://www.dicoding.com/">Dicoding Academy</a> [September 2023 - December 2023]</li> 
-            <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [2017 - 2020]</li>
+            <li><strong>High School Senior</strong> — <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a> [July 2017 - July 2020]</li>
         </ul>
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
