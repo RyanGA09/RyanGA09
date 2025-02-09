@@ -87,9 +87,9 @@
         <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
     </a> -->
     <!-- WordPress Blog Badge -->
-<!--         <a href="https://yourwordpressblog.wordpress.com" target="blank">
+        <a href="https://free91445.wordpress.com/" target="blank">
         <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
-    </a> -->
+    </a>
     <!-- Jekyll/GitHub Pages Blog Badge -->
 <!--         <a href="https://yourusername.github.io" target="blank">
         <img src="https://img.shields.io/badge/GitHub_Pages-Read-black?style=for-the-badge&logo=github" alt="Read My GitHub Pages Blog" />
