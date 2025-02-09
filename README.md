@@ -1,7 +1,6 @@
 <div align="center">
     <h1>Greetings <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=007FFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" /></a>
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Scientist;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
