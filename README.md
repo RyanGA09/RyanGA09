@@ -399,7 +399,7 @@
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
         <table align="center" border="2" cellpadding="10" cellspacing="0" >
-            <thead>
+            <thead align="center">
                 <tr>
                     <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Category</th>
                     <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Tools</th>
