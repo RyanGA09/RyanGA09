@@ -218,7 +218,7 @@
                 <strong>Web Developer</strong> — 
                 <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - February 2025]
                 <ul>
-                    <li><strong>Web Developer - Academic Project</strong> [August 2024 - Present]</li>
+                    <li><strong>Web Developer - Academic Project</strong> [August 2024 - February 2025]</li>
                     <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
                     <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
                 </ul>
