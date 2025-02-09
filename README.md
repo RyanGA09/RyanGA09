@@ -277,7 +277,7 @@
     <div>
         <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
         <ul align="left">
-            <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - Present).</li>
+            <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - February 2025).</li>
             <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
             <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
             <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
