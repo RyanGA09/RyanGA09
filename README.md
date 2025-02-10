@@ -384,7 +384,7 @@
                 <tr>
                     <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                     <td>
-                        `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`
+                        `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`, `Data Structures`, `Structured Programming`
                     </td>
                 </tr>
                 <tr>
