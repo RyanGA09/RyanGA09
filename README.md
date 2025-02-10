@@ -384,12 +384,14 @@
                 <tr>
                     <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                     <td>
-                        `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Teaching` `UI Design` `Graphic Design` `Machine Learning` `Web Scraping` `Writing` `Technical Writing` `Sentiment Analysis` `Deep Learning`, `Data Structures`, `Structured Programming`
+                        `Teaching` `UI Design` `Graphic Design` `Writing` `Technical Writing` `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Machine Learning` `Web Scraping` `Sentiment Analysis` `Deep Learning`, `Data Structures`, `Structured Programming`
                     </td>
                 </tr>
                 <tr>
                     <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
-                    <td>`Leadership` `Problem Solving` `Presentations` `Listening` `Team Work` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`</td>
+                    <td>
+                        `Leadership` `Problem Solving` `Presentations` `Listening` `Team Work` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`
+                    </td>
                 </tr>
             </tbody>
         </table>
@@ -439,6 +441,9 @@
                             <a href="https://www.script.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
                             </a>
+                            <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+                                <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
+                            </a>
                     <!--         <a href="https://dart.dev/" target="_blank">
                                 <img  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
                             </a> -->
@@ -454,9 +459,6 @@
                             <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
                             </a> -->
-                            <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-                                <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
-                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
