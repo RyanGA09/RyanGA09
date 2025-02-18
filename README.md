@@ -384,13 +384,13 @@
                 <tr>
                     <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                     <td>
-                        `Teaching` `UI Design` `Graphic Design` `Writing` `Technical Writing` `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Machine Learning` `Web Scraping` `Sentiment Analysis` `Deep Learning`, `Data Structures`, `Structured Programming`
+                        `Teaching` `UI Design` `Graphic Design` `Writing` `Technical Writing` `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Machine Learning` `Web Scraping` `Sentiment Analysis` `Deep Learning` `Data Structures` `Structured Programming` `Business Understanding` `Data Understanding` `Exploratory Data Analysis (EDA)` `Data Cleaning` `Data Visualization` `Black Box Testing`
                     </td>
                 </tr>
                 <tr>
                     <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
                     <td>
-                        `Leadership` `Problem Solving` `Presentations` `Listening` `Team Work` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`
+                        `Leadership` `Problem Solving` `Presentations` `Listening` `Teamwork` `Group Work` `Group Discussion` `team coordination` `Critical Thinking` `Communication`
                     </td>
                 </tr>
             </tbody>
