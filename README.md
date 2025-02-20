@@ -114,9 +114,9 @@
         <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
     </a> -->
     <!-- Steam Badge -->
-<!--         <a href="https://steamcommunity.com/id/yourusername" target="blank">
+        <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
-    </a> -->
+    </a>
     <!-- Patreon Badge -->
 <!--         <a href="https://www.patreon.com/yourusername" target="blank">
         <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
