@@ -115,7 +115,7 @@
     </a> -->
     <!-- Steam Badge -->
 <!--         <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
-        <img src="https://img.shields.io/badge/Steam-Follow-green?logo=steam&style=for-the-badge" alt="Follow on Steam" />
+        <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a> -->
     <!-- Patreon Badge -->
 <!--         <a href="https://www.patreon.com/yourusername" target="blank">
@@ -181,7 +181,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGA09&theme=tokyonight&hide_border=false" alt="Streak">
     </div>
     </br>
-    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" width="22" height="22"/> Github Stats:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" border="0" width="25" height="25"/> Github Stats:</h3>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Stats">
     </div>
