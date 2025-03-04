@@ -255,7 +255,7 @@
         </ul>
         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
         <ul align="left">
-            <li><strong>Bachelor of Computer Engineering, Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - Expected Graduation: 2025]</li>
+            <li><strong>Bachelor of Computer Engineering, Informatics Engineering</strong> — <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2021 - February 2025]</li>
             <li><strong>IDCamp 2024 Scholarship Program, FrontEnd Web Developer Learning Path</strong> — <a href="https://www.dicoding.com/">Dicoding Academy</a> [September 2024 - Present]</li>
             <li>
                 <strong>MySkill Shortclass Monthly, Multidisciplinary Shortclass</strong> — 
@@ -610,7 +610,7 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
                             </a> -->
                         </div>
-                        <!-- </br> -->
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Natural Language Processing (NLP) Tools -->
                             <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
