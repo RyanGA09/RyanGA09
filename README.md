@@ -14,10 +14,16 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
 <div align="center">
     <p>
-        I am an undergraduate student majoring in Informatics Engineering at Institut Teknologi Adhi Tama Surabaya, with a strong focus on data analysis and web development. Throughout my academic journey, I have gained valuable hands-on experience as a web developer, contributing to both academic and community service projects. In these roles, I focused on front-end development using frameworks like Laravel, Tailwind, and Bootstrap. These experiences have not only enhanced my technical skills but also allowed me to contribute to impactful digital solutions that benefit users.
+        I am a fresh graduate of Informatics Engineering from Institut Teknologi Adhi Tama Surabaya, specializing in data analysis and web development. With a strong technical foundation and hands-on experience, I have worked on various web development projects, leveraging frameworks such as Laravel, Tailwind, and Bootstrap to build intuitive and user-friendly applications.
     </p>
     <p>
-        Previously, I served as a laboratory and teaching assistant for Structured Programming and Data Structures practicums, while also gaining organizational experience as the treasurer for the Programming Language Laboratory. My participation in the MIKTI MSIB Batch 6 program enhanced my data analysis skills, preparing me for a competitive career in technology.
+        During my academic journey, I actively contributed as a web developer in both academic and community service projects, focusing on creating impactful digital solutions. My role as a laboratory and teaching assistant for Structured Programming and Data Structures enhanced my ability to guide others while solidifying my expertise in programming concepts. Additionally, I developed leadership and financial management skills as the treasurer of the Programming Language Laboratory.
+    </p>
+    <p>
+        I also expanded my data analysis proficiency through the MIKTI MSIB Batch 6 program, where I honed my skills in data processing, visualization, and insights generation, preparing me for a competitive career in the tech industry.
+    </p>
+    <p>
+        Now, as I embark on my professional journey, I am eager to apply my skills in data-driven decision-making, software development, and AI-driven solutions, while continuously learning and growing in the field of technology and innovation.
     </p>
 </div>
 
