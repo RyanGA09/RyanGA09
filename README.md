@@ -379,24 +379,28 @@
     </summary>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Skills:</h3>
     <div align="left">
-        <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <table align="center" border="1" cellpadding="10" cellspacing="0" width="100%" style="table-layout: fixed; border-collapse: collapse;">
             <thead align="center">
                 <tr>
-                    <th>Category</th>
-                    <th>Skills</th>
+                    <th width="15%">Category</th>
+                    <th width="85%">Skills</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>Hard Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
-                    <td>
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" width="40" height="40"/> Hard Skills
+                    </td>
+                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
                         `Teaching` `UI Design` `Graphic Design` `Writing` `Technical Writing` `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Machine Learning` `Web Scraping` `Sentiment Analysis` `Deep Learning` `Data Structures` `Structured Programming` `Business Understanding` `Data Understanding` `Exploratory Data Analysis (EDA)` `Data Cleaning` `Data Visualization` `Black Box Testing`
                     </td>
                 </tr>
-                <tr>
-                    <td>Soft Skills <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></td>
-                    <td>
-                        `Leadership` `Problem Solving` `Presentations` `Listening` `Teamwork` `Group Work` `Group Discussion` `team coordination` `Critical Thinking` `Communication`
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" width="40" height="40"/> Soft Skills
+                    </td>
+                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                        `Leadership` `Problem Solving` `Presentations` `Listening` `Teamwork` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`
                     </td>
                 </tr>
             </tbody>
@@ -406,7 +410,7 @@
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
     <div align="left">
-        <table align="center" border="2" cellpadding="10" cellspacing="0" >
+        <table align="center" border="2" cellpadding="10" cellspacing="0">
             <thead align="center">
                 <tr>
                     <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Category</th>
