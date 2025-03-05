@@ -382,8 +382,8 @@
         <table align="center" border="1" cellpadding="10" cellspacing="0" width="100%" style="table-layout: fixed; border-collapse: collapse;">
             <thead align="center">
                 <tr>
-                    <th width="15%">Category</th>
-                    <th width="85%">Skills</th>
+                    <th width="17%">Category</th>
+                    <th width="83%">Skills</th>
                 </tr>
             </thead>
             <tbody>
@@ -413,8 +413,8 @@
         <table align="center" border="2" cellpadding="10" cellspacing="0">
             <thead align="center">
                 <tr>
-                    <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Category</th>
-                    <th style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Tools</th>
+                    <th width="40%" style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Category</th>
+                    <th width="60%" style="text-align: left; padding: 15px; background-color: #f4f4f4; font-size: 18px; border-bottom: 2px solid #ccc padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">Tools</th>
                 </tr>
             </thead>
             <tbody>
