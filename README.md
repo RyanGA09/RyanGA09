@@ -382,8 +382,8 @@
         <table align="center" border="1" cellpadding="10" cellspacing="0" width="100%" style="table-layout: fixed; border-collapse: collapse;">
             <thead align="center">
                 <tr>
-                    <th width="17%">Category</th>
-                    <th width="83%">Skills</th>
+                    <th width="20%">Category</th>
+                    <th width="80%">Skills</th>
                 </tr>
             </thead>
             <tbody>
@@ -420,7 +420,7 @@
             <tbody>
                 <tr style="border-bottom: 2px solid #ccc;">
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <h4><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0462.gif" border="0" alt="animated-computer-image-0462" width="20" height="22"/> Programming Languages & Markup</h4>
+                        <h4><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0462.gif" border="0" alt="animated-computer-image-0462" width="20" height="22"/> Programming Languages, Markup, Shell Scripting & Automation, & Data Formats</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -436,12 +436,6 @@
                             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
                             </a>
-                            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-                            </a>
-                            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-                            </a>
                             <a href="https://www.php.net/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
                             </a>
@@ -451,16 +445,13 @@
                             <a href="https://www.script.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
                             </a>
-                            <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-                                <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
-                            </a>
                     <!--         <a href="https://dart.dev/" target="_blank">
                                 <img  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
                             </a> -->
-                    <!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;">
+                    <!--         <a target="_blank" href="https://kotlinlang.org/" style="display: inline-block;">
                                 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
                             </a> -->
-                            <!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;">
+                            <!-- <a target="_blank" href="https://golang.org/" style="display: inline-block;">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
                             </a> -->
                             <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -469,18 +460,86 @@
                             <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
                             </a> -->
+<!--                             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
+                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <!-- Menambahkan bahasa markup -->
+                            <!-- Markup Language -->
+                            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+                            </a>
                             <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
                                 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
                             </a>
+<!--                             <a href="https://en.wikipedia.org/wiki/XML" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML" width="75" height="40"/>
+                            </a> -->
+                        </div>
+                        </br>
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Scripting untuk Otomasi Perintah di Sistem Operasi -->
                             <a href="https://www.powershell.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
                             </a>
                             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
+                            </a>
+<!--                             <a href="https://www.zsh.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Z_Shell_logo.svg/512px-Z_Shell_logo.svg.png" alt="Zsh" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://fishshell.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fish-shell-logo.png/512px-Fish-shell-logo.png" alt="Fish Shell" width="40" height="40"/>
+                            </a> -->
+                        </div>
+                        </br>
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Data Format -->
+                            <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank" rel="noreferrer">
+<!--                                 <img src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Data_files_Comma_Separated_Values_File-512.png" alt="CSV" width="40" height="40"/> -->
+<!--                                 <img src="https://w7.pngwing.com/pngs/425/400/png-transparent-comma-separated-values-computer-icons-microsoft-excel-csv-text-logo-grass-thumbnail.png" alt="CSV" width="40" height="40"/> -->
+                                <img src="https://static-00.iconduck.com/assets.00/csv-icon-1500x2048-1ofw6mtf.png" alt="CSV" width="40" height="40"/>
+                            </a>
+                            <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+                                <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
+                            </a>
+<!--                             <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/768px-Official_YAML_Logo.svg.png" alt="YAML" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://avro.apache.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Apache_avro_logo.svg/512px-Apache_avro_logo.svg.png" alt="Apache Avro" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://parquet.apache.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Apache_Parquet_logo.svg/512px-Apache_Parquet_logo.svg.png" alt="Apache Parquet" width="40" height="40"/>
+                            </a> -->
+                        </div>
+                        </br>
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Styling Language -->
+                            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
                             </a>
                         </div>
                     </td>
