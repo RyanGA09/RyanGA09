@@ -1,9 +1,14 @@
 <div align="center">
-    <h1>Greetings <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/></h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=007FFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG" /></a>
+    <h1>
+        Greetings <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" border="0" alt="animated-bag-and-purse-image-0001" width="40" height="40"/>
+    </h1>
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Scientist;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=007FFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG"/>
+    </a>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+Enthusiast;Data+Scientist;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG"/>
 </div>
 </br>
 <div align="center">
@@ -12,7 +17,7 @@
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> About Me:</h2>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
-<div align="center">
+<div align="justify">
     <p>
         I am a fresh graduate of Informatics Engineering from Institut Teknologi Adhi Tama Surabaya, specializing in data analysis and web development. With a strong technical foundation and hands-on experience, I have worked on various web development projects, leveraging frameworks such as Laravel, Tailwind, and Bootstrap to build intuitive and user-friendly applications.
     </p>
