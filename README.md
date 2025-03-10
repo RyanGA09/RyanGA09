@@ -593,6 +593,27 @@
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
+                        <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
+                    </td>
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Git -->
+                            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+                            </a>
+                            <!-- Github -->
+                            <a href="https://github.com/" target="_blank" rel="noreferrer" >
+                                <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
+                            </a>
+                            <!-- Gitlab -->
+                            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+                <tr style="border-bottom: 2px solid #ccc;">
+                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
                         <h4><img <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" border="0" width="20" height="20"/> Data Analysis, Data Science, ML, Deep Learning, Web Scraping, and Visualization</h4>
                     </td>
                     <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
@@ -812,27 +833,6 @@
                             </a> -->
                         </div>
                         <!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div> -->
-                    </td>
-                </tr>
-                <tr style="border-bottom: 2px solid #ccc;">
-                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <h4><img src="https://www.animatedimages.org/data/media/145/animated-internet-image-0027.gif" border="0" alt="animated-internet-image-0027" width="22" height="22"/> Version Control & Collaboration</h4>
-                    </td>
-                    <td style="padding: 20px 10px; vertical-align: top; border-left: 2px solid #000; border-right: 2px solid #000;">
-                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <!-- Git -->
-                            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-                            </a>
-                            <!-- Github -->
-                            <a href="https://github.com/" target="_blank" rel="noreferrer" >
-                                <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
-                            </a>
-                            <!-- Gitlab -->
-                            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-                            </a>
-                        </div>
                     </td>
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
