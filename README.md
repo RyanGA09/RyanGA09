@@ -219,31 +219,18 @@
     <h3>Qualification:</h3>
     <div>
         <h4><img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" alt="animated-bag-and-purse-image-0001" width="22" height="22"/> Work Experiences</h4>
+        <!-- Freelance, Part-time, Full-time, and other statuses -->
+        <h5>Freelance, Part-time, Full-time, and Others</h5>
         <ul align="left">
             <li>
-                <strong>Machine Learning Intern</strong> — 
-                <a href="https://codveda.com/">Codveda Technologies</a> [March 2025 - Present]
-                <em>Internship</em>
-            </li> 
-            <li>
                 <strong>Writer</strong> — 
-                <a href="https://medium.com/">Medium</a> [November 2024 - Present]
+                <a href="https://medium.com/">Medium</a> [November 2024 - Present] 
                 <em>(Freelance)</em>
             </li> 
             <li>
-                <strong>Web Developer</strong> — 
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - February 2025]
-                <em>Internship</em>
-                <ul>
-                    <li><strong>Web Developer - Academic Project</strong> [August 2024 - February 2025]</li>
-                    <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
-                    <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
-                </ul>
-            </li> 
-            <li>
                 <strong>Laboratory Assistant</strong> — 
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024]
-                <em>Part-time</em>
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2022 - August 2024] 
+                <em>(Part-time)</em>
                 <ul>
                     <li><strong>Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
                     <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
@@ -251,22 +238,37 @@
             </li>
             <li>
                 <strong>Laboratory Assistant - Treasurer</strong> — 
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024]
-                <em>Part-time</em>
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [September 2023 - August 2024] 
+                <em>(Part-time)</em>
                 <ul>
                     <li><strong>Treasurer - Software Engineering Laboratory Assistant (Programming Language Laboratory Assistant)</strong> [March 2024 - August 2024]</li>
-                    <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - Februari 2024]</li>
+                    <li><strong>Treasurer - Programming Language Laboratory Assistant</strong> [September 2023 - February 2024]</li>
+                </ul>
+            </li> 
+        </ul>
+        <!-- Internship Experiences -->
+        <h5>Internships</h5>
+        <ul align="left">
+            <li>
+                <strong>Machine Learning Intern</strong> — 
+                <a href="https://codveda.com/">Codveda Technologies</a> [March 2025 - Present]
+            </li> 
+            <li>
+                <strong>Web Developer</strong> — 
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a> [March 2024 - February 2025]
+                <ul>
+                    <li><strong>Web Developer - Academic Project</strong> [August 2024 - February 2025]</li>
+                    <li><strong>Web Developer - Community Service Program/Field Work (KKN)</strong> [May 2024 - July 2024]</li>
+                    <li><strong>Web Developer - Practical Work/Internship (KP)</strong> [March 2024 - July 2024]</li>
                 </ul>
             </li> 
             <li>
                 <strong>Independent Study - Independent Campus</strong> — 
                 <a href="https://mikti.id/">Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia (MIKTI)</a> [February 2024 - June 2024]
-                <em>(Internship)</em>
             </li> 
             <li>
                 <strong>Junior Web Developer</strong> — 
                 <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
-                <em>(Internship)</em>
             </li> 
         </ul>
         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
