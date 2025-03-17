@@ -400,35 +400,107 @@
         <h2><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0192.gif" border="0" alt="animated-tool-image-0192" width="22" height="22"/> Skill and Tools</h2>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
-    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Skills:</h3>
+    <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="22" height="22"> Skills:</h3>
     <div align="left">
-        <table align="center" border="1" cellpadding="10" cellspacing="0" width="100%" style="table-layout: fixed; border-collapse: collapse;">
-            <thead align="center">
-                <tr>
-                    <th width="20%">Category</th>
-                    <th width="80%">Skills</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr style="border-bottom: 2px solid #ccc;">
-                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" width="40" height="40"/> Hard Skills
-                    </td>
-                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                        `Teaching` `UI Design` `Graphic Design` `Writing` `Technical Writing` `Programming` `Analysis` `Data Analysis` `Data Science` `FrontEnd Developer` `Web Developer` `Machine Learning` `Web Scraping` `Sentiment Analysis` `Deep Learning` `Data Structures` `Structured Programming` `Business Understanding` `Data Understanding` `Exploratory Data Analysis (EDA)` `Data Cleaning` `Data Visualization` `Black Box Testing`
-                    </td>
-                </tr>
-                <tr style="border-bottom: 2px solid #ccc;">
-                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" width="40" height="40"/> Soft Skills
-                    </td>
-                    <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                        `Leadership` `Problem Solving` `Presentations` `Listening` `Teamwork` `Group Work` `team coordination` `Group Discussion` `Critical Thinking` `Communication`
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+    <table align="center" border="1" cellpadding="10" cellspacing="0" width="100%" style="table-layout: fixed; border-collapse: collapse;">
+        <thead align="center">
+            <tr>
+                <th width="30%">Category</th>
+                <th width="70%">Skills</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" width="40" height="40"/> Soft Skills
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Leadership` `Teamwork` `Group Work` `Collaboration` `Communication` `Presentation` `Problem Solving` `Critical Thinking` `Listening` `Analytical Thinking` `Team Coordination` `Teaching`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" width="40" height="40"/> Hard Skills
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Frontend Development` `Programming` `Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Web Scraping` `Sentiment Analysis` `Structured Programming` `Data Structures` `Black Box Testing` `Software Testing` `Treasurer` `Writing` `Academic Writing` `Technical Writing`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" border="0" alt="animated-computer-image-0117" width="40" height="40"/> Software & Tools
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Microsoft Visual Studio Code` `IntelliJ IDEA` `Jupyter Notebook` `Dev C++` `Tableau` `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Colaboratory` `Google Drive` `Mendeley` `Capcut` `Canva` `Open Broadcaster Software (OBS)` `Looker Studio` `PhpMyAdmin` `Laragon` `XAMPP` `Handbrake`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="40" height="40"/> Programming
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Python` `C++` `C` `PHP` `MATLAB` `SQL` `HTML` `CSS`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0494.gif" border="0" alt="animated-computer-image-0494" width="40" height="40"/> Web Development
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Bootstrap` `Tailwind CSS` `Laravel` `WordPress`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                   <img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" border="0" alt="animated-tool-image-0068" width="40" height="40"/> Machine Learning
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `TensorFlow` `Keras` `Scikit-Learn`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0273.gif" border="0" alt="animated-computer-image-0273" width="40" height="40"/> Databases
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `MySQL` `PostgreSQL`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="40" height="40"/> Data Science & Analytics
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Business Understanding` `Data Understanding` `Data Wrangling` `Data Cleaning` `Exploratory Data Analysis (EDA)` `Data Visualization` `Data Storytelling` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0040.gif" border="0" alt="animated-computer-image-0040" width="40" height="40"/> Version Control
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Git` `GitHub` `GitLab`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="40" height="40"> Visual Design
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `UI/UX Design` `User Interface Design` `User Experience (UX)` `Graphic Design` `Logo Design` `Flowcharting` `Video Editing`
+                </td>
+            </tr>
+            <tr style="border-bottom: 2px solid #ccc;">
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
+                    <img src="https://www.animatedimages.org/data/media/365/animated-finance-image-0001.gif" border="0" alt="animated-finance-image-0001" width="40" height="40"/> Finance & Treasury
+                </td>
+                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
+                    `Financial Management` `Cash Management` `Treasury` `Finance` `Accounting`
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
     </br>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" border="0" width="22" height="22"/> Tools:</h3>
