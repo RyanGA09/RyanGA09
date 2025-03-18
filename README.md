@@ -423,7 +423,10 @@
                     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" width="40" height="40"/> Hard Skills
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Frontend Development` `Programming` `Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Web Scraping` `Sentiment Analysis` `Structured Programming` `Data Structures` `Black Box Testing` `Software Testing` `Treasurer` `Writing` `Academic Writing` `Technical Writing`
+                    <p>`Frontend Development` `Programming` `Structured Programming` `Data Structures` `Black Box Testing` `Software Testing`</p>
+                    <p>`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Web Scraping` `Sentiment Analysis`</p>
+                    <p>`Writing` `Academic Writing` `Technical Writing`</p>
+                    <p>`Treasurer`</p>
                 </td>
             </tr>
             <tr style="border-bottom: 2px solid #ccc;">
@@ -431,7 +434,12 @@
                     <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" border="0" alt="animated-computer-image-0117" width="40" height="40"/> Software & Tools
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Microsoft Visual Studio Code` `IntelliJ IDEA` `Jupyter Notebook` `Dev C++` `Tableau` `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Colaboratory` `Google Drive` `Mendeley` `Capcut` `Canva` `Open Broadcaster Software (OBS)` `Looker Studio` `PhpMyAdmin` `Laragon` `XAMPP` `Handbrake`
+                    <p>`Microsoft Visual Studio Code` `IntelliJ IDEA` `Jupyter Notebook` `Dev C++` `Google Colaboratory`</p>
+                    <p>`Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Mendeley`</p>
+                    <p>`PhpMyAdmin` `Laragon` `XAMPP`</p>
+                    <p>`Capcut` `Canva` `Open Broadcaster Software (OBS)` `Handbrake`</p>
+                    <p>`Tableau` `Looker Studio`</p>
+                    <p>`Google Drive`</p>
                 </td>
             </tr>
             <tr style="border-bottom: 2px solid #ccc;">
@@ -471,7 +479,8 @@
                     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="40" height="40"/> Data Science & Analytics
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Business Understanding` `Data Understanding` `Data Wrangling` `Data Cleaning` `Exploratory Data Analysis (EDA)` `Data Visualization` `Data Storytelling` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+                    <p>`Business Understanding` `Data Understanding` `Data Wrangling` `Data Cleaning` `Exploratory Data Analysis (EDA)` `Data Visualization` `Data Storytelling`</p>
+                    <p>`Pandas` `NumPy` `Matplotlib` `Seaborn`</p>
                 </td>
             </tr>
             <tr style="border-bottom: 2px solid #ccc;">
@@ -487,7 +496,8 @@
                     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="40" height="40"> Visual Design
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `UI/UX Design` `User Interface Design` `User Experience (UX)` `Graphic Design` `Logo Design` `Flowcharting` `Video Editing`
+                    <p>`UI/UX Design` `User Interface Design` `User Experience (UX)` `Flowcharting`</p>
+                    <p>`Graphic Design` `Logo Design` `Video Editing`</p>
                 </td>
             </tr>
             <tr style="border-bottom: 2px solid #ccc;">
@@ -649,7 +659,7 @@
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
                             </a>
                             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+                                <img src="https://img.icons8.com/fluency/452/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
                             </a>
                             <a href="https://laravel.com" target="_blank" rel="noreferrer">
                                 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
