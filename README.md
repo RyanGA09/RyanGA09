@@ -415,7 +415,9 @@
                     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" width="40" height="40"/> Soft Skills
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Leadership` `Teamwork` `Group Work` `Collaboration` `Communication` `Presentation` `Problem Solving` `Critical Thinking` `Listening` `Analytical Thinking` `Team Coordination` `Teaching`
+                    <p>`Leadership` `Teamwork` `Group Work` `Collaboration` `Team Coordination`</p>
+                    <p>`Communication` `Presentation` `Teaching`</p>
+                    <p>`Problem Solving` `Critical Thinking` `Listening` `Analytical Thinking`</p>
                 </td>
             </tr>
             <tr style="border-bottom: 2px solid #ccc;">
