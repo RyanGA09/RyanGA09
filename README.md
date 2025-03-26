@@ -305,12 +305,13 @@
     <div>
         <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
         <ul align="left">
-            <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — (August 2024 - February 2025).</li>
-            <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — (May 2024 - July 2024).</li>
-            <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — (March 2024 - July 2024).</li>
-            <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> - (May 2024 - July 2024).</li>
-            <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — (May 2024 - June 2024).</li>
-            <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — (May 2024 - May 2024).</li>
+            <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — <em>(August 2024 - February 2025)</em></li>
+            <li><strong>MySkill Short Class Task Monthly</strong> — <em>(May 2024 - March 2025)</em></li>
+            <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — <em>(May 2024 - July 2024)</em></li>
+            <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — <em>(May 2024 - July 2024)</em></li>
+            <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — <em>(March 2024 - July 2024)</em></li>
+            <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — <em>(May 2024 - June 2024)</em></li>
+            <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — <em>(May 2024 - May 2024)</em></li>
         </ul>
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
