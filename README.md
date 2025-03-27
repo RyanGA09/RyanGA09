@@ -305,6 +305,7 @@
     <div>
         <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
         <ul align="left">
+            <li><strong>Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest</strong> — <em>(August 2024 - February 2025)</em></li>
             <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — <em>(August 2024 - February 2025)</em></li>
             <li><strong>MySkill Short Class Task Monthly</strong> — <em>(May 2024 - March 2025)</em></li>
             <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — <em>(May 2024 - July 2024)</em></li>
