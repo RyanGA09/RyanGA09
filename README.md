@@ -305,14 +305,66 @@
     <div>
         <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
         <ul align="left">
-            <li><strong>Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest</strong> — <em>(August 2024 - February 2025)</em></li>
-            <li><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong> — <em>(August 2024 - February 2025)</em></li>
-            <li><strong>MySkill Short Class Task Monthly</strong> — <em>(May 2024 - March 2025)</em></li>
-            <li><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — <em>(May 2024 - July 2024)</em></li>
-            <li><strong>Rancang Bangung Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong> — <em>(May 2024 - July 2024)</em></li>
-            <li><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong> — <em>(March 2024 - July 2024)</em></li>
-            <li><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong> — <em>(May 2024 - June 2024)</em></li>
-            <li><strong>Impact Analysis Covid-19 (Case Study Project)</strong> — <em>(May 2024 - May 2024)</em></li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_1" target="_blank">
+                        Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest
+                    </a>
+                </strong> - <em>(August 2024 - February 2025)</em>
+                <br>Pengembangan sistem untuk mengelola data penelitian dan pengabdian masyarakat di ITATS dengan model prototyping agar lebih fleksibel dalam perbaikan sistem.
+            </li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_1" target="_blank">
+                        Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping
+                    </a>
+                </strong> - <em>(August 2024 - February 2025)</em>
+                <br>Pengembangan sistem untuk mengelola data penelitian dan pengabdian masyarakat di ITATS dengan model prototyping agar lebih fleksibel dalam perbaikan sistem.
+            </li>
+            <li>
+                <strong>MySkill Short Class Task Monthly</strong> - <em>(May 2024 - March 2025)</em>
+                <br>Serangkaian tugas bulanan dari MySkill yang mencakup berbagai topik pengembangan keterampilan teknologi dan analisis data.
+            </li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_2" target="_blank">
+                        Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
+                    </a>
+                </strong> - <em>(May 2024 - July 2024)</em>
+                <br>Sistem informasi berbasis web untuk membantu manajemen penilaian santri secara digital dan terstruktur.
+            </li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_3" target="_blank">
+                        Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
+                    </a>
+                </strong> - <em>(May 2024 - July 2024)</em>
+                <br>Pembuatan website profil perusahaan untuk meningkatkan transparansi dan aksesibilitas informasi tentang Pondok Pesantren Ribath Daruttauhid.
+            </li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_4" target="_blank">
+                        Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall
+                    </a>
+                </strong> - <em>(March 2024 - July 2024)</em>
+                <br>Sistem manajemen berbasis web untuk memfasilitasi pengumpulan dan verifikasi dokumen skripsi mahasiswa secara online.
+            </li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_5" target="_blank">
+                        Analysis of Flight Delays and Airline Performance (Capstone Project)
+                    </a>
+                </strong> - <em>(May 2024 - June 2024)</em>
+                <br>Analisis data penerbangan untuk mengidentifikasi faktor-faktor penyebab keterlambatan penerbangan dan kinerja maskapai.
+            </li>
+            <li>
+                <strong>
+                    <a href="LINK_PROYEK_6" target="_blank">
+                        Impact Analysis Covid-19 (Case Study Project)
+                    </a>
+                </strong> - <em>(May 2024)</em>
+                <br>Studi kasus mengenai dampak pandemi COVID-19 terhadap berbagai sektor industri dan ekonomi global.
+            </li>
         </ul>
     </div>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
