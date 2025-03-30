@@ -307,7 +307,7 @@
         <ul align="left">
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_1" target="_blank">
+                    <a href="#" target="_blank">
                         Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest
                     </a>
                 </strong> - <em>(August 2024 - February 2025)</em>
@@ -315,19 +315,23 @@
             </li>
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_1" target="_blank">
+                    <a href="#" target="_blank">
                         Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping
                     </a>
                 </strong> - <em>(August 2024 - February 2025)</em>
                 <br>Pengembangan sistem untuk mengelola data penelitian dan pengabdian masyarakat di ITATS dengan model prototyping agar lebih fleksibel dalam perbaikan sistem.
             </li>
             <li>
-                <strong>MySkill Short Class Task Monthly</strong> - <em>(May 2024 - March 2025)</em>
+                <strong>
+                    <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">
+                        MySkill Short Class Task Monthly
+                    </a>
+                </strong> - <em>(May 2024 - March 2025)</em>
                 <br>Serangkaian tugas bulanan dari MySkill yang mencakup berbagai topik pengembangan keterampilan teknologi dan analisis data.
             </li>
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_2" target="_blank">
+                    <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">
                         Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
@@ -335,7 +339,7 @@
             </li>
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_3" target="_blank">
+                    <a href="https://ribathdt.com/" target="_blank">
                         Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
@@ -343,7 +347,7 @@
             </li>
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_4" target="_blank">
+                    <a href="https://ejournal.itats.ac.id/semtik/article/view/6169" target="_blank">
                         Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall
                     </a>
                 </strong> - <em>(March 2024 - July 2024)</em>
@@ -351,7 +355,7 @@
             </li>
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_5" target="_blank">
+                    <a href="https://docs.google.com/presentation/d/1xoNftmpjdeyyektjhhVzNZ5j7kl0YIIX/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
                         Analysis of Flight Delays and Airline Performance (Capstone Project)
                     </a>
                 </strong> - <em>(May 2024 - June 2024)</em>
@@ -359,7 +363,7 @@
             </li>
             <li>
                 <strong>
-                    <a href="LINK_PROYEK_6" target="_blank">
+                    <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
                         Impact Analysis Covid-19 (Case Study Project)
                     </a>
                 </strong> - <em>(May 2024)</em>
