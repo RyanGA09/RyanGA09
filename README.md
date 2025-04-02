@@ -319,7 +319,7 @@
                         Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping
                     </a>
                 </strong> - <em>(August 2024 - February 2025)</em>
-                <br>Pengembangan sistem untuk mengelola data penelitian dan pengabdian masyarakat di ITATS dengan model prototyping agar lebih fleksibel dalam perbaikan sistem.
+                <br>The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.
             </li>
             <li>
                 <strong>
@@ -335,7 +335,7 @@
                         Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
-                <br>Sistem informasi berbasis web untuk membantu manajemen penilaian santri secara digital dan terstruktur.
+                <br>Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh)
             </li>
             <li>
                 <strong>
@@ -343,7 +343,7 @@
                         Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
-                <br>Pembuatan website profil perusahaan untuk meningkatkan transparansi dan aksesibilitas informasi tentang Pondok Pesantren Ribath Daruttauhid.
+                <br>Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh)
             </li>
             <li>
                 <strong>
@@ -351,7 +351,7 @@
                         Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall
                     </a>
                 </strong> - <em>(March 2024 - July 2024)</em>
-                <br>Sistem manajemen berbasis web untuk memfasilitasi pengumpulan dan verifikasi dokumen skripsi mahasiswa secara online.
+                <br>As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.
             </li>
             <li>
                 <strong>
@@ -359,7 +359,8 @@
                         Analysis of Flight Delays and Airline Performance (Capstone Project)
                     </a>
                 </strong> - <em>(May 2024 - June 2024)</em>
-                <br>Analisis data penerbangan untuk mengidentifikasi faktor-faktor penyebab keterlambatan penerbangan dan kinerja maskapai.
+                <br>MIKTI Independent Study Batch 6 Program - Capstone Project
+                <br>Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.
             </li>
             <li>
                 <strong>
@@ -367,7 +368,8 @@
                         Impact Analysis Covid-19 (Case Study Project)
                     </a>
                 </strong> - <em>(May 2024)</em>
-                <br>Studi kasus mengenai dampak pandemi COVID-19 terhadap berbagai sektor industri dan ekonomi global.
+                <br>MIKTI Independent Study Batch 6 Program - Case Study Project
+                <br>Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
             </li>
         </ul>
     </div>
