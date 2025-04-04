@@ -327,7 +327,7 @@
                         MySkill Short Class Task Monthly
                     </a>
                 </strong> - <em>(May 2024 - March 2025)</em>
-                <br>Serangkaian tugas bulanan dari MySkill yang mencakup berbagai topik pengembangan keterampilan teknologi dan analisis data.
+                <br>Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
             </li>
             <li>
                 <strong>
@@ -367,7 +367,7 @@
                     <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
                         Impact Analysis Covid-19 (Case Study Project)
                     </a>
-                </strong> - <em>(May 2024)</em>
+                </strong> - <em>(May 2024 - May 2024)</em>
                 <br>MIKTI Independent Study Batch 6 Program - Case Study Project
                 <br>Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
             </li>
