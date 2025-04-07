@@ -907,10 +907,9 @@
                             <a href="https://lxml.de/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapingant.com/blog/img/blog/lxml-logo.png" alt="LXML" width="75" height="40"/>
                             </a>
-                    <!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://www.articlestheme.com/wp-content/uploads/2021/05/Selenium_Logo-1470x1536.png" alt="Selenium" width="40" height="40"/>
+                            <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
-                            </a> -->
+                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
