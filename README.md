@@ -438,10 +438,138 @@
                         </tr>
                     </tbody>
                 </table>
-                <!-- Menambahkan link ke halaman Medium untuk membaca lebih banyak artikel -->
+                <!-- Added links to Medium pages to read more articles -->
                 <div align="center" style="margin-top: 20px;">
                     <p style="font-size: 16px; color: black;">Want to read more articles? Visit my <a href="https://medium.com/@ryangadingabdullah" style="color: blue; text-decoration: none;">Medium page</a> for more publications!</p>
                 </div>
+            </li>
+        </ul>
+    </div>
+    <div>
+        <ul>
+            <li>
+                <h5>Proceedings and Journals</h5>
+                <!-- Proceedings section -->
+                <div>Proceedings</div>
+                <h6>Latest Publications</h6>
+                <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
+                    <thead align="center">
+                        <tr>
+                            <th>Publications</th>
+                            <th>Titles</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- SEMTIK Proceeding-->
+                        <tr>
+                            <td align="center">
+                                <strong>SEMTIK (Seminar Implementasi Teknologi Informasi dan Komunikasi)</strong><br>
+                                <em>22 Agustus 2024</em>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</summary>
+                                        <p style="font-size: 12px; color: black;">Makalah ini menyajikan pengembangan Sistem Informasi Manajemen untuk pengumpulan dokumen skripsi mahasiswa menggunakan model Waterfall. Sistem ini bertujuan untuk memperlancar proses manajemen dan pengorganisasian pengajuan skripsi mahasiswa, memastikan penyimpanan dan pengambilan dokumen yang efisien. Model Waterfall dipilih karena pendekatannya yang terstruktur, yang memungkinkan pengembangan sistematis dan dokumentasi yang jelas di setiap tahap. Proses pengembangan meliputi analisis kebutuhan, desain sistem, implementasi, pengujian, dan pemeliharaan. Keefektifan sistem dievaluasi melalui pengujian black-box, mencapai tingkat keberhasilan rata-rata sebesar 89%. Hal ini menunjukkan bahwa sistem memenuhi persyaratan fungsional dan berfungsi sesuai yang diharapkan. Selain itu, sistem ini juga mendapat umpan balik positif dari pengguna akhir, yang menyatakan bahwa sistem ini mudah digunakan dan sangat membantu dalam manajemen dokumen skripsi. Hasil penelitian menunjukkan bahwa sistem yang diimplementasikan dapat secara signifikan meningkatkan manajemen dokumen skripsi, menyediakan solusi yang andal dan ramah pengguna bagi institusi akademik. Pengembangan lebih lanjut dapat mencakup penambahan fitur tambahan seperti integrasi dengan sistem informasi akademik lainnya dan peningkatan keamanan data. Studi ini menunjukkan potensi metodologi pengembangan sistem terstruktur seperti Waterfall dalam menciptakan sistem manajemen yang efektif dan efisien untuk institusi pendidikan.</p>
+                                    </details>
+                                    <a href="https://ejournal.itats.ac.id/semtik/article/view/6169" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr>
+<!--                         <tr>
+                            <td align="center">
+                                <strong>Publisher</strong><br>
+                                <em>Date Published</em>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Proceeding 2</summary>
+                                        <p style="font-size: 12px; color: black;">Short description about the proceeding. This could cover its focus, topics discussed, or scope.</p>
+                                    </details>
+                                    <a href="URL_TO_PROCEEDING_2" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr> -->
+<!--                         <tr>
+                            <td>
+                                <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                                    <img src="URL_SEMTIK_BANNER" alt="SEMTIK Banner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+                                </div>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Proceeding 1 (DOI: 10.xxxx/xxxxx)</summary>
+                                        <p style="font-size: 12px; color: black;">Short description about the proceeding. This could cover its focus, topics discussed, or scope.</p>
+                                    </details>
+                                    <a href="URL_TO_PROCEEDING_1" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr> -->
+                    </tbody>
+                </table>
+                <!-- Journals section -->
+                <div>Journals</div>
+                <h6>Latest Publications</h6>
+                <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
+                    <thead align="center">
+                        <tr>
+                            <th>Publications</th>
+                            <th>Titles</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- JITET Journal -->
+                        <tr>
+                            <td align="center">
+                                <strong>JITET (Jurnal Teknik Informatika dan Teknik Elektro Terapan)</strong><br>
+                                <em>7 Agustus 2024</em>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Sistem Deteksi Penyakit Pada Otak dengan Pendekatan Klasifikasi CNN dan Preprocessing Image Generator (DOI: 10.23960/jitet.v12i3.4371)</summary>
+                                        <p style="font-size: 12px; color: black;">In today's digital era, artificial intelligence technology has become an important part of various human activities, including in the healthcare sector. One of its focal points is the detection of brain diseases, which have significant implications for health and medical expenses. This study addresses the issue of accuracy in brain disease detection through the utilization of Convolutional Neural Network (CNN) methodology and preprocessing Image Generator. Previous research suggests that CNN with preprocessing Image Generator has the potential to enhance detection accuracy. The research employs the Computed Tomography (CT) of the Brain dataset from Kaggle, comprising 259 data points categorized into three classes: aneurysm, tumor, and cancer. Experimental findings indicate that the CNN method with preprocessing Image Generator yields higher accuracy in both training and testing phases, with reduced complexity. In conclusion, this method holds promise for more effective detection of brain diseases.</p>
+                                    </details>
+                                    <a href="http://dx.doi.org/10.23960/jitet.v12i3.4371" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr>
+<!--                         <tr>
+                            <td align="center">
+                                <strong>Publisher</strong><br>
+                                <em>Date Published</em>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Journal 2 (DOI: 10.xxxx/xxxxx)</summary>
+                                        <p style="font-size: 12px; color: black;">Short description about the journal. This could cover its focus, topics discussed, or scope.</p>
+                                    </details>
+                                    <a href="URL_TO_JOURNAL_2" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr> -->
+<!--                         <tr>
+                            <td>
+                                <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                                    <img src="URL_IMAGE_2_JOURNAL" alt="Journal 2 Banner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+                                </div>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Journal 2 (DOI: 10.xxxx/xxxxx)</summary>
+                                        <p style="font-size: 12px; color: black;">Short description about the journal. This could cover its focus, topics discussed, or scope.</p>
+                                    </details>
+                                    <a href="URL_TO_JOURNAL_2" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr> -->
+                        <!-- Tambahkan lebih banyak jurnal jika diperlukan -->
+                    </tbody>
+                </table>
             </li>
         </ul>
     </div>
