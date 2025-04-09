@@ -852,7 +852,7 @@
                                 <img src="https://img.icons8.com/fluency/452/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
                             </a>
                             <a href="https://laravel.com" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+                                <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="Laravel" width="40" height="40"/>
                             </a>
                             <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
