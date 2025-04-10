@@ -1024,7 +1024,7 @@
                                 <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BeautifulSoup" width="60" height="40"/>
                             </a>
                             <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-                                <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+                                <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="Requests" width="40" height="60"/>
                             </a>
                             <!-- <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
                                 <img src="https://requests-html.kennethreitz.org/_static/requests-html-logo.png" alt="requests_html" width="40" height="40"/>
@@ -1105,15 +1105,16 @@
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
                             </a> -->
                         </div>
+                        </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Development Frameworks -->
                             <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="40" height="40"/>
                                 <img src="https://mkornyev.github.io/my_images/django.png" alt="django" width="40" height="40"/>
                             </a> -->
-                            <!-- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-                            </a> -->
+                            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                                <img src="https://logo.svgcdn.com/l/flask.svg" alt="flask" width="40" height="40"/>
+                            </a>
                             <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
                                 <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
                             </a> -->
@@ -1192,9 +1193,9 @@
                                 <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
                             </a>
                             <!-- Sublime Text -->
-                            <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+<!--                             <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
-                            </a>
+                            </a> -->
                             <!-- Sublime Merge -->
                             <!-- <a href="https://www.sublimemerge.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.sublimemerge.com/images/logo.svg" alt="Sublime Merge" width="40" height="40"/>
@@ -1304,6 +1305,10 @@
                             <!-- Capcut -->
                             <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
                                 <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+                            </a>
+                            <!-- HandBrake -->
+                            <a href="https://handbrake.fr/" target="_blank" rel="noreferrer">
+                                <img src="https://handbrake.fr/img/logo.png" alt="HandBrake" width="40" height="40"/>
                             </a>
                             <!-- Adobe Premiere Pro -->
                             <!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
