@@ -44,6 +44,10 @@
     <a href="https://www.upwork.com/freelancers/~01786dce7666e1a0e4" target="_blank">
         <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
     </a>
+    <!-- Fiverr Badge -->
+<!--     <a href="https://www.fiverr.com/ryanga09" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-Hire-green?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
+    </a> -->
     <!-- Instagram Badge -->
     <a href="https://www.instagram.com/ryan_g._a" target="blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
