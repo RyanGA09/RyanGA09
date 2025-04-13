@@ -459,8 +459,8 @@
                 <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
                     <thead align="center">
                         <tr>
-                            <th>Publications</th>
-                            <th>Titles</th>
+                            <th width="30%">Publications</th>
+                            <th width="70%">Titles</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -519,8 +519,8 @@
                 <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
                     <thead align="center">
                         <tr>
-                            <th>Publications</th>
-                            <th>Titles</th>
+                            <th width="30%">Publications</th>
+                            <th width="70%">Titles</th>
                         </tr>
                     </thead>
                     <tbody>
