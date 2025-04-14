@@ -861,9 +861,27 @@
                             <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
                             </a>
-                            <!-- <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+                            <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
+                            </a>
+<!--                             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
                             </a> -->
+<!--                             <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://angular.io/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                                <img src="https://static-00.iconduck.com/assets.00/djangoproject-icon-256x256-d19anol5.png" alt="Django" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="background-color: white;"/>
+                            </a> -->
+                            <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+                                <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/>
+                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -873,6 +891,24 @@
                             <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
                             </a>
+<!--                             <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle Database" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/IBM_DB2_logo.svg" alt="IBM Db2" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://aws.amazon.com/rds/aurora/" target="_blank" rel="noreferrer">
+                                <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="Amazon Aurora" width="40" height="40"/>
+                            </a> -->
                     <!--         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
                             </a> -->
@@ -882,6 +918,24 @@
                             <!-- <a href="https://cassandra.apache.org/_/index.html" target="_blank">
                                 <img  src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40"/>
                             </a>   -->
+<!--                             <a href="https://firebase.google.com/products/realtime-database" target="_blank" rel="noreferrer">
+                                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/CouchDB.svg" alt="CouchDB" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Neo4j_Logo.svg" alt="Neo4j" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://www.arangodb.com/" target="_blank" rel="noreferrer">
+                                <img src="https://arangodb.com/wp-content/uploads/2016/05/ArangoDB-logo-2016-blue.png" alt="ArangoDB" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://rethinkdb.com/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/RethinkDB_Logo_2016.svg" alt="RethinkDB" width="40" height="40"/>
+                            </a> -->
+<!--                             <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Amazon-dynamodb-logo.png" alt="DynamoDB" width="40" height="40"/>
+                            </a> -->
                         </div>
                     </td>
                 </tr>
