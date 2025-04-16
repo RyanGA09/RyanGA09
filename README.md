@@ -255,7 +255,7 @@
         <ul align="left">
             <li>
                 <strong>Machine Learning Intern</strong> — 
-                <a href="https://codveda.com/">Codveda Technologies</a> [March 2025 - Present]
+                <a href="https://codveda.com/">Codveda Technologies</a> [March 2025 - April 2025]
             </li> 
             <li>
                 <strong>Web Developer</strong> — 
@@ -272,7 +272,7 @@
             </li> 
             <li>
                 <strong>Junior Web Developer</strong> — 
-                <a href="https://digitalent.kominfo.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
+                <a href="https://digitalent.komdigi.go.id/#">Digital Talent Scholarship</a> [April 2023 - May 2023]
             </li> 
         </ul>
         <h4><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Educations:</h4>
