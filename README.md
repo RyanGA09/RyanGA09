@@ -132,6 +132,14 @@
         <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a>
+    <!-- Epic Games Badge -->
+<!--     <a href="https://www.epicgames.com/id/YourUsername" target="_blank">
+        <img src="https://img.shields.io/badge/Epic_Games-Follow-313131?logo=epicgames&style=for-the-badge" alt="Follow on Epic Games" />
+    </a> -->
+    <!-- Tracker Badge -->
+<!--     <a href="https://tracker.gg/valorant/profile/riot/YourName%23Tagline/overview" target="_blank">
+        <img src="https://img.shields.io/badge/Valorant_Stats-View-FF4655?logo=riot-games&style=for-the-badge" alt="View Valorant Stats" />
+    </a> -->
     <!-- Patreon Badge -->
 <!--         <a href="https://www.patreon.com/yourusername" target="blank">
         <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
