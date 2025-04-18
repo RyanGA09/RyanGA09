@@ -261,6 +261,10 @@
         <!-- Internship Experiences -->
         <h5>Internships</h5>
         <ul align="left">
+<!--             <li>
+                <strong>Machine Learning Engineer Intern</strong> — 
+                <a href="https://codveda.com/">Caprae</a> [April 2025 - Present]
+            </li>  -->
             <li>
                 <strong>Machine Learning Intern</strong> — 
                 <a href="https://codveda.com/">Codveda Technologies</a> [March 2025 - April 2025]
