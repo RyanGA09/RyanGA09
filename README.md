@@ -8,8 +8,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=3399FFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG"/>
     </a>
     <br/>
-<!--     <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=900&size=40&duration=1000&pause=1000&center=true&vCenter=true&width=500&height=75&lines=Data+Analyst+&+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Frontend+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG"/> -->
-    <!--     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Font+Sans+Serif&weight=900&size=40&duration=2000&pause=1000&color=00EDFF&center=true&vCenter=true&width=1000&height=75&lines=Data+Analyst+%26+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Writing;Frontend+Developer;Web+Developer;UI+Design+(Figma);Graphic+Design+(Canva))](https://git.io/typing-svg) -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Font+Sans+Serif&weight=900&size=40&duration=2000&pause=1000&color=00EDFF&center=true&vCenter=true&width=1000&height=75&lines=Data+Analyst+%26+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Writing;Frontend+Developer;Web+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG" /></a>
 </div>
 </br>
@@ -106,22 +104,6 @@
         <a href="https://free91445.wordpress.com/" target="blank">
         <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
     </a>
-    <!-- Jekyll/GitHub Pages Blog Badge -->
-<!--         <a href="https://yourusername.github.io" target="blank">
-        <img src="https://img.shields.io/badge/GitHub_Pages-Read-black?style=for-the-badge&logo=github" alt="Read My GitHub Pages Blog" />
-    </a> -->
-    <!-- Custom Blog Badge -->
-<!--         <a href="https://yourblog.com" target="blank">
-        <img src="https://img.shields.io/badge/Blog-Read-green?style=for-the-badge" alt="Read My Blog" />
-    </a> -->
-    <!-- Twitch Badge -->
-<!--         <a href="https://www.twitch.tv/yourchannel" target="blank">
-        <img src="https://img.shields.io/badge/Twitch-Follow-purple?logo=twitch&style=for-the-badge" alt="Follow on Twitch" />
-    </a> -->
-    <!-- Vimeo Badge -->
-<!--         <a href="https://vimeo.com/yourprofile" target="blank">
-        <img src="https://img.shields.io/badge/Vimeo-Subscribe-blue?logo=vimeo&style=for-the-badge" alt="Subscribe on Vimeo" />
-    </a> -->
     <!-- GitHub Sponsors Badge -->
 <!--         <a href="https://github.com/sponsors/yourusername" target="blank">
         <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
@@ -137,34 +119,6 @@
     <!-- Epic Games Badge -->
 <!--     <a href="https://www.epicgames.com/id/YourUsername" target="_blank">
         <img src="https://img.shields.io/badge/Epic_Games-Follow-313131?logo=epicgames&style=for-the-badge" alt="Follow on Epic Games" />
-    </a> -->
-    <!-- Tracker Badge -->
-<!--     <a href="https://tracker.gg/valorant/profile/riot/YourName%23Tagline/overview" target="_blank">
-        <img src="https://img.shields.io/badge/Valorant_Stats-View-FF4655?logo=riot-games&style=for-the-badge" alt="View Valorant Stats" />
-    </a> -->
-    <!-- Patreon Badge -->
-<!--         <a href="https://www.patreon.com/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/Patreon-Support-blue?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
-    </a> -->
-    <!-- DeviantArt Badge -->
-<!--         <a href="https://www.deviantart.com/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/DeviantArt-Follow-darkgreen?logo=deviantart&style=for-the-badge" alt="Follow on DeviantArt" />
-    </a> -->
-    <!-- Vercel Badge -->
-<!--         <a href="https://vercel.com/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel&style=for-the-badge" alt="Deploy on Vercel" />
-    </a> -->
-    <!-- Netlify Badge -->
-<!--         <a href="https://www.netlify.com/yourusername" target="blank">
-        <img src="https://img.shields.io/badge/Netlify-Deploy-darkblue?logo=netlify&style=for-the-badge" alt="Deploy on Netlify" />
-    </a> -->
-    <!-- Heroku Badge -->
-<!--         <a href="https://www.heroku.com/yourapp" target="blank">
-        <img src="https://img.shields.io/badge/Heroku-Deploy-purple?logo=heroku&style=for-the-badge" alt="Deploy on Heroku" />
-    </a> -->
-    <!-- Cloudflare Badge -->
-<!--         <a href="https://www.cloudflare.com/yourprofile" target="blank">
-        <img src="https://img.shields.io/badge/Cloudflare-Use-green?logo=cloudflare&style=for-the-badge" alt="Use Cloudflare" />
     </a> -->
 </div>
 </br>
@@ -220,7 +174,6 @@
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0285.gif" border="0" alt="animated-computer-image-0285" width="50" height="25"/> Languages Stats:</h3>
     <div align="center">
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=600" alt="Languages"> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGA09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide_progress=false&card_width=350" alt="Languages">
     </div>
     <h3><img src="https://www.animatedimages.org/data/media/1353/animated-medal-image-0019.gif" border="0" alt="animated-computer-image-0040" width="25" height="25"/> Achievements Stats:</h3>
@@ -502,37 +455,6 @@
                                 </div>
                             </td>
                         </tr>
-<!--                         <tr>
-                            <td align="center">
-                                <strong>Publisher</strong><br>
-                                <em>Date Published</em>
-                            </td>
-                            <td>
-                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                                    <details style="text-align: center;">
-                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Proceeding 2</summary>
-                                        <p style="font-size: 12px; color: black;">Short description about the proceeding. This could cover its focus, topics discussed, or scope.</p>
-                                    </details>
-                                    <a href="URL_TO_PROCEEDING_2" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
-                                </div>
-                            </td>
-                        </tr> -->
-<!--                         <tr>
-                            <td>
-                                <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                                    <img src="URL_SEMTIK_BANNER" alt="SEMTIK Banner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-                                </div>
-                            </td>
-                            <td>
-                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                                    <details style="text-align: center;">
-                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Proceeding 1 (DOI: 10.xxxx/xxxxx)</summary>
-                                        <p style="font-size: 12px; color: black;">Short description about the proceeding. This could cover its focus, topics discussed, or scope.</p>
-                                    </details>
-                                    <a href="URL_TO_PROCEEDING_1" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
-                                </div>
-                            </td>
-                        </tr> -->
                     </tbody>
                 </table>
                 <!-- Journals section -->
@@ -562,50 +484,10 @@
                                 </div>
                             </td>
                         </tr>
-<!--                         <tr>
-                            <td align="center">
-                                <strong>Publisher</strong><br>
-                                <em>Date Published</em>
-                            </td>
-                            <td>
-                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                                    <details style="text-align: center;">
-                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Journal 2 (DOI: 10.xxxx/xxxxx)</summary>
-                                        <p style="font-size: 12px; color: black;">Short description about the journal. This could cover its focus, topics discussed, or scope.</p>
-                                    </details>
-                                    <a href="URL_TO_JOURNAL_2" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
-                                </div>
-                            </td>
-                        </tr> -->
-<!--                         <tr>
-                            <td>
-                                <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                                    <img src="URL_IMAGE_2_JOURNAL" alt="Journal 2 Banner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-                                </div>
-                            </td>
-                            <td>
-                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                                    <details style="text-align: center;">
-                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Title of Journal 2 (DOI: 10.xxxx/xxxxx)</summary>
-                                        <p style="font-size: 12px; color: black;">Short description about the journal. This could cover its focus, topics discussed, or scope.</p>
-                                    </details>
-                                    <a href="URL_TO_JOURNAL_2" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
-                                </div>
-                            </td>
-                        </tr> -->
-                        <!-- Tambahkan lebih banyak jurnal jika diperlukan -->
                     </tbody>
                 </table>
             </li>
         </ul>
-    </div>
-    <div>
-        <!-- <h4>Dev.To</h4>
-        <h5>Latest Publications</h5> -->
-        <!-- Menambahkan link ke halaman Medium untuk membaca lebih banyak artikel -->
-        <!-- <div align="center" style="margin-top: 20px;">
-            <p style="font-size: 16px; color: black;">Want to read more articles? Visit my <a href="https://medium.com/@ryangadingabdullah" style="color: blue; text-decoration: none;">Dev.To page</a> for more publications!</p>
-        </div> -->
     </div>
 </details>
 
@@ -766,42 +648,6 @@
                             <a href="https://www.script.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://dart.dev/" target="_blank">
-                                <img  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart" width="40" height="40" />
-                            </a> -->
-                    <!--         <a target="_blank" href="https://kotlinlang.org/" style="display: inline-block;">
-                                <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-                            </a> -->
-                            <!-- <a target="_blank" href="https://golang.org/" style="display: inline-block;">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-                            </a> -->
-                            <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -812,9 +658,6 @@
                             <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
                                 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
                             </a>
-<!--                             <a href="https://en.wikipedia.org/wiki/XML" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="XML" width="75" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -825,36 +668,16 @@
                             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
                             </a>
-<!--                             <a href="https://www.zsh.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Z_Shell_logo.svg/512px-Z_Shell_logo.svg.png" alt="Zsh" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://fishshell.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fish-shell-logo.png/512px-Fish-shell-logo.png" alt="Fish Shell" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Data Format -->
                             <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank" rel="noreferrer">
-<!--                                 <img src="https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Data_files_Comma_Separated_Values_File-512.png" alt="CSV" width="40" height="40"/> -->
-<!--                                 <img src="https://w7.pngwing.com/pngs/425/400/png-transparent-comma-separated-values-computer-icons-microsoft-excel-csv-text-logo-grass-thumbnail.png" alt="CSV" width="40" height="40"/> -->
                                 <img src="https://static-00.iconduck.com/assets.00/csv-icon-1500x2048-1ofw6mtf.png" alt="CSV" width="40" height="40"/>
                             </a>
                             <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
                             </a>
-<!--                             <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/768px-Official_YAML_Logo.svg.png" alt="YAML" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://avro.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Apache_avro_logo.svg/512px-Apache_avro_logo.svg.png" alt="Apache Avro" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://parquet.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Apache_Parquet_logo.svg/512px-Apache_Parquet_logo.svg.png" alt="Apache Parquet" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -886,21 +709,6 @@
                             <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
                             </a>
-<!--                             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://angular.io/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/djangoproject-icon-256x256-d19anol5.png" alt="Django" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="background-color: white;"/>
-                            </a> -->
                             <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/>
                             </a>
@@ -913,51 +721,6 @@
                             <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
                             </a>
-<!--                             <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle Database" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/IBM_DB2_logo.svg" alt="IBM Db2" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://aws.amazon.com/rds/aurora/" target="_blank" rel="noreferrer">
-                                <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="Amazon Aurora" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://redis.io/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://cassandra.apache.org/_/index.html" target="_blank">
-                                <img  src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40"/>
-                            </a>   -->
-<!--                             <a href="https://firebase.google.com/products/realtime-database" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/CouchDB.svg" alt="CouchDB" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Neo4j_Logo.svg" alt="Neo4j" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://www.arangodb.com/" target="_blank" rel="noreferrer">
-                                <img src="https://arangodb.com/wp-content/uploads/2016/05/ArangoDB-logo-2016-blue.png" alt="ArangoDB" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://rethinkdb.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/RethinkDB_Logo_2016.svg" alt="RethinkDB" width="40" height="40"/>
-                            </a> -->
-<!--                             <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Amazon-dynamodb-logo.png" alt="DynamoDB" width="40" height="40"/>
-                            </a> -->
                         </div>
                     </td>
                 </tr>
@@ -995,21 +758,6 @@
                             <a href="https://numpy.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://dask.org/" target="_blank" rel="noreferrer">
-                                <img src="https://dask.org/assets/img/dask-logo.svg" alt="dask" width="40" height="40"/>
-                            </a>
-                            <a href="https://vaex.io/" target="_blank" rel="noreferrer">
-                                <img src="https://vaex.io/images/vaex-logo.svg" alt="vaex" width="40" height="40"/>
-                            </a>
-                            <a href="https://modin.readthedocs.io/" target="_blank" rel="noreferrer">
-                                <img src="https://modin.readthedocs.io/en/stable/_images/modin-logo.svg" alt="modin" width="40" height="40"/>
-                            </a>
-                            <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
-                            </a>
-                            <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1017,27 +765,6 @@
                             <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-                                <img src="https://xgboost.readthedocs.io/en/latest/_static/xgboost-logo.png" alt="xgboost" width="40" height="40"/>
-                            </a>
-                            <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer">
-                                <img src="https://lightgbm.readthedocs.io/en/latest/_images/lightgbm_logo.png" alt="lightgbm" width="40" height="40"/>
-                            </a>
-                            <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
-                                <img src="https://catboost.ai/static/logo.svg" alt="catboost" width="40" height="40"/>
-                            </a>
-                            <a href="https://epistasislab.github.io/tpot/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/EpistasisLab/tpot/master/docs/_static/tpot_logo.png" alt="tpot" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.h2o.ai/" target="_blank" rel="noreferrer">
-                                <img src="https://www.h2o.ai/images/h2o-logo.png" alt="h2o" width="40" height="40"/>
-                            </a>
-                            <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-                                <img src="https://mlflow.org/images/mlflow-logo-color.svg" alt="mlflow" width="40" height="40"/>
-                            </a>
-                            <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-                                <img src="https://dvc.org/img/dvc-logo.svg" alt="dvc" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1047,27 +774,7 @@
                             </a>
                             <a href="https://keras.io/" target="_blank" rel="noreferrer">
                                 <img src="https://www.tgcindia.com/wp-content/uploads/2023/01/1200px-Keras_logo.svg-1024x1024.png" alt="keras" width="40" height="40"/>
-                                <!-- <img src="http://man.hubwiz.com/docset/Keras.docset/Contents/Resources/Documents/img/keras-logo-small-wb.png" alt="keras" width="40" height="40"/> -->
-                                <!-- <img src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png" alt="keras" width="100" height="35"/> -->
                             </a>
-                    <!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo.png" alt="pytorch" width="40" height="40"/>
-                            </a>
-                            <a href="https://theano.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Theano_logo.svg" alt="theano" width="40" height="40"/>
-                            </a>
-                            <a href="http://caffe.berkeleyvision.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Caffe_logo.png" alt="caffe" width="40" height="40"/>
-                            </a>
-                            <a href="https://mxnet.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Apache_MXNet_logo.svg" alt="mxnet" width="40" height="40"/>
-                            </a>
-                            <a href="https://deeplearning4j.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/DeepLearning4J_logo.svg" alt="dl4j" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.fast.ai/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fast.ai_logo.svg" alt="fast.ai" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1075,27 +782,9 @@
                             <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
                                 <img src="https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png" alt="nltk" width="40" height="40"/>
                             </a>
-                            <!-- <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-                                <img src="https://spacy.io/static/img/spacy_logo.svg" alt="spacy" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-                                <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="huggingface" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://stanfordnlp.github.io/CoreNLP/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/StanfordNLP_Logo.png" alt="stanford_nlp" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://allennlp.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/AllenNLP_logo.png" alt="allennlp" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/master/gensim/resources/images/gen_logo.png" alt="gensim" width="40" height="40"/>
-                            </a> -->
                             <a href="https://textblob.readthedocs.io/en/dev/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/sloria/TextBlob/master/docs/_static/textblob-logo.png" alt="textblob" width="40" height="40"/>
                             </a>
-                            <!-- <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-                                <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1106,9 +795,6 @@
                             <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
                                 <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="Requests" width="40" height="60"/>
                             </a>
-                            <!-- <a href="https://requests-html.kennethreitz.org/" target="_blank" rel="noreferrer">
-                                <img src="https://requests-html.kennethreitz.org/_static/requests-html-logo.png" alt="requests_html" width="40" height="40"/>
-                            </a> -->
                             <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
                                 <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="40" height="40"/>
                             </a>
@@ -1131,15 +817,6 @@
                             <a href="https://plotly.com/" target="_blank" rel="noreferrer">
                                 <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="40" height="40"/>
                             </a>
-                            <!-- <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
-                                <img src="https://bokeh.org/_images/bokeh-logo.svg" alt="bokeh" width="40" height="40"/>
-                            </a>
-                            <a href="https://altair-viz.github.io/" target="_blank" rel="noreferrer">
-                                <img src="https://altair-viz.github.io/_static/altair-logo.svg" alt="altair" width="40" height="40"/>
-                            </a>
-                            <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Ggplot2_logo.png" alt="ggplot" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1157,52 +834,14 @@
                             <a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
                                 <img src="https://d2jdgazzki9vjm.cloudfront.net/tutorial/python-pillow/images/python-pillow.png" alt="pillow" width="40" height="40"/>
                             </a>
-                            <!-- <a href="https://simplecv.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/SimpleCV_Logo.png" alt="simplecv" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://www.tensorflow.org/lite" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TensorFlow_logo.svg/120px-TensorFlow_logo.svg.png" alt="tensorflow_lite" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://detectron2.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/tools/logo.jpg" alt="detectron2" width="40" height="40"/>
-                            </a> -->
-                        </div>
-                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <!-- Automation Tools -->
-                    <!--         <a href="https://pyautogui.readthedocs.io/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/docs/images/logo.png" alt="pyautogui" width="40" height="40"/>
-                            </a>
-                            <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-                                <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="airflow" width="40" height="40"/>
-                            </a> 
-                            <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Ansible_Logo.png" alt="ansible" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.svg" alt="docker" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Web Development Frameworks -->
-                            <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="40" height="40"/>
-                                <img src="https://mkornyev.github.io/my_images/django.png" alt="django" width="40" height="40"/>
-                            </a> -->
                             <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
                                 <img src="https://logo.svgcdn.com/l/flask.svg" alt="flask" width="40" height="40"/>
                             </a>
-                            <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-                                <img src="https://fastapi.tiangolo.com/img/logo.png" alt="fastapi" width="40" height="40"/>
-                            </a> -->
-                            <!-- <a href="https://trypyramid.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Pyramid-logo.svg" alt="pyramid" width="40" height="40"/>
-                            </a> -->
                         </div>
-                        <!-- <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div> -->
                     </td>
                 </tr>
                 <tr style="border-bottom: 2px solid #ccc;">
@@ -1227,19 +866,6 @@
                             <a href="https://gephi.org/" target="_blank" rel="noreferrer">
                                 <img src="https://img.informer.com/icons_mac/png/128/613/613066.png" alt="Gephi" width="40" height="40"/>
                             </a>
-                    <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
-                                <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
-                                <img src="https://img.apponic.com/39/219/f2e7b63321d32b52070b8012bde4c64f.png" alt="PowerDesigner" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
-                                <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="Power BI" width="30" height="40"/>
-                            </a> -->
-                    <!--         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-                                <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1247,19 +873,6 @@
                             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
                             </a>
-                            <!-- JetBrains -->
-                            <!-- <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
-                            </a> -->
-                            <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-j1qgfe43.png" alt="IntelliJ IDEA" width="40" height="40"/>
-                                <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="40" height="40"/> -->
-                            </a>
-                            <!-- <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/pycharm-icon-2048x2048-50p1jq6b.png" alt="PyCharm" width="40" height="40"/>
-                                <img src="https://www.liblogo.com/img-logo/py8871icf9-pycharm-logo-intellij-pycharm-alt-macos-icon-in-macos-big-sur.png" alt="PyCharm" width="40" height="40"/>
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/PyCharm_Logo.svg" alt="PyCharm" width="40" height="40"/>
-                            </a> -->
                             <!-- Google Colaboratory -->
                             <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
                                 <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colaboratory" width="40" height="40"/>
@@ -1272,40 +885,10 @@
                             <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/dev-c--logo-icon-32.png" alt="Dev C++" width="40" height="40"/>
                             </a>
-                            <!-- Sublime Text -->
-<!--                             <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-                                <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
-                            </a> -->
-                            <!-- Sublime Merge -->
-                            <!-- <a href="https://www.sublimemerge.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.sublimemerge.com/images/logo.svg" alt="Sublime Merge" width="40" height="40"/>
-                                <img src="https://softradar.com/static/products/sublime-merge/sublime-merge-logo.jpg" alt="Sublime Merge" width="40" height="40"/>
-                            </a> -->
                             <!-- Postman -->
                             <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
                                 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
                             </a>
-                            <!-- Notepad++ -->
-                            <!-- <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
-                                <img src="https://winaero.com/blog/wp-content/uploads/2021/02/Notepad-plus-plus-icon.png" alt="Notepad++" width="40" height="40"/>
-                                <img src="https://www.lydo.nl/blog/wp-content/uploads/2016/04/notepad.png" alt="Notepad++" width="40" height="40"/>
-                            </a> -->
-                            <!-- Vim -->
-                            <!-- <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Vimlogo.svg" alt="Vim" width="40" height="40"/>
-                            </a> -->
-                            <!-- Xcode -->
-                            <!-- <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Xcode_Logo.svg" alt="Xcode" width="40" height="40"/>
-                            </a> -->
-                            <!-- Atom -->
-                    <!--         <a href="https://atom.io/" target="_blank" rel="noreferrer">
-                                <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
-                            </a> -->
-                            <!-- Eclipse -->
-                    <!--         <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-                                <img src="https://www.eclipse.org/eclipse.org/images/eclipse-logo.png" alt="Eclipse" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1317,18 +900,10 @@
                             <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
                             </a>
-                            <!-- Docker -->
-                    <!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
-                            </a> -->
                             <!-- PgAdmin -->
                             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" alt="pgAdmin" width="40" height="40"/>
                             </a>
-                            <!-- MongoDB -->
-                <!--             <a href="https://www.mongodb.com/products/compass" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/mongodb-compass-icon-1024x1022-nlsyv7es.png" alt="MongoDB Compass" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -1340,40 +915,6 @@
                             <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
                             </a>
-                            <!-- Adobe -->
-                            <!-- <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg" alt="Adobe Dreamweaver" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="Adobe XD" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-                                <img  src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
-                                <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" width="40" height="40"/>
-                            </a>
-                            <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
-                                <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" width="40" height="40"/>
-                            </a> -->
-                            <!-- Sketch -->
-                    <!--         <a href="https://www.sketch.com/apps" target="_blank" rel="noreferrer">
-                                <img src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png" alt="Sketch" width="40" height="40"/>
-                            </a> -->
-                            <!-- Blender -->
-                    <!--         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-                            </a> -->
-                            <!-- InVision -->
-                    <!--         <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/InVisionApp_Logo.svg/1024px-InVisionApp_Logo.svg.png" alt="InVision" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <!-- Video Editing & Streaming Tools -->
@@ -1390,22 +931,6 @@
                             <a href="https://handbrake.fr/" target="_blank" rel="noreferrer">
                                 <img src="https://handbrake.fr/img/logo.png" alt="HandBrake" width="40" height="40"/>
                             </a>
-                            <!-- Adobe Premiere Pro -->
-                            <!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
-                            </a> -->
-                            <!-- Adobe Premiere -->
-                            <!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40" height="40"/>
-                            </a> -->
-                            <!-- DaVinci Resolve -->
-                            <!-- <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.shopify.com/s/files/1/0004/7661/0624/products/DavinciResolve14_logo_580x.png" alt="DaVinci Resolve" width="40" height="40"/>
-                            </a> -->
-                            <!-- Filmora -->
-                            <!-- <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/filmora_logo.png" alt="Filmora" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <!-- Tools for Office and Research Management -->
@@ -1422,18 +947,6 @@
                             <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
                                 <img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" alt="Microsoft PowerPoint" width="40" height="40"/>
                             </a>
-                            <!-- Microsoft Outlook -->
-                            <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/ms-outlook-icon-1024x897-itvc63x9.png" alt="Microsoft Outlook" width="40" height="40"/>
-                            </a> -->
-                            <!-- Microsoft Access -->
-                            <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer">
-                                <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-access-logo-1.png" alt="Microsoft Access" width="40" height="40"/>
-                            </a> -->
-                            <!-- Microsoft Publisher -->
-                            <!-- <a href="https://www.microsoft.com/en-us/microsoft-365/publisher" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_publisher_logo_icon_145717.png" alt="Microsoft Publisher" width="40" height="40"/>
-                            </a> -->
                             <!-- Adobe Acrobat -->
                             <a href="https://get.adobe.com/reader/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn1.iconfinder.com/data/icons/application-file-formats/128/adobe-pdf-1024.png" alt="Adobe Acrobat" width="40" height="40"/>
@@ -1441,21 +954,11 @@
                             <!-- Notepad -->
                             <a href="https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=en-us&gl=US" target="_blank" rel="noreferrer">
                                 <img src="https://mspoweruser.com/wp-content/uploads/2020/02/notepad-10x.png" alt="Notepad" width="40" height="40"/>
-                                <!-- <img src="https://p7.hiclipart.com/preview/836/766/495/notepad-microsoft-office-microsoft.jpg" alt="Notepad" width="40" height="40"/>
-                                <img src="https://techdator.net/wp-content/uploads/2021/06/Fluent-Notepad.jpg" alt="Notepad" width="40" height="40"/>
-                                <img src="https://winaero.com/blog/wp-content/uploads/2020/02/Windows-10X-Colorful-Notepad-Fluent-Icon.png" alt="Notepad" width="40" height="40"/> -->
                             </a>
-                            <!-- <a href="notepad://" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Notepad%2B%2B_Logo.png" alt="Notepad" width="40" height="40"/>
-                            </a> -->
                             <!-- Mendeley -->
                             <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
                                 <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
                             </a>
-                            <!-- Zotero -->
-                            <!-- <a href="https://www.zotero.org/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/zotero-icon-2048x2026-ce7or9e3.png" alt="Zotero" width="40" height="40"/>
-                            </a> -->
                         </div>
                         </br>
                         <!-- Meeting -->
@@ -1467,31 +970,11 @@
                             <!-- Zoom -->
                             <a href="https://zoom.us" target="_blank" rel="noreferrer">
                                 <img src="https://static.vecteezy.com/system/resources/previews/012/871/376/original/zoom-logo-in-blue-colors-meetings-app-logotype-illustration-free-png.png" alt="Zoom" width="40" height="40"/>
-                                <!-- <img src="https://www.vhv.rs/dpng/d/256-2564047_ibm-logo-ibm-icon-hd-png-download.png" alt="Zoom" width="40" height="40"/> -->
-                                <!-- <img src="https://bpb-us-w2.wpmucdn.com/sites.umassd.edu/dist/f/777/files/2020/03/Zoom-Icon-Large-transparent.png" alt="Zoom" width="40" height="40"/> -->
                             </a>
                             <!-- Google Meet -->
                             <a href="https://meet.google.com" target="_blank" rel="noreferrer">
                                 <img src="https://agatsoftware.com/wp-content/uploads/2023/04/logos-agat-menu-16-1200x1201.png" alt="Google Meet" width="40" height="40"/>
-                                <!-- <img src="https://static.vecteezy.com/system/resources/previews/025/267/305/non_2x/google-toolbar-icon-search-symbol-map-gmail-calendar-drive-photo-google-play-meet-chat-and-my-ad-center-free-png.png" alt="Google Meet" width="40" height="40"/> -->
-                                <!-- <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-meet-1024.png" alt="Google Meet" width="40" height="40"/> -->
                             </a>
-                            <!-- Skype -->
-                            <!-- <a href="https://www.skype.com" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Skype_logo_2019.svg" alt="Skype" width="40" height="40"/>
-                            </a> -->
-                            <!-- Webex -->
-                            <!-- <a href="https://www.webex.com" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Webex_logo_2020.svg" alt="Webex" width="40" height="40"/>
-                            </a> -->
-                            <!-- Jitsi Meet -->
-                            <!-- <a href="https://meet.jit.si" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Jitsi_Meet_logo.svg" alt="Jitsi Meet" width="40" height="40"/>
-                            </a> -->
-                            <!-- GoToMeeting -->
-                            <!-- <a href="https://www.goto.com/meeting" target="_blank" rel="noreferrer">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/GoToMeeting_logo.svg" alt="GoToMeeting" width="40" height="40"/>
-                            </a> -->
                         </div>
                     </td>
                 </tr>
