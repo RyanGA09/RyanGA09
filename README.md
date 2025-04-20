@@ -194,6 +194,14 @@
 <!--     <a href="https://trakteer.id/yourusername" target="_blank">
         <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
     </a> -->
+    <!-- GitHub Sponsors Badge -->
+<!--     <a href="https://github.com/sponsors/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub%20Sponsors-❤️-lightgrey?logo=githubsponsors&style=for-the-badge" alt="Support via GitHub Sponsors" />
+    </a> -->
+    <!-- PayPal Badge -->
+<!--     <a href="https://www.paypal.me/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&style=for-the-badge" alt="Donate via PayPal" />
+    </a> -->
 </div>
 
 <details>
