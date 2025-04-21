@@ -202,30 +202,30 @@
         <table>
           <thead align="center">
             <tr>
-              <th width="10%">Status</th>
               <th width="20%">Institution</th>
+              <th width="10%">Status</th>
               <th width="70%">Details</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td align="center" valign="middle">Freelance</td>
               <td valign="middle" align="center">
                 <a href="https://medium.com/">Medium</a>
               </td>
+              <td align="center" valign="middle">Freelance</td>
               <td valign="middle">
-                <strong>Writer</strong><br />
+                <strong>Writer</strong>
                 <em>[November 2024 - Present]</em>
               </td>
             </tr>
             <tr>
-              <td align="center" valign="middle">Part-time</td>
               <td valign="middle" align="center">
                 <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
               </td>
+              <td align="center" valign="middle">Part-time</td>
               <td>
-                <strong>Laboratory Assistant</strong><br />
-                <em>[September 2022 - August 2024]</em><br />
+                <strong>Laboratory Assistant</strong>
+                <em>[September 2022 - August 2024]</em>
                 <ul>
                   <li><strong>Software Engineering Laboratory Assistant</strong> [March 2024 - August 2024]</li>
                   <li><strong>Programming Language Laboratory Assistant</strong> [September 2022 - February 2024]</li>
@@ -233,13 +233,13 @@
               </td>
             </tr>
             <tr>
-              <td align="center" valign="middle">Part-time</td>
               <td valign="middle" align="center">
                 <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
               </td>
+              <td align="center" valign="middle">Part-time</td>
               <td>
-                <strong>Laboratory Assistant - Treasurer</strong><br />
-                <em>[September 2023 - August 2024]</em><br />
+                <strong>Laboratory Assistant - Treasurer</strong>
+                <em>[September 2023 - August 2024]</em>
                 <ul>
                   <li><strong>Treasurer - Software Engineering Lab Assistant</strong> [March 2024 - August 2024]</li>
                   <li><strong>Treasurer - Programming Language Lab Assistant</strong> [September 2023 - February 2024]</li>
@@ -264,7 +264,7 @@
                 <a href="https://www.capraecapital.com/">Caprae Capital Partners</a>
               </td>
               <td valign="middle">
-                <strong>Machine Learning Engineer Intern</strong><br />
+                <strong>Machine Learning Engineer Intern</strong>
                 <em>[April 2025 - Present]</em>
               </td>
             </tr> -->
@@ -273,7 +273,7 @@
                 <a href="https://codveda.com/">Codveda Technologies</a>
               </td>
               <td valign="middle">
-                <strong>Machine Learning Intern</strong><br />
+                <strong>Machine Learning Intern</strong>
                 <em>[March 2025 - April 2025]</em>
               </td>
             </tr>
@@ -282,8 +282,8 @@
                 <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
               </td>
               <td>
-                <strong>Web Developer</strong><br />
-                <em>[March 2024 - February 2025]</em><br />
+                <strong>Web Developer</strong>
+                <em>[March 2024 - February 2025]</em>
                 <ul>
                   <li><strong>Academic Project</strong> [August 2024 - February 2025]</li>
                   <li><strong>Community Service Program / KKN</strong> [May 2024 - July 2024]</li>
@@ -296,7 +296,7 @@
                 <a href="https://mikti.id/">MIKTI</a>
               </td>
               <td valign="middle">
-                <strong>Independent Study - Kampus Merdeka</strong><br />
+                <strong>Independent Study - Kampus Merdeka</strong>
                 <em>[February 2024 - June 2024]</em>
               </td>
             </tr>
@@ -305,7 +305,7 @@
                 <a href="https://digitalent.komdigi.go.id/#">Digital Talent Scholarship</a>
               </td>
               <td valign="middle">
-                <strong>Junior Web Developer</strong><br />
+                <strong>Junior Web Developer</strong>
                 <em>[April 2023 - May 2023]</em>
               </td>
             </tr>
@@ -328,21 +328,21 @@
           <tbody>
             <tr>
               <td align="center" valign="middle">
-                <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="40" alt="ITATS Logo" />
+                <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
               </td>
               <td valign="middle">
-                <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br />
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a><br />
+                <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
+                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
                 <em>[September 2021 - February 2025]</em>
               </td>
             </tr>
             <tr>
               <td align="center" valign="middle">
-                <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="40" alt="SMAN 15 Logo" />
+                <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
               </td>
               <td valign="middle">
-                <strong>High School Graduate in Natural Sciences</strong><br />
-                <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a><br />
+                <strong>High School Graduate in Natural Sciences</strong><br/>
+                <a href="https://sman15-sby.sch.id/">SMAN 15 Surabaya</a>
                 <em>[July 2017 - July 2020]</em>
               </td>
             </tr>
@@ -364,8 +364,8 @@
                 <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
               </td>
               <td valign="middle">
-                <strong>IDCamp 2024 Scholarship Program, FrontEnd Web Developer Learning Path</strong><br />
-                <a href="https://www.dicoding.com/">Dicoding Academy</a><br />
+                <strong>IDCamp 2024 Scholarship Program, FrontEnd Web Developer Learning Path</strong><br/>
+                <a href="https://www.dicoding.com/">Dicoding Academy</a>
                 <em>[September 2024 - Present]</em>
               </td>
             </tr>
@@ -374,9 +374,9 @@
                 <img src="https://instellar.id/wp-content/uploads/2022/04/MySkill.png" width="40" height="40" alt="MySkill Logo" />
               </td>
               <td valign="middle">
-                <strong>MySkill Shortclass Monthly, Multidisciplinary Shortclass</strong><br />
-                <a href="https://myskill.id/">MySkill</a><br />
-                <em>[May 2024 - March 2025]</em><br />
+                <strong>MySkill Shortclass Monthly, Multidisciplinary Shortclass</strong><br/>
+                <a href="https://myskill.id/">MySkill</a>
+                <em>[May 2024 - March 2025]</em>
                 <ul>
                     <li><strong>Shortclass Monthly - March</strong> [March 2025]</li>
                     <li><strong>Shortclass Monthly - February</strong> [February 2025]</li>
@@ -397,8 +397,8 @@
                 <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
               </td>
               <td valign="middle">
-                <strong>IDCamp 2023 Scholarship Program, Data Scientist Learning Path</strong><br />
-                <a href="https://www.dicoding.com/">Dicoding Academy</a><br />
+                <strong>IDCamp 2023 Scholarship Program, Data Scientist Learning Path</strong><br/>
+                <a href="https://www.dicoding.com/">Dicoding Academy</a>
                 <em>[September 2023 - December 2023]</em>
               </td>
             </tr>
