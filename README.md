@@ -446,11 +446,50 @@
         <ul align="left">
             <li>
                 <strong>
+                    <a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">
+                        Machine Learning Task Implementation - Codveda Internship
+                    </a>
+                </strong> - <em>(March 2025 - April 2025)</em>
+                <p>As part of the internship program at Codveda Technologies, I worked on various Machine Learning tasks divided into three levels: Basic, Intermediate, and Advanced. Each level involves implementing ML algorithms using Python and libraries such as Scikit-Learn, TensorFlow, Keras, and Matplotlib.
+                </br>
+                💡 Highlights:
+                <ul>
+                    <li>✅ Data preprocessing (handling missing values, encoding, scaling).</li>
+                    <li>✅ Implementing Linear Regression, KNN, Logistic Regression, Decision Tree, K-Means Clustering models.</li>
+                    <li>✅ Developing Random Forest, Support Vector Machine (SVM), and Neural Network models.</li>
+                    <li>✅ Model evaluation using metrics such as accuracy, precision, recall, and confusion matrix.</li>
+                    <li>✅ Visualizing results using Seaborn and Matplotlib.</li>
+                </ul>
+                </p>
+            </li>
+            <li>
+                <strong>
+                    <a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">
+                        Subbmission - Final Assessment Submission (2024)
+                    </a>
+                </strong> - <em>(September 2024 - October 2024)</em>
+                <p>This project is my submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)". The Web Book Collection allows users to see book collection.</p>
+            </li>
+            <li>
+                <strong>
+                    <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">
+                        Submission - Web Book Collection Submission (2024)
+                    </a>
+                </strong> - <em>(September 2024 - October 2024)</em>
+                <p>This project is my submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.</p>
+            </li>
+            <li>
+                <strong>
                     <a href="#" target="_blank">
                         Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest
                     </a>
                 </strong> - <em>(August 2024 - February 2025)</em>
-                <br>Pengembangan sistem untuk mengelola data penelitian dan pengabdian masyarakat di ITATS dengan model prototyping agar lebih fleksibel dalam perbaikan sistem.
+                <p>This project aims to classify user sentiment toward various laptop brands based on YouTube comments. Data is collected through web scraping and processed using tokenization, filtering, stemming, and transformed using TF-IDF.
+                </br>
+                A Random Forest model is employed for sentiment classification, evaluated using a Confusion Matrix and K-Fold Cross-Validation. The model achieves over 92% accuracy, with the majority of comments being positive. However, data imbalance slightly affects the detection of negative sentiments.
+                </br>
+                This project offers valuable insights for laptop manufacturers to better understand user opinions and improve marketing strategies and product quality through sentiment analysis.
+                </p>
             </li>
             <li>
                 <strong>
@@ -458,7 +497,7 @@
                         Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping
                     </a>
                 </strong> - <em>(August 2024 - February 2025)</em>
-                <br>The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.
+                <p>The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.</p>
             </li>
             <li>
                 <strong>
@@ -466,7 +505,7 @@
                         MySkill Short Class Task Monthly
                     </a>
                 </strong> - <em>(May 2024 - March 2025)</em>
-                <br>Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
+                <p>Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.</p>
             </li>
             <li>
                 <strong>
@@ -474,7 +513,7 @@
                         Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
-                <br>Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh)
+                <p>Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).</p>
             </li>
             <li>
                 <strong>
@@ -482,7 +521,7 @@
                         Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
-                <br>Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh)
+                <p>Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).</p>
             </li>
             <li>
                 <strong>
@@ -490,7 +529,7 @@
                         Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall
                     </a>
                 </strong> - <em>(March 2024 - July 2024)</em>
-                <br>As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.
+                <p>As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.</p>
             </li>
             <li>
                 <strong>
@@ -499,7 +538,7 @@
                     </a>
                 </strong> - <em>(May 2024 - June 2024)</em>
                 <br>MIKTI Independent Study Batch 6 Program - Capstone Project
-                <br>Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.
+                <p>Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.</p>
             </li>
             <li>
                 <strong>
@@ -508,7 +547,7 @@
                     </a>
                 </strong> - <em>(May 2024 - May 2024)</em>
                 <br>MIKTI Independent Study Batch 6 Program - Case Study Project
-                <br>Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
+                <p>Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.</p>
             </li>
         </ul>
     </div>
