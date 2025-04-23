@@ -203,14 +203,17 @@
           <thead align="center">
             <tr>
               <th width="20%">Institution</th>
-              <th width="10%">Status</th>
-              <th width="70%">Details</th>
+              <th width="5%">Status</th>
+              <th width="75%">Details</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td valign="middle" align="center">
-                <a href="https://medium.com/">Medium</a>
+              <td align="center" valign="middle">
+                <a href="https://medium.com/" target="_blank">
+                    <img src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" width="60" height="60" alt="Medium Logo" />
+                </a><br/>
+                <sub>Medium</sub>
               </td>
               <td align="center" valign="middle">Freelance</td>
               <td valign="middle">
@@ -219,8 +222,11 @@
               </td>
             </tr>
             <tr>
-              <td valign="middle" align="center">
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
+              <td align="center" valign="middle">
+                <a href="https://itats.ac.id/" target="_blank">
+                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                </a><br/>
+                <sub>Institut Teknologi Adhi Tama Surabaya</sub>
               </td>
               <td align="center" valign="middle">Part-time</td>
               <td>
@@ -233,8 +239,11 @@
               </td>
             </tr>
             <tr>
-              <td valign="middle" align="center">
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
+              <td align="center" valign="middle">
+                <a href="https://itats.ac.id/" target="_blank">
+                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                </a><br/>
+                <sub>Institut Teknologi Adhi Tama Surabaya</sub>
               </td>
               <td align="center" valign="middle">Part-time</td>
               <td>
@@ -261,7 +270,10 @@
           <tbody>
 <!--             <tr>
               <td align="center" valign="middle">
-                <a href="https://www.capraecapital.com/">Caprae Capital Partners</a>
+                <a href="https://www.capraecapital.com/" target="_blank">
+                    <img src="https://static.wixstatic.com/media/52c648_733d5bfa02f442768d97cea6dff4809a~mv2.png/v1/fill/w_101,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_2024-07-06_at_3_50_edited.png" width="60" height="60" alt="Caprae Logo" />
+                </a><br/>
+                <sub>Caprae Capital Partners</sub>
               </td>
               <td valign="middle">
                 <strong>Machine Learning Engineer Intern</strong>
@@ -270,7 +282,10 @@
             </tr> -->
             <tr>
               <td align="center" valign="middle">
-                <a href="https://codveda.com/">Codveda Technologies</a>
+                <a href="https://codveda.com/" target="_blank">
+                    <img src="https://codveda.com/images/logo/codveda-light.png" width="100" height="60" alt="Codveda Logo" />
+                </a><br/>
+                <sub>Codveda Technologies</sub>
               </td>
               <td valign="middle">
                 <strong>Machine Learning Intern</strong>
@@ -279,7 +294,10 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
-                <a href="https://itats.ac.id/">Institut Teknologi Adhi Tama Surabaya</a>
+                <a href="https://itats.ac.id/" target="_blank">
+                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                </a><br/>
+                <sub>Institut Teknologi Adhi Tama Surabaya</sub>
               </td>
               <td>
                 <strong>Web Developer</strong>
@@ -293,7 +311,10 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
-                <a href="https://mikti.id/">MIKTI</a>
+                <a href="https://mikti.id/" target="_blank">
+                    <img src="https://mikti.id/assets/images/resources/logo-1.png" width="150" height="60" alt="MIKTI Logo" />
+                </a><br/>
+                <sub>Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia</sub>
               </td>
               <td valign="middle">
                 <strong>Independent Study - Kampus Merdeka</strong>
@@ -302,7 +323,10 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
-                <a href="https://digitalent.komdigi.go.id/#">Digital Talent Scholarship</a>
+                <a href="https://digitalent.komdigi.go.id/#" target="_blank">
+                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
+                </a><br/>
+                <sub>Digital Talent Scholarship</sub>
               </td>
               <td valign="middle">
                 <strong>Junior Web Developer</strong>
@@ -328,11 +352,11 @@
           <tbody>
             <tr>
               <td align="center" valign="middle">
-              <a href="https://itats.ac.id/" target="_blank">
-                <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
-              </a><br/>
-              <sub>Institut Teknologi Adhi Tama Surabaya</sub>
-            </td>
+                <a href="https://itats.ac.id/" target="_blank">
+                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                </a><br/>
+                <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+              </td>
               <td valign="middle">
                 <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
                 <em>[September 2021 - February 2025]</em>
@@ -343,7 +367,7 @@
                 <a href="https://sman15-sby.sch.id/" target="_blank">
                   <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
                 </a><br/>
-                  <sub>SMAN 15 Surabaya</sub>
+                <sub>SMAN 15 Surabaya</sub>
               </td>
               <td valign="middle">
                 <strong>High School Graduate in Natural Sciences</strong><br/>
