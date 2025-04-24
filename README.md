@@ -210,6 +210,7 @@
           <tbody>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://medium.com/" target="_blank">
                     <img src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" width="60" height="60" alt="Medium Logo" />
                 </a><br/>
@@ -223,6 +224,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://itats.ac.id/" target="_blank">
                     <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
                 </a><br/>
@@ -240,6 +242,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://itats.ac.id/" target="_blank">
                     <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
                 </a><br/>
@@ -270,6 +273,7 @@
           <tbody>
 <!--             <tr>
               <td align="center" valign="middle">
+              <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://www.capraecapital.com/" target="_blank">
                     <img src="https://static.wixstatic.com/media/52c648_733d5bfa02f442768d97cea6dff4809a~mv2.png/v1/fill/w_101,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_2024-07-06_at_3_50_edited.png" width="60" height="60" alt="Caprae Logo" />
                 </a><br/>
@@ -282,6 +286,7 @@
             </tr> -->
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://codveda.com/" target="_blank">
                     <img src="https://codveda.com/images/logo/codveda-light.png" width="100" height="60" alt="Codveda Logo" />
                 </a><br/>
@@ -294,6 +299,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://itats.ac.id/" target="_blank">
                     <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
                 </a><br/>
@@ -311,6 +317,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://mikti.id/" target="_blank">
                     <img src="https://mikti.id/assets/images/resources/logo-1.png" width="150" height="60" alt="MIKTI Logo" />
                 </a><br/>
@@ -323,6 +330,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://digitalent.komdigi.go.id/#" target="_blank">
                     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
                 </a><br/>
@@ -338,7 +346,7 @@
         <br/>
         <h4>
           <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" 
-               alt="education-icon" width="22" height="22" /> Educations
+               alt="education-icon" width="22" height="22"/> Educations
         </h4>
         <!-- Formal Education -->
         <strong>Formal Education:</strong>
@@ -352,6 +360,7 @@
           <tbody>
             <tr>
               <td align="center" valign="middle">
+                <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://itats.ac.id/" target="_blank">
                     <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
                 </a><br/>
@@ -363,11 +372,13 @@
               </td>
             </tr>
             <tr>
-              <td align="center" valign="middle">
-                <a href="https://sman15-sby.sch.id/" target="_blank">
-                  <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
-                </a><br/>
-                <sub>SMAN 15 Surabaya</sub>
+              <td align="center" valign="middle">\
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                      <a href="https://sman15-sby.sch.id/" target="_blank">
+                         <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
+                      </a><br/>
+                      <sub>SMAN 15 Surabaya</sub>
+                  </div>
               </td>
               <td valign="middle">
                 <strong>High School Graduate in Natural Sciences</strong><br/>
@@ -389,6 +400,7 @@
           <tbody>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://www.dicoding.com/" target="_blank">
                   <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
                 </a><br/>
@@ -401,6 +413,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://myskill.id/" target="_blank">
                   <img src="https://instellar.id/wp-content/uploads/2022/04/MySkill.png" width="40" height="40" alt="MySkill Logo" />
                 </a><br/>
@@ -426,6 +439,7 @@
             </tr>
             <tr>
               <td align="center" valign="middle">
+                  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                 <a href="https://www.dicoding.com/" target="_blank">
                   <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
                 </a><br/>
