@@ -213,9 +213,9 @@
                     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                         <a href="https://medium.com/" target="_blank">
                             <img src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" width="60" height="60" alt="Medium Logo" />
-                        </a>
-                    </div><br/>
-                    <sub>Medium</sub>
+                        </a><br/>
+                        <sub>Medium</sub>
+                    </div>
                 </td>
                 <td align="center" valign="middle">Freelance</td>
                 <td valign="middle">
@@ -228,9 +228,9 @@
                     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                         <a href="https://itats.ac.id/" target="_blank">
                             <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
-                        </a>
-                    </div><br/>
-                    <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                        </a><br/>
+                        <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                    </div>
                 </td>
                 <td align="center" valign="middle">Part-time</td>
                 <td>
@@ -247,9 +247,9 @@
                     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                         <a href="https://itats.ac.id/" target="_blank">
                             <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
-                        </a>
-                    </div><br/>
-                    <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                        </a><br/>
+                        <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                    </div>
                 </td>
                 <td align="center" valign="middle">Part-time</td>
                 <td>
@@ -279,10 +279,9 @@
                     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                         <a href="https://www.capraecapital.com/" target="_blank">
                             <img src="https://static.wixstatic.com/media/52c648_733d5bfa02f442768d97cea6dff4809a~mv2.png/v1/fill/w_101,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_2024-07-06_at_3_50_edited.png" width="60" height="60" alt="Caprae Logo" />
-                        </a>
+                        </a><br/>
+                        <sub>Caprae Capital Partners</sub>
                     </div>
-                    <br/>
-                    <sub>Caprae Capital Partners</sub>
                 </td>
                 <td valign="middle">
                     <strong>Machine Learning Engineer Intern</strong>
@@ -324,11 +323,12 @@
             </tr>
             <tr>
                 <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
-                    <a href="https://mikti.id/" target="_blank">
-                        <img src="https://mikti.id/assets/images/resources/logo-1.png" width="150" height="60" alt="MIKTI Logo" />
-                    </a><br/>
-                    <sub>Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia</sub>
+                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <a href="https://mikti.id/" target="_blank">
+                            <img src="https://mikti.id/assets/images/resources/logo-1.png" width="150" height="60" alt="MIKTI Logo" />
+                        </a><br/>
+                        <sub>Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia</sub>
+                    </div>
                 </td>
                 <td valign="middle">
                     <strong>Independent Study - Kampus Merdeka</strong>
@@ -337,11 +337,12 @@
             </tr>
             <tr>
                 <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
-                    <a href="https://digitalent.komdigi.go.id/#" target="_blank">
-                        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
-                    </a><br/>
-                    <sub>Digital Talent Scholarship</sub>
+                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                        <a href="https://digitalent.komdigi.go.id/#" target="_blank">
+                            <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
+                        </a><br/>
+                        <sub>Digital Talent Scholarship</sub>
+                    </div>
                 </td>
                 <td valign="middle">
                     <strong>Junior Web Developer</strong>
@@ -352,45 +353,45 @@
         </table>
         <br/>
         <h4>
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" 
-               alt="education-icon" width="22" height="22"/> Educations
+            <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="education-icon" width="22" height="22"/> Educations
         </h4>
         <!-- Formal Education -->
         <strong>Formal Education:</strong>
         <table>
             <thead align="center">
                 <tr>
-                <th width="30%">Institutions</th>
-                <th width="70%">Program Details</th>
+                    <th width="30%">Institutions</th>
+                    <th width="70%">Program Details</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
-                    <a href="https://itats.ac.id/" target="_blank">
-                        <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
-                    </a><br/>
-                    <sub>Institut Teknologi Adhi Tama Surabaya</sub>
-                </td>
-                <td valign="middle">
-                    <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
-                    <em>[September 2021 - February 2025]</em>
-                </td>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://itats.ac.id/" target="_blank">
+                                <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                            </a><br/>
+                            <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
+                        <em>[September 2021 - February 2025]</em>
+                    </td>
                 </tr>
                 <tr>
-                <td align="center" valign="middle">\
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                        <a href="https://sman15-sby.sch.id/" target="_blank">
-                            <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
-                        </a><br/>
-                        <sub>SMAN 15 Surabaya</sub>
-                    </div>
-                </td>
-                <td valign="middle">
-                    <strong>High School Graduate in Natural Sciences</strong><br/>
-                    <em>[July 2017 - July 2020]</em>
-                </td>
+                    <td align="center" valign="middle">\
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://sman15-sby.sch.id/" target="_blank">
+                                <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
+                            </a><br/>
+                            <sub>SMAN 15 Surabaya</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>High School Graduate in Natural Sciences</strong><br/>
+                        <em>[July 2017 - July 2020]</em>
+                    </td>
                 </tr>
             </tbody>
         </table>
@@ -400,62 +401,64 @@
         <table>
             <thead align="center">
                 <tr>
-                <th width="30%">Institutions</th>
-                <th width="70%">Program Details</th>
+                    <th width="30%">Institutions</th>
+                    <th width="70%">Program Details</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
-                    <a href="https://www.dicoding.com/" target="_blank">
-                    <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
-                    </a><br/>
-                    <sub>Dicoding Academy</sub>
-                </td>
-                <td valign="middle">
-                    <strong>IDCamp 2024 Scholarship Program, FrontEnd Web Developer Learning Path</strong><br/>
-                    <em>[September 2024 - Present]</em>
-                </td>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://www.dicoding.com/" target="_blank">
+                                <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
+                            </a><br/>
+                            <sub>Dicoding Academy</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>IDCamp 2024 Scholarship Program, FrontEnd Web Developer Learning Path</strong><br/>
+                        <em>[September 2024 - Present]</em>
+                    </td>
                 </tr>
                 <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
-                    <a href="https://myskill.id/" target="_blank">
-                    <img src="https://instellar.id/wp-content/uploads/2022/04/MySkill.png" width="40" height="40" alt="MySkill Logo" />
-                    </a><br/>
-                    <sub>MySkill</sub>
-                </td>
-                <td valign="middle">
-                    <strong>MySkill Shortclass Monthly, Multidisciplinary Shortclass</strong><br/>
-                    <em>[May 2024 - March 2025]</em>
-                    <ul>
-                    <li><strong>Shortclass Monthly - March</strong> [March 2025]</li>
-                    <li><strong>Shortclass Monthly - February</strong> [February 2025]</li>
-                    <li><strong>Shortclass Monthly - January</strong> [January 2025]</li>
-                    <li><strong>Shortclass Monthly - December</strong> [December 2024]</li>
-                    <li><strong>Shortclass Monthly - November</strong> [November 2024]</li>
-                    <li><strong>Shortclass Monthly - October</strong> [October 2024]</li>
-                    <li><strong>Shortclass Monthly - September</strong> [September 2024]</li>
-                    <li><strong>Shortclass Monthly - August</strong> [August 2024]</li>
-                    <li><strong>Shortclass Monthly - July</strong> [July 2024]</li>
-                    <li><strong>Shortclass Monthly - June</strong> [June 2024]</li>
-                    <li><strong>Shortclass Monthly - May</strong> [May 2024]</li>
-                    </ul>
-                </td>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://myskill.id/" target="_blank">
+                                <img src="https://instellar.id/wp-content/uploads/2022/04/MySkill.png" width="40" height="40" alt="MySkill Logo" />
+                            </a><br/>
+                            <sub>MySkill</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>MySkill Shortclass Monthly, Multidisciplinary Shortclass</strong><br/>
+                        <em>[May 2024 - March 2025]</em>
+                        <ul>
+                            <li><strong>Shortclass Monthly - March</strong> [March 2025]</li>
+                            <li><strong>Shortclass Monthly - February</strong> [February 2025]</li>
+                            <li><strong>Shortclass Monthly - January</strong> [January 2025]</li>
+                            <li><strong>Shortclass Monthly - December</strong> [December 2024]</li>
+                            <li><strong>Shortclass Monthly - November</strong> [November 2024]</li>
+                            <li><strong>Shortclass Monthly - October</strong> [October 2024]</li>
+                            <li><strong>Shortclass Monthly - September</strong> [September 2024]</li>
+                            <li><strong>Shortclass Monthly - August</strong> [August 2024]</li>
+                            <li><strong>Shortclass Monthly - July</strong> [July 2024]</li>
+                            <li><strong>Shortclass Monthly - June</strong> [June 2024]</li>
+                            <li><strong>Shortclass Monthly - May</strong> [May 2024]</li>
+                        </ul>
+                    </td>
                 </tr>
                 <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
-                    <a href="https://www.dicoding.com/" target="_blank">
-                    <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
-                    </a><br/>
-                    <sub>Dicoding Academy</sub>
-                </td>
-                <td valign="middle">
-                    <strong>IDCamp 2023 Scholarship Program, Data Scientist Learning Path</strong><br/>
-                    <em>[September 2023 - December 2023]</em>
-                </td>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
+                        <a href="https://www.dicoding.com/" target="_blank">
+                        <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
+                        </a><br/>
+                        <sub>Dicoding Academy</sub>
+                    </td>
+                    <td valign="middle">
+                        <strong>IDCamp 2023 Scholarship Program, Data Scientist Learning Path</strong><br/>
+                        <em>[September 2023 - December 2023]</em>
+                    </td>
                 </tr>
             </tbody>
         </table>
