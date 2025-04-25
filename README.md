@@ -117,9 +117,9 @@
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a>
     <!-- Epic Games Badge -->
-<!--     <a href="https://www.epicgames.com/id/YourUsername" target="_blank">
-        <img src="https://img.shields.io/badge/Epic_Games-Follow-313131?logo=epicgames&style=for-the-badge" alt="Follow on Epic Games" />
-    </a> -->
+    <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank">
+        <img src="https://img.shields.io/badge/Epic_Games-Follow-313131?logo=epicgames&style=for-the-badge" alt="Epic Games Achievement" />
+    </a>
 </div>
 </br>
 <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
