@@ -678,6 +678,22 @@
                                 </div>
                             </td>
                         </tr>
+                        <!-- SNESTIK Proceeding -->
+                        <!-- <tr>
+                            <td align="center">
+                                <strong>SNESTIK (Seminar Nasional Teknik Elektro, Sistem Informasi, dan Teknik Informatika)</strong><br>
+                                <em>25 April 2025</em>
+                            </td>
+                            <td>
+                                <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                    <details style="text-align: center;">
+                                        <summary style="font-size: 14px; color: black; font-weight: bold;">Klasifikasi Bangunan secara Otomatis Menggunakan Pembelajaran Mendalam dari Gambar Street-View</summary>
+                                        <p style="font-size: 12px; color: black;">Urban population density mapping or urban utility planning requires a classification map based on individual buildings that are considered much more informative. The goal of this research is to determine how to extract the fine-grained boundaries of individual buildings from a street-view dataset. This paper proposes a general framework for classifying individual building functionality using a deep learning approach. The proposed method is based on a Convolutional Neural Network (CNN) that classifies facade structures from street view images, such as Street-View images. From the experiments conducted, the CNN classifier with the ResNet architecture was able to classify the Street-View data group with an accuracy value of 86.79%. We construct a dataset to train and evaluate the CNN classifier. Furthermore, the method is applied to generate a building classification map at the urban area scale.</p>
+                                    </details>
+                                    <a href="#" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                </div>
+                            </td>
+                        </tr> -->
                     </tbody>
                 </table>
                 <!-- Journals section -->
