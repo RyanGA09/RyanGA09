@@ -117,8 +117,8 @@
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a>
     <!-- Epic Games Badge -->
-    <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank">
-        <img src="https://img.shields.io/badge/Epic_Games-Follow-313131?logo=epicgames&style=for-the-badge" alt="Epic Games Achievement" />
+    <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank" title="View Profile">
+        <img src="https://img.shields.io/badge/View_Profile-313131?logo=epicgames&style=for-the-badge" alt="Epic Games Profile" />
     </a>
 </div>
 </br>
