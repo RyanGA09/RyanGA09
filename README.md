@@ -117,8 +117,8 @@
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a>
     <!-- Epic Games Badge -->
-    <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank" title="View Profile">
-        <img src="https://img.shields.io/badge/View_Profile-313131?logo=epicgames&style=for-the-badge" alt="Epic Games Profile" />
+    <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank" title="View on Epic Games">
+        <img src="https://img.shields.io/badge/Epic_Games-View_Profile-313131?logo=epicgames&style=for-the-badge" alt="View on Epic Games" />
     </a>
 </div>
 </br>
@@ -202,9 +202,9 @@
         <table>
             <thead align="center">
                 <tr>
-                <th width="20%">Institution</th>
-                <th width="5%">Status</th>
-                <th width="75%">Details</th>
+                    <th width="20%">Institution</th>
+                    <th width="5%">Status</th>
+                    <th width="75%">Details</th>
                 </tr>
             </thead>
           <tbody>
@@ -267,89 +267,89 @@
         <!-- Internship Experiences -->
         <strong>Internships:</strong>
         <table>
-          <thead align="center">
-            <tr>
-                <th width="25%">Institution</th>
-                <th width="75%">Details</th>
-            </tr>
-          </thead>
-          <tbody>
-            <!-- <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                        <a href="https://www.capraecapital.com/" target="_blank">
-                            <img src="https://static.wixstatic.com/media/52c648_733d5bfa02f442768d97cea6dff4809a~mv2.png/v1/fill/w_101,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_2024-07-06_at_3_50_edited.png" width="60" height="60" alt="Caprae Logo" />
-                        </a><br/>
-                        <sub>Caprae Capital Partners</sub>
-                    </div>
-                </td>
-                <td valign="middle">
-                    <strong>Machine Learning Engineer Intern</strong>
-                    <em>[April 2025 - Present]</em>
-                </td>
-            </tr> -->
-            <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                        <a href="https://codveda.com/" target="_blank">
-                            <img src="https://codveda.com/images/logo/codveda-light.png" width="100" height="60" alt="Codveda Logo" />
-                        </a><br/>
-                        <sub>Codveda Technologies</sub>
-                    </div>
-                </td>
-                <td valign="middle">
-                    <strong>Machine Learning Intern</strong>
-                    <em>[March 2025 - April 2025]</em>
-                </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                        <a href="https://itats.ac.id/" target="_blank">
-                            <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
-                        </a><br/>
-                        <sub>Institut Teknologi Adhi Tama Surabaya</sub>
-                    </div>
-                </td>
-                <td>
-                    <strong>Web Developer</strong>
-                    <em>[March 2024 - February 2025]</em>
-                    <ul>
-                        <li><strong>Academic Project</strong> [August 2024 - February 2025]</li>
-                        <li><strong>Community Service Program / KKN</strong> [May 2024 - July 2024]</li>
-                        <li><strong>Internship / Practical Work</strong> [March 2024 - July 2024]</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                        <a href="https://mikti.id/" target="_blank">
-                            <img src="https://mikti.id/assets/images/resources/logo-1.png" width="150" height="60" alt="MIKTI Logo" />
-                        </a><br/>
-                        <sub>Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia</sub>
-                    </div>
-                </td>
-                <td valign="middle">
-                    <strong>Independent Study - Kampus Merdeka</strong>
-                    <em>[February 2024 - June 2024]</em>
-                </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle">
-                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                        <a href="https://digitalent.komdigi.go.id/#" target="_blank">
-                            <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
-                        </a><br/>
-                        <sub>Digital Talent Scholarship</sub>
-                    </div>
-                </td>
-                <td valign="middle">
-                    <strong>Junior Web Developer</strong>
-                    <em>[April 2023 - May 2023]</em>
-                </td>
-            </tr>
-          </tbody>
+            <thead align="center">
+                <tr>
+                    <th width="25%">Institution</th>
+                    <th width="75%">Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://www.capraecapital.com/" target="_blank">
+                                <img src="https://static.wixstatic.com/media/52c648_733d5bfa02f442768d97cea6dff4809a~mv2.png/v1/fill/w_101,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_2024-07-06_at_3_50_edited.png" width="60" height="60" alt="Caprae Logo" />
+                            </a><br/>
+                            <sub>Caprae Capital Partners</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>Machine Learning Engineer Intern</strong>
+                        <em>[April 2025 - Present]</em>
+                    </td>
+                </tr> -->
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://codveda.com/" target="_blank">
+                                <img src="https://codveda.com/images/logo/codveda-light.png" width="100" height="60" alt="Codveda Logo" />
+                            </a><br/>
+                            <sub>Codveda Technologies</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>Machine Learning Intern</strong>
+                        <em>[March 2025 - April 2025]</em>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://itats.ac.id/" target="_blank">
+                                <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                            </a><br/>
+                            <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                        </div>
+                    </td>
+                    <td>
+                        <strong>Web Developer</strong>
+                        <em>[March 2024 - February 2025]</em>
+                        <ul>
+                            <li><strong>Academic Project</strong> [August 2024 - February 2025]</li>
+                            <li><strong>Community Service Program / KKN</strong> [May 2024 - July 2024]</li>
+                            <li><strong>Internship / Practical Work</strong> [March 2024 - July 2024]</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://mikti.id/" target="_blank">
+                                <img src="https://mikti.id/assets/images/resources/logo-1.png" width="150" height="60" alt="MIKTI Logo" />
+                            </a><br/>
+                            <sub>Masyarakat Industri Kreatif Teknologi Informasi dan Komunikasi Indonesia</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>Independent Study - Kampus Merdeka</strong>
+                        <em>[February 2024 - June 2024]</em>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://digitalent.komdigi.go.id/#" target="_blank">
+                                <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
+                            </a><br/>
+                            <sub>Digital Talent Scholarship</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>Junior Web Developer</strong>
+                        <em>[April 2023 - May 2023]</em>
+                    </td>
+                </tr>
+            </tbody>
         </table>
         <br/>
         <h4>
@@ -451,7 +451,7 @@
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"></div>
                         <a href="https://www.dicoding.com/" target="_blank">
-                        <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
+                            <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
                         </a><br/>
                         <sub>Dicoding Academy</sub>
                     </td>
