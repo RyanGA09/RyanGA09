@@ -49,11 +49,11 @@
         <img src="https://img.shields.io/badge/Fiverr-Hire-green?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
     </a> -->
     <!-- Instagram Badge -->
-    <a href="https://www.instagram.com/ryan_g._a" target="blank">
+    <a href="https://www.instagram.com/ryan_g._a" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
     </a>
     <!-- GitHub Badge -->
-    <a href="https://github.com/RyanGA09" target="blank">
+    <a href="https://github.com/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
     </a>
     <!-- GitLab Badge -->
