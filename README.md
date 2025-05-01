@@ -20,14 +20,11 @@
 <div align="justify">
     <p>
         I am a fresh graduate of Informatics Engineering from Institut Teknologi Adhi Tama Surabaya, specializing in data analysis and web development. With a strong technical foundation and hands-on experience, I have worked on various web development projects, leveraging frameworks such as Laravel, Tailwind, and Bootstrap to build intuitive and user-friendly applications.
-    </p>
-    <p>
+        </br>
         During my academic journey, I actively contributed as a web developer in both academic and community service projects, focusing on creating impactful digital solutions. My role as a laboratory and teaching assistant for Structured Programming and Data Structures enhanced my ability to guide others while solidifying my expertise in programming concepts. Additionally, I developed leadership and financial management skills as the treasurer of the Programming Language Laboratory.
-    </p>
-    <p>
+        </br>
         I also expanded my data analysis proficiency through the MIKTI MSIB Batch 6 program, where I honed my skills in data processing, visualization, and insights generation, preparing me for a competitive career in the tech industry.
-    </p>
-    <p>
+        </br>  
         Now, as I embark on my professional journey, I am eager to apply my skills in data-driven decision-making, software development, and AI-driven solutions, while continuously learning and growing in the field of technology and innovation.
     </p>
 </div>
@@ -380,7 +377,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td align="center" valign="middle">\
+                    <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://sman15-sby.sch.id/" target="_blank">
                                 <img src="https://sman15-sby.sch.id/wp-content/uploads/2018/08/LOGO-SMAN-15-KECIL.jpg" width="40" height="60" alt="SMAN 15 Logo" />
