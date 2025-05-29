@@ -467,6 +467,17 @@
         <ul align="left">
             <li>
                 <strong>
+                    <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">
+                        Submission - Our Story App Submission (2025)
+                    </a>
+                </strong> - <em>(April 2025 - May 2025)</em>
+                <p>OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.</p>
+                <p>
+                    🌐 <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">View Website</a>
+                </p>
+            </li>
+            <li>
+                <strong>
                     <a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">
                         Machine Learning Task Implementation - Codveda Internship
                     </a>
@@ -486,7 +497,7 @@
             <li>
                 <strong>
                     <a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">
-                        Subbmission - Final Assessment Submission (2024)
+                        Submission - Final Assessment Submission (2024)
                     </a>
                 </strong> - <em>(September 2024 - October 2024)</em>
                 <p>This project is my submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)". The Web Book Collection allows users to see book collection.</p>
@@ -498,6 +509,20 @@
                     </a>
                 </strong> - <em>(September 2024 - October 2024)</em>
                 <p>This project is my submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.</p>
+                <p>
+                    🌐 <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">View Website</a>
+                </p>
+            </li>
+            <li>
+                <strong>
+                    <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">
+                        Submission - BookShelf App Submission (2024)
+                    </a>
+                </strong> - <em>(September 2024 - September 2024)</em>
+                <p>This project is my submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.</p>
+                <p>
+                    🌐 <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">View Website</a>
+                </p>
             </li>
             <li>
                 <strong>
