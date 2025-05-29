@@ -980,6 +980,9 @@
                             <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
                                 <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/>
                             </a>
+                            <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="40" height="40"/>
+                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -989,6 +992,51 @@
                             <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
                             </a>
+                        </div>
+                        </br>
+                        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <!-- Github Pages -->
+                            <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
+                                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Pages" width="40" height="40"/>
+                            </a>
+                            <!-- Hostinger -->
+                            <!-- <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
+                                <img src="https://iconape.com/wp-content/files/fv/64851/png/hostinger.png" alt="Hostinger" width="40" height="40"/>
+                            </a> -->
+                            <!-- Domainesia -->
+                            <!-- <a href="https://www.domainesia.com/" target="_blank" rel="noreferrer">
+                                <img src="https://www.domainesia.com/assets/images/logo-domainesia.png" alt="DomaiNesia" width="100" height="40" style="background: #fff; padding: 2px;"/>
+                            </a> -->
+                            <!-- Vercel -->
+                            <!-- <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+                                <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
+                            </a> -->
+                            <!-- Netlify -->
+                            <!-- <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+                                <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="40" height="40"/>
+                            </a> -->
+                            <!-- Cloudflare Pages -->
+                            <!-- <a href="https://pages.cloudflare.com/" target="_blank" rel="noreferrer">
+                                <img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare Pages" width="40" height="40"/>
+                            </a> -->
+                            <!-- Surge -->
+                            <!-- <a href="https://surge.sh/" target="_blank" rel="noreferrer">
+                                <img src="https://surge.sh/images/logos/svg/surge-logo.svg" alt="Surge" width="40" height="50"/>
+                                <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254417/surge-icon-md.png" alt="Surge" width="30" height="40"/>
+                            </a> -->
+                            <!-- Render -->
+                            <!-- <a href="https://render.com/" target="_blank" rel="noreferrer">
+                                <img src="https://ptimofeev.com/images/render.png" alt="Render" width="100" height="40"/>
+                                <img src="https://learn.ntop.com/wp-content/uploads/2024/02/favicon.png" alt="Render" width="40" height="40"/>
+                            </a> -->
+                            <!-- AWS Amplify -->
+                            <!-- <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+                                <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="AWS Amplify" width="40" height="40"/>
+                            </a> -->
+                            <!-- Firebase Hosting -->
+                            <!-- <a href="https://firebase.google.com/docs/hosting" target="_blank" rel="noreferrer">
+                                <img src="https://firebase.google.com/favicon.ico" alt="Firebase Hosting" width="40" height="40"/>
+                            </a> -->
                         </div>
                     </td>
                 </tr>
