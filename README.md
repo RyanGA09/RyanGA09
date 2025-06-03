@@ -560,6 +560,9 @@
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
                 <p>Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).</p>
+                <p>
+                    🌐 <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View</a>
+                </p>
             </li>
             <li>
                 <strong>
@@ -568,6 +571,12 @@
                     </a>
                 </strong> - <em>(May 2024 - July 2024)</em>
                 <p>Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).</p>
+                <p>
+                    🌐 <a href="https://ribathdt.com/" target="_blank">View Website</a>
+                </p>
+                <p>
+                    🌐 <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View</a>
+                </p>
             </li>
             <li>
                 <strong>
@@ -585,6 +594,9 @@
                 </strong> - <em>(May 2024 - June 2024)</em>
                 <br>MIKTI Independent Study Batch 6 Program - Capstone Project
                 <p>Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.</p>
+                <p>
+                    🌐 <a href="https://public.tableau.com/app/profile/zulaikha.anissa/viz/AirlinePerformanceDashboard_17188036489170/Dashboard1" target="_blank">View</a>
+                </p>
             </li>
             <li>
                 <strong>
