@@ -585,6 +585,9 @@
                     </a>
                 </strong> - <em>(March 2024 - July 2024)</em>
                 <p>As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.</p>
+                <p>
+                    🌐 <a href="https://ejurnal.itats.ac.id/semtik/article/view/6169" target="_blank">View Prosiding</a>
+                </p>
             </li>
             <li>
                 <strong>
