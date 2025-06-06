@@ -457,6 +457,20 @@
                         <em>[September 2023 - December 2023]</em>
                     </td>
                 </tr>
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://www.dicoding.com/" target="_blank">
+                                <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/jobs/dos:lowongan_dicoding_dicoding_indonesia_250222130302.png" width="40" height="40" alt="Dicoding Logo" />
+                            </a><br/>
+                            <sub>Dicoding Academy</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>IDCamp 2022 Scholarship Program, Back-End Developer Learning Path</strong><br/>
+                        <em>[June 2022 - September 2022]</em>
+                    </td>
+                </tr>
             </tbody>
         </table>
     </div>
