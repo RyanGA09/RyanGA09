@@ -288,6 +288,20 @@
                 <tr>
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://flashcomindonesia.com/" target="_blank">
+                                <img src="https://image4.owler.com/logo/flashcomindonesia_owler_20190519_204349_original.jpg" width="60" height="60" alt="Codveda Logo" />
+                            </a><br/>
+                            <sub>Flashcom Indonesia</sub>
+                        </div>
+                    </td>
+                    <td valign="middle">
+                        <strong>Web Development & Data Analyst Trainer</strong>
+                        <em>[June 2025 - Present]</em>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://codveda.com/" target="_blank">
                                 <img src="https://codveda.com/images/logo/codveda-light.png" width="100" height="60" alt="Codveda Logo" />
                             </a><br/>
