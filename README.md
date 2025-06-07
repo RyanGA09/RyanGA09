@@ -388,6 +388,17 @@
                     <td valign="middle">
                         <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
                         <em>[September 2021 - February 2025]</em>
+                        <ul style="margin-top: 5px; padding-left: 20px;">
+                            <li>Belajar Dasar Pemrograman Web (Learn Basic Web Programming)</li>
+                            <li>Belajar Dasar Pemrograman JavaScript</li>
+                            <li>Belajar Membuat Front-End Web untuk Pemula (Learn to Create Front-End Web for Beginners)</li>
+                            <li>Belajar Dasar AI (Learn Basic AI)</li>
+                            <li>Belajar Fundamental Front-End Web Development</li>
+                            <li>Belajar Pengembangan Web Intermediate</li>
+                        </ul>
+                        <p>
+                            Enrolled in Bachelor of Computer Science by Institut Teknologi Adhi Tama Surabaya, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
+                        </p>
                     </td>
                 </tr>
                 <tr>
@@ -427,8 +438,36 @@
                         </div>
                     </td>
                     <td valign="middle">
-                        <strong>IDCamp 2024 Scholarship Program, FrontEnd Web Developer Learning Path</strong><br/>
-                        <em>[September 2024 - Present]</em>
+                        <strong>IDCamp 2024 Scholarship Program, Front-End Web Developer Learning Path</strong><br/>
+                        <em>[September 2024 - Present]</em><br/><br/>
+                        <ul style="margin-top: 5px; padding-left: 20px;">
+                            <li>Teaching and Learning Activities</li>
+                            <li>Practice:
+                            <ul>
+                                <li>Structured Programming</li>
+                                <li>Data Structure</li>
+                                <li>Object Oriented Programming</li>
+                                <li>Operating System</li>
+                                <li>Database</li>
+                                <li>Computer Network</li>
+                            </ul>
+                            </li>
+                            <li>Laboratory Assistant:
+                            <ul>
+                                <li>Programming Languages</li>
+                                <li>Software Engineering (Programming Languages)</li>
+                            </ul>
+                            </li>
+                            <li>Seminars/ Webinars</li>
+                            <li>Practical Work/ Internship (KP)</li>
+                            <li>Community Service Program / Field Work (KKN)</li>
+                            <li>MBKM/ Kampus Merdeka</li>
+                            <li>TEFL Course & Test</li>
+                            <li>Undergraduate Thesis/ Bachelor Thesis (Skripsi)</li>
+                        </ul>
+                        <p>
+                            Enrolled in the IDCamp 2024 Scholarship Program in the Front-End Web Developer learning pathway. This program is designed to provide a comprehensive understanding of web development and the fundamentals of artificial intelligence. Through these courses, I aim to enhance my technical skills and prepare myself to tackle challenges in the tech industry.
+                        </p>
                     </td>
                 </tr>
                 <tr>
@@ -456,6 +495,11 @@
                             <li><strong>Shortclass Monthly - June</strong> [June 2024]</li>
                             <li><strong>Shortclass Monthly - May</strong> [May 2024]</li>
                         </ul>
+                        <p>
+                            Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English
+                            & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering,
+                            Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
+                        </p>
                     </td>
                 </tr>
                 <tr>
@@ -469,6 +513,17 @@
                     <td valign="middle">
                         <strong>IDCamp 2023 Scholarship Program, Data Scientist Learning Path</strong><br/>
                         <em>[September 2023 - December 2023]</em>
+                        <ul style="margin-top: 5px; padding-left: 20px;">
+                            <li>Belajar Dasar Data Science</li>
+                            <li>Belajar Dasar Structured Query Language (SQL)</li>
+                            <li>Memulai Pemrograman dengan Python</li>
+                            <li>Belajar Analisis Data dengan Python</li>
+                            <li>Belajar Fundamental Front-End Web Development</li>
+                            <li>Belajar Machine Learning untuk Pemula</li>
+                        </ul>
+                        <p>
+                            Enrolled in the IDCamp 2023 Scholarship Program in the Data Scientist learning pathway. This program is designed to provide a comprehensive understanding of data science and artificial intelligence. Through these courses, I aim to enhance my technical skills and prepare myself to tackle challenges in the tech industry.
+                        </p>
                     </td>
                 </tr>
                 <tr>
@@ -483,6 +538,14 @@
                     <td valign="middle">
                         <strong>IDCamp 2022 Scholarship Program, Back-End Developer Learning Path</strong><br/>
                         <em>[June 2022 - September 2022]</em>
+                        <ul style="margin-top: 5px; padding-left: 20px;">
+                            <li>Belajar Dasar Pemrograman JavaScript</li>
+                            <li>Belajar Membuat Aplikasi Back-End untuk Pemula</li>
+                            <li>Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)</li>
+                        </ul>
+                        <p>
+                            Enrolled in the IDCamp 2022 Scholarship Program in the Back-End Developer learning pathway. This program is designed to provide a comprehensive understanding of Back-End Through these courses, I aim to enhance my technical skills and prepare myself to tackle challenges in the tech industry.
+                        </p>
                     </td>
                 </tr>
             </tbody>
@@ -825,6 +888,7 @@
             </li>
         </ul>
     </div>
+
 </details>
 
 <details>
