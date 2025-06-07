@@ -498,7 +498,7 @@
                     <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">
                         Submission - Our Story App Submission (2025)
                     </a>
-                </strong> - <em>(April 2025 - May 2025)</em>
+                </strong> - <em>(April 2025 - June 2025)</em>
                 <p>OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.</p>
                 <p>
                     🌐 <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">View Website</a>
