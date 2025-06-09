@@ -122,7 +122,7 @@
 <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
 <div align="center">
     <!-- Patreon Badge -->
-<!--     <a href="https://www.patreon.com/yourusername" target="_blank">
+<!--     <a href="https://www.patreon.com/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&style=for-the-badge" alt="Support on Patreon" />
     </a> -->
     <!-- Saweria Badge -->
@@ -130,27 +130,27 @@
         <img src="https://img.shields.io/badge/Saweria-Support-orange?logo=saweria&style=for-the-badge" alt="Support on Saweria" />
     </a>
     <!-- Sociabuzz Badge -->
-<!--     <a href="https://sociabuzz.com/yourusername" target="_blank">
+<!--     <a href="https://sociabuzz.com/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/Sociabuzz-Support-00C3FF?logo=sociabuzz&style=for-the-badge" alt="Support on Sociabuzz" />
     </a> -->
     <!-- Streamlabs Badge -->
-<!--     <a href="https://streamlabs.com/yourusername" target="_blank">
+<!--     <a href="https://streamlabs.com/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/Streamlabs-Donate-green?logo=streamlabs&style=for-the-badge" alt="Donate with Streamlabs" />
     </a> -->
     <!-- Nyawer.co Badge -->
-<!--     <a href="https://nyawer.co/yourusername" target="_blank">
+<!--     <a href="https://nyawer.co/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/Nyawer-Support-red?logo=nyawer&style=for-the-badge" alt="Support on Nyawer.co" />
     </a> -->
     <!-- Trakteer Badge -->
-<!--     <a href="https://trakteer.id/yourusername" target="_blank">
+<!--     <a href="https://trakteer.id/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/Trakteer-Support-FF3C3C?logo=trakteer&style=for-the-badge" alt="Support on Trakteer" />
     </a> -->
     <!-- GitHub Sponsors Badge -->
-<!--     <a href="https://github.com/sponsors/yourusername" target="_blank">
+<!--     <a href="https://github.com/sponsors/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/GitHub%20Sponsors-❤️-lightgrey?logo=githubsponsors&style=for-the-badge" alt="Support via GitHub Sponsors" />
     </a> -->
     <!-- PayPal Badge -->
-<!--     <a href="https://www.paypal.me/yourusername" target="_blank">
+<!--     <a href="https://www.paypal.me/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&style=for-the-badge" alt="Donate via PayPal" />
     </a> -->
 </div>
@@ -190,7 +190,7 @@
     </summary>
     <details>
         <summary>
-            <h3>Qualification:</h3>
+            <h3>Qualifications</h3>
         </summary>
         <div>
             <h4>
