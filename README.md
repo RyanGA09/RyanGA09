@@ -211,6 +211,26 @@
                 <tr>
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://flashcomindonesia.com/" target="_blank">
+                                <img src="https://image4.owler.com/logo/flashcomindonesia_owler_20190519_204349_original.jpg" width="60" height="60" alt="Codveda Logo" />
+                            </a><br/>
+                            <sub>Flashcom Indonesia</sub>
+                        </div>
+                    </td>
+                    <td align="center" valign="middle">Freelance</td>
+                    <td valign="middle">
+                        <strong>Trainer</strong>
+                        <em>[June 2025 - Present]</em>
+                        <ul>
+                            <li><strong></strong> Web Development</li>
+                            <li><strong></strong> Data Analyst</li>
+                            <li><strong></strong> UI/UX</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://medium.com/" target="_blank">
                                 <img src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" width="60" height="60" alt="Medium Logo" />
                             </a><br/>
@@ -291,15 +311,15 @@
                     <tr>
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                                <a href="https://flashcomindonesia.com/" target="_blank">
-                                    <img src="https://image4.owler.com/logo/flashcomindonesia_owler_20190519_204349_original.jpg" width="60" height="60" alt="Codveda Logo" />
+                                <a href="https://digitalent.komdigi.go.id/#" target="_blank">
+                                    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/ac/d7/83acd7b5-f2c1-726d-c222-8763973f2a45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="60" height="60" alt="Digitalent Logo" />
                                 </a><br/>
-                                <sub>Flashcom Indonesia</sub>
+                                <sub>Digital Talent Scholarship</sub>
                             </div>
                         </td>
                         <td valign="middle">
-                            <strong>Web Development & Data Analyst Trainer</strong>
-                            <em>[June 2025 - Present]</em>
+                            <strong>Associate Data Scientist Professional</strong>
+                            <em>[May 2025 - Present]</em>
                         </td>
                     </tr>
                     <tr>
