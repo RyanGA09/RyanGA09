@@ -497,7 +497,7 @@
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                                 <a href="https://myskill.id/" target="_blank">
-                                    <img src="https://instellar.id/wp-content/uploads/2022/04/MySkill.png" width="40" height="40" alt="MySkill Logo" />
+                                    <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1629/original/logo_myskill_v2.png" width="40" height="40" alt="MySkill Logo" />
                                 </a><br/>
                                 <sub>MySkill</sub>
                             </div>
