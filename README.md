@@ -830,9 +830,8 @@
                                             </p>
                                         </details>
                                         <a href="https://doi.org/10.31284/p.snestik.2025.6874" 
-                                        style="background-color: #f0f0f0; padding: 8px 16px; margin-top: 10px; border: 1px solid #ccc; border-radius: 4px; color: black; text-decoration: none; font-size: 14px; font-weight: bold;">
-                                            Read More
-                                        </a>
+                                        style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read More</a>
+                                        <br>
                                         <span style="font-size: 12px; color: gray; text-align: center; margin-top: 5px;">
                                             If the DOI is not accessible, use 
                                             <a href="https://ejurnal.itats.ac.id/snestik/article/view/6874" style="color: black; text-decoration: underline;">
