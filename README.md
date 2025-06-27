@@ -832,7 +832,7 @@
                                         <a href="https://doi.org/10.31284/p.snestik.2025.6874" 
                                         style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read More</a>
                                         <br>
-                                        <span style="font-size: 12px; color: gray; text-align: center; margin-top: 5px;">
+                                        <span style="font-size: 12px; color: gray; text-align: center; margin-top: 10px;">
                                             If the DOI is not accessible, use 
                                             <a href="https://ejurnal.itats.ac.id/snestik/article/view/6874" style="color: black; text-decoration: underline;">
                                                 this alternative link
@@ -870,22 +870,6 @@
                                     </div>
                                 </td>
                             </tr>
-                            <!-- JITET Journal
-                            <tr>
-                                <td align="center">
-                                    <strong>JITET (Jurnal Teknik Informatika dan Teknik Elektro Terapan)</strong><br>
-                                    <em>7 Agustus 2025</em>
-                                </td>
-                                <td>
-                                    <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                                        <details style="text-align: center;">
-                                            <summary style="font-size: 14px; color: black; font-weight: bold;">Sistem Deteksi Penyakit Pada Otak dengan Pendekatan Klasifikasi CNN dan Preprocessing Image Generator (DOI: 10.23960/jitet.v12i3.4371)</summary>
-                                            <p style="font-size: 12px; color: black;">In today's digital era, artificial intelligence technology has become an important part of various human activities, including in the healthcare sector. One of its focal points is the detection of brain diseases, which have significant implications for health and medical expenses. This study addresses the issue of accuracy in brain disease detection through the utilization of Convolutional Neural Network (CNN) methodology and preprocessing Image Generator. Previous research suggests that CNN with preprocessing Image Generator has the potential to enhance detection accuracy. The research employs the Computed Tomography (CT) of the Brain dataset from Kaggle, comprising 259 data points categorized into three classes: aneurysm, tumor, and cancer. Experimental findings indicate that the CNN method with preprocessing Image Generator yields higher accuracy in both training and testing phases, with reduced complexity. In conclusion, this method holds promise for more effective detection of brain diseases.</p>
-                                        </details>
-                                        <a href="http://dx.doi.org/10.23960/jitet.v12i3.4371" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
-                                    </div>
-                                </td>
-                            </tr> -->
                             <!-- Eksplora Informatika Journal
                             <tr>
                                 <td align="center">
