@@ -197,8 +197,8 @@
             <img src="https://www.animatedimages.org/data/media/973/animated-bag-and-purse-image-0001.gif" border="0" 
                 alt="work-icon" width="22" height="22"/> Work Experiences
             </h4>
-            <!-- Freelance, Part-time, Full-time, and other statuses -->
-            <strong>Freelance, Part-time, Full-time, and Others:</strong>
+            <!-- Freelance, Part-time, Full-time, Contract, and other statuses -->
+            <strong>Freelance, Part-time, Full-time, Contract, and Others:</strong>
             <table>
                 <thead align="center">
                     <tr>
@@ -208,11 +208,31 @@
                     </tr>
                 </thead>
             <tbody>
+                <!-- <tr>
+                    <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="https://flashcomindonesia.com/" target="_blank">
+                                <img src="https://cdn-web-2.ruangguru.com/landing-pages/assets/hs/kalananti%202022/Kalananti%20by%20Ruangguru.png" width="100" height="60" alt="Kalananti Logo" />
+                            </a><br/>
+                            <sub>Kalananti by Ruangguru</sub>
+                        </div>
+                    </td>
+                    <td align="center" valign="middle">Contract</td>
+                    <td valign="middle">
+                        <strong>Coding Teacher</strong>
+                        <em>[June 2025 - Present]</em>
+                        <ul>
+                            <li><strong></strong> Web Development</li>
+                            <li><strong></strong> Data Analyst</li>
+                            <li><strong></strong> UI/UX</li>
+                        </ul>
+                    </td>
+                </tr> -->
                 <tr>
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://flashcomindonesia.com/" target="_blank">
-                                <img src="https://image4.owler.com/logo/flashcomindonesia_owler_20190519_204349_original.jpg" width="60" height="60" alt="Codveda Logo" />
+                                <img src="https://image4.owler.com/logo/flashcomindonesia_owler_20190519_204349_original.jpg" width="60" height="60" alt="Flashcom Indonesia Logo" />
                             </a><br/>
                             <sub>Flashcom Indonesia</sub>
                         </div>
