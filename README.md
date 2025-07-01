@@ -69,14 +69,14 @@
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
-    <!-- YouTube Badge - Ryan G Abdullah -->
+    <!-- YouTube Badge - Ryan G Abdullah (Personal) -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
-        <img src="https://img.shields.io/badge/Ryan_G_Abdullah-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G Abdullah" />
+        <img src="https://img.shields.io/badge/YouTube%20(Ryan)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G Abdullah" />
     </a>
-    <!-- YouTube Badge - Lightning 19045 -->
-    <!-- <a href="https://www.youtube.com/@Lightning19045" target="_blank">
-        <img src="https://img.shields.io/badge/Lightning_19045-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning 19045" />
-    </a> -->
+    <!-- YouTube Badge - Lightning 19045 (Gaming) -->
+    <a href="https://www.youtube.com/@Lightning19045" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube%20(Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning 19045" />
+    </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
         <img src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge" alt="Join on Discord" />
