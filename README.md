@@ -71,11 +71,11 @@
     </a>
     <!-- YouTube Badge - Ryan G Abdullah -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G Abdullah" />
+        <img src="https://img.shields.io/badge/Ryan_G_Abdullah-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G Abdullah" />
     </a>
     <!-- YouTube Badge - Lightning 19045 -->
     <!-- <a href="https://www.youtube.com/@Lightning19045" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Lightning_19045-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning 19045" />
+        <img src="https://img.shields.io/badge/Lightning_19045-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning 19045" />
     </a> -->
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
