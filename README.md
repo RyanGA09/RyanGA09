@@ -62,16 +62,20 @@
         <img src="https://img.shields.io/badge/Bitbucket-Follow-blue?logo=bitbucket&style=for-the-badge" alt="Follow on Bitbucket" />
     </a> -->
     <!-- Medium Badge -->
-    <a href="https://medium.com/@ryangadingabdullah" target="blank">
+    <a href="https://medium.com/@ryangadingabdullah" target="_blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
     </a>
     <!-- Tableau Badge -->
-    <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="blank">
+    <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
-    <!-- YouTube Badge -->
-<!--         <a href="https://www.youtube.com/channel/yourchannel" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
+    <!-- YouTube Badge - Ryan G Abdullah -->
+    <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G Abdullah" />
+    </a>
+    <!-- YouTube Badge - Lightning 19045 -->
+    <!-- <a href="https://www.youtube.com/@Lightning19045" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-Lightning_19045-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning 19045" />
     </a> -->
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
