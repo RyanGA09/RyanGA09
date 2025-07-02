@@ -218,7 +218,7 @@
                 <!-- <tr>
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                            <a href="https://flashcomindonesia.com/" target="_blank">
+                            <a href="https://www.kalananti.id/" target="_blank">
                                 <img src="https://cdn-web-2.ruangguru.com/landing-pages/assets/hs/kalananti%202022/Kalananti%20by%20Ruangguru.png" width="100" height="60" alt="Kalananti Logo" />
                             </a><br/>
                             <sub>Kalananti by Ruangguru</sub>
@@ -227,12 +227,7 @@
                     <td align="center" valign="middle">Contract</td>
                     <td valign="middle">
                         <strong>Coding Teacher</strong>
-                        <em>[June 2025 - Present]</em>
-                        <ul>
-                            <li><strong></strong> Web Development</li>
-                            <li><strong></strong> Data Analyst</li>
-                            <li><strong></strong> UI/UX</li>
-                        </ul>
+                        <em>[July 2025 - Present]</em>
                     </td>
                 </tr> -->
                 <tr>
