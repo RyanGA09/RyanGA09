@@ -215,7 +215,7 @@
                     </tr>
                 </thead>
             <tbody>
-                <!-- <tr>
+                <tr>
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.kalananti.id/" target="_blank">
@@ -229,7 +229,7 @@
                         <strong>Coding Teacher</strong>
                         <em>[July 2025 - Present]</em>
                     </td>
-                </tr> -->
+                </tr>
                 <tr>
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
