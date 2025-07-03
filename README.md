@@ -219,12 +219,12 @@
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.kalananti.id/" target="_blank">
-                                <img src="https://cdn-web-2.ruangguru.com/landing-pages/assets/hs/kalananti%202022/Kalananti%20by%20Ruangguru.png" width="100" height="60" alt="Kalananti Logo" />
+                                <img src="https://cdn-web-2.ruangguru.com/landing-pages/assets/hs/kalananti%202022/Kalananti%20by%20Ruangguru.png" width="120" height="60" alt="Kalananti Logo" />
                             </a><br/>
                             <sub>Kalananti by Ruangguru</sub>
                         </div>
                     </td>
-                    <td align="center" valign="middle">Contract</td>
+                    <td align="center" valign="middle">Freelance</td>
                     <td valign="middle">
                         <strong>Coding Teacher</strong>
                         <em>[July 2025 - Present]</em>
