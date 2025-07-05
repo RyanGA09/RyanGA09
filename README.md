@@ -607,6 +607,14 @@
             <ul align="left">
                 <li>
                     <strong>
+                        <a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">
+                            DigiTalent Fundamental Data Science - Self-Practice Project
+                        </a>
+                    </strong> - <em>(June 2025 - June 2025)</em>
+                    <p>This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.</p>
+                </li>
+                <li>
+                    <strong>
                         <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">
                             Submission - Our Story App Submission (2025)
                         </a>
