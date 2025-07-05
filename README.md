@@ -738,7 +738,7 @@
             <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0242.gif" border="0" alt="animated-line-image-0386" width="1920"/>
             <details>
                 <summary>
-                    <h4>Project Details</h4>
+                    <h5>Project Details</h5>
                 </summary>
                 <div>
                         <ul>
@@ -814,6 +814,98 @@
                                 <strong>Description:</strong>
                                 <p>
                                 This project is submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="#" target="_blank">
+                                    Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest
+                                </a>
+                                </strong><br>
+                                <em>🗓️ August 2024 - February 2025</em><br>
+                                <strong>Description:</strong>
+                                <p>This project aims to classify user sentiment toward various laptop brands based on YouTube comments. Data is collected through web scraping and processed using tokenization, filtering, stemming, and transformed using TF-IDF.
+                                </br>
+                                A Random Forest model is employed for sentiment classification, evaluated using a Confusion Matrix and K-Fold Cross-Validation. The model achieves over 92% accuracy, with the majority of comments being positive. However, data imbalance slightly affects the detection of negative sentiments.
+                                </br>
+                                This project offers valuable insights for laptop manufacturers to better understand user opinions and improve marketing strategies and product quality through sentiment analysis.
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="#" target="_blank">
+                                    Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping
+                                </a>
+                                </strong><br>
+                                <em>🗓️ August 2024 - February 2025</em><br>
+                                <strong>Description:</strong>
+                                <p>The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">
+                                    MySkill Short Class Task Monthly
+                                </a>
+                                </strong><br>
+                                <em>🗓️ May 2024 - March 2025</em><br>
+                                <strong>Description:</strong>
+                                <p>Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">
+                                    Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
+                                </a>
+                                </strong><br>
+                                <em>🗓️ May 2024 - July 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">
+                                    Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
+                                </a>
+                                </strong><br>
+                                <em>🗓️ May 2024 - July 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="https://ejournal.itats.ac.id/semtik/article/view/6169" target="_blank">
+                                    Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall
+                                </a>
+                                </strong><br>
+                                <em>🗓️ March 2024 - July 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="https://docs.google.com/presentation/d/1xoNftmpjdeyyektjhhVzNZ5j7kl0YIIX/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
+                                    Analysis of Flight Delays and Airline Performance (Capstone Project) - MIKTI Independent Study Batch 6 Program - Capstone Project
+                                </a>
+                                </strong><br>
+                                <em>🗓️ May 2024 - June 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.
+                                </p>
+                            </li>
+                            <li>
+                                <strong>
+                                <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
+                                    Impact Analysis Covid-19 (Case Study Project) - MIKTI Independent Study Batch 6 Program - Case Study Project
+                                </a>
+                                </strong><br>
+                                <em>🗓️ May 2024 - May 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
                                 </p>
                             </li>
                         </ul>
