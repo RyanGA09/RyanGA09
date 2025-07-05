@@ -613,20 +613,24 @@
                         <thead>
                             <tr>
                                 <th>Project</th>
-                                <th>Date</th>
+                                <th>🗓️ Date</th>
                                 <th>Tech</th>
                                 <th>Link</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>DigiTalent Fundamental Data Science - Self-Practice Project</td>
+                                <td>DigiTalent Fundamental Data Science - Self-Practice Project<br>
+                                <strong>Description:</strong><br>
+                                This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.</td>
                                 <td>June 2025 - June 2025</td>
                                 <td>Python, Pandas, EDA</td>
                                 <td><a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">GitHub</a></td>
                             </tr>
                             <tr>
-                                <td>Submission - Our Story App Submission (2025)</td>
+                                <td>Submission - Our Story App Submission (2025)<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>April 2025 - June 2025</td>
                                 <td>JS, SPA, API</td>
                                 <td>
@@ -635,19 +639,25 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Machine Learning Task Implementation - Codveda Internship</td>
+                                <td>Machine Learning Task Implementation - Codveda Internship<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>March 2025 - April 2025</td>
                                 <td>Sklearn, TensorFlow</td>
                                 <td><a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">GitHub</a></td>
                             </tr>
                             <tr>
-                                <td>Submission - Final Assessment Submission (2024)</td>
+                                <td>Submission - Final Assessment Submission (2024)<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>September 2024 - October 2024</td>
                                 <td>JavaScript</td>
                                 <td><a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">GitHub</a></td>
                             </tr>
                             <tr>
-                                <td>Submission - Web Book Collection Submission (2024)</td>
+                                <td>Submission - Web Book Collection Submission (2024)<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>September 2024 - October 2024</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -656,7 +666,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Submission - BookShelf App Submission (2024)</td>
+                                <td>Submission - BookShelf App Submission (2024)<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>(September 2024 - September 2024)</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -665,7 +677,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest</td>
+                                <td>Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>August 2024 - February 2025</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -674,7 +688,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</td>
+                                <td>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>August 2024 - February 2025</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -682,7 +698,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>MySkill Short Class Task Monthly</td>
+                                <td>MySkill Short Class Task Monthly<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>May 2024 - March 2025</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -690,7 +708,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</td>
+                                <td>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>May 2024 - July 2024</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -698,7 +718,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</td>
+                                <td>Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>May 2024 - July 2024</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -707,7 +729,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</td>
+                                <td>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>March 2024 - July 2024</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -715,7 +739,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>MIKTI Independent Study Batch 6 Program - Capstone Project</td>
+                                <td>MIKTI Independent Study Batch 6 Program - Capstone Project<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>May 2024 - June 2024</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
@@ -724,7 +750,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Impact Analysis Covid-19 (Case Study Project)</td>
+                                <td>Impact Analysis Covid-19 (Case Study Project)<br>
+                                <strong>Description:</strong><br>
+                                </td>
                                 <td>May 2024 - May 2024</td>
                                 <td>HTML, CSS, JS</td>
                                 <td>
