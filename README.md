@@ -607,10 +607,10 @@
             <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
                 <thead>
                     <tr>
-                        <th width="50%">📁 Project</th>
+                        <th width="70%">📁 Project</th>
                         <th width="10%">🗓️ Date</th>
                         <th width="10%">💻 Tech</th>
-                        <th width="30%">🔗 Link</th>
+                        <th width="10%">🔗 Link</th>
                     </tr>
                 </thead>
                 <tbody>
