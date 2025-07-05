@@ -604,161 +604,149 @@
         </summary>
         <div>
             <h4><img src="https://www.animatedimages.org/data/media/53/animated-book-image-0058.gif" border="0" alt="animated-book-image-0058" width="22" height="22"/> Projects</h4>
-            <ul align="left">
-                <li>
-                    <strong>
+            <details>
+            <summary>
+                <h4>Project Overview</h4>
+                <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+                    <thead>
+                        <tr>
+                            <th>Nama Proyek</th>
+                            <th>Periode</th>
+                            <th>Deskripsi</th>
+                            <th>Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>DigiTalent Fundamental Data Science - Self-Practice Project</td>
+                            <td>June 2025</td>
+                            <td>Kumpulan latihan mandiri untuk memperkuat konsep dasar data science: pengumpulan data, eksplorasi data, pembersihan data, dan anotasi. Menggunakan dataset nyata dan tools industri.</td>
+                            <td><a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">GitHub</a></td>
+                        </tr>
+                        <tr>
+                            <td>Our Story App Submission (2025)</td>
+                            <td>April – June 2025</td>
+                            <td>Aplikasi web SPA untuk berbagi cerita melalui foto dan lokasi. Terintegrasi dengan Dicoding Story API, menggunakan Leaflet.js dan Web Notification API, serta memenuhi standar aksesibilitas WCAG.</td>
+                            <td>
+                                <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">GitHub</a><br>
+                                <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">Live Demo</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Machine Learning Task Implementation - Codveda Internship</td>
+                            <td>March – April 2025</td>
+                            <td>Implementasi tugas ML tingkat dasar hingga lanjut menggunakan Python, Scikit-Learn, TensorFlow, dan Keras. Fokus preprocessing, modeling, dan evaluasi performa.</td>
+                            <td><a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">GitHub</a></td>
+                        </tr>
+                        <tr>
+                            <td>Final Assessment - JavaScript Basic</td>
+                            <td>September – October 2024</td>
+                            <td>Aplikasi sederhana untuk menampilkan koleksi buku menggunakan dasar-dasar JavaScript dan manipulasi DOM.</td>
+                            <td><a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">GitHub</a></td>
+                        </tr>
+                        <tr>
+                            <td>Web Book Collection</td>
+                            <td>September – October 2024</td>
+                            <td>Aplikasi katalog buku berbasis web yang memungkinkan pengguna melihat koleksi buku secara interaktif.</td>
+                            <td>
+                                <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">GitHub</a><br>
+                                <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">Live Demo</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>BookShelf App</td>
+                            <td>September 2024</td>
+                            <td>Aplikasi front-end untuk menambah, mencari, dan menghapus koleksi buku. Menunjukkan pemahaman tentang localStorage dan JavaScript dasar.</td>
+                            <td>
+                                <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">GitHub</a><br>
+                                <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">Live Demo</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </summary>
+            </details>
+            <details>
+            <summary>
+                <h4>Project Details</h4>
+                <ul>
+                    <li>
+                        <strong>
                         <a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">
                             DigiTalent Fundamental Data Science - Self-Practice Project
                         </a>
-                    </strong> - <em>(June 2025 - June 2025)</em>
-                    <p>This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.</p>
-                </li>
-                <li>
-                    <strong>
+                        </strong><br>
+                        <em>🗓️ June 2025</em><br>
+                        <strong>Deskripsi:</strong>
+                        <p>Kumpulan latihan mandiri untuk memperkuat konsep dasar data science: pengumpulan data, eksplorasi data, pembersihan data, dan anotasi. Menggunakan dataset nyata dan tools industri.</p>
+                    </li>
+                    <li>
+                        <strong>
                         <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">
-                            Submission - Our Story App Submission (2025)
+                            Our Story App Submission (2025)
                         </a>
-                    </strong> - <em>(April 2025 - June 2025)</em>
-                    <p>OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.</p>
-                    <p>
-                        🌐 <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">View Website</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
+                        </strong><br>
+                        <em>🗓️ April – June 2025</em><br>
+                        <strong>Deskripsi:</strong>
+                        <p>
+                        Aplikasi web SPA untuk berbagi cerita melalui foto dan lokasi. Terintegrasi dengan Dicoding Story API, menggunakan Leaflet.js dan Web Notification API, serta memenuhi standar aksesibilitas WCAG.
+                        <br>
+                        🌐 <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">Live Demo</a>
+                        </p>
+                    </li>
+                    <li>
+                        <strong>
                         <a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">
                             Machine Learning Task Implementation - Codveda Internship
                         </a>
-                    </strong> - <em>(March 2025 - April 2025)</em>
-                    <p>As part of the internship program at Codveda Technologies, I worked on various Machine Learning tasks divided into three levels: Basic, Intermediate, and Advanced. Each level involves implementing ML algorithms using Python and libraries such as Scikit-Learn, TensorFlow, Keras, and Matplotlib.
-                    </br>
-                    💡 Highlights:
-                    <ul>
-                        <li>✅ Data preprocessing (handling missing values, encoding, scaling).</li>
-                        <li>✅ Implementing Linear Regression, KNN, Logistic Regression, Decision Tree, K-Means Clustering models.</li>
-                        <li>✅ Developing Random Forest, Support Vector Machine (SVM), and Neural Network models.</li>
-                        <li>✅ Model evaluation using metrics such as accuracy, precision, recall, and confusion matrix.</li>
-                        <li>✅ Visualizing results using Seaborn and Matplotlib.</li>
-                    </ul>
-                    </p>
-                </li>
-                <li>
-                    <strong>
+                        </strong><br>
+                        <em>🗓️ March – April 2025</em><br>
+                        <strong>Deskripsi:</strong>
+                        <p>
+                        Implementasi tugas ML tingkat dasar hingga lanjut menggunakan Python, Scikit-Learn, TensorFlow, dan Keras. Fokus preprocessing, modeling, dan evaluasi performa.
+                        </p>
+                    </li>
+                    <li>
+                        <strong>
                         <a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">
-                            Submission - Final Assessment Submission (2024)
+                            Final Assessment - JavaScript Basic
                         </a>
-                    </strong> - <em>(September 2024 - October 2024)</em>
-                    <p>This project is my submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)". The Web Book Collection allows users to see book collection.</p>
-                </li>
-                <li>
-                    <strong>
+                        </strong><br>
+                        <em>🗓️ September – October 2024</em><br>
+                        <strong>Deskripsi:</strong>
+                        <p>Aplikasi sederhana untuk menampilkan koleksi buku menggunakan dasar-dasar JavaScript dan manipulasi DOM.</p>
+                    </li>
+                    <li>
+                        <strong>
                         <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">
-                            Submission - Web Book Collection Submission (2024)
+                            Web Book Collection
                         </a>
-                    </strong> - <em>(September 2024 - October 2024)</em>
-                    <p>This project is my submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.</p>
-                    <p>
-                        🌐 <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">View Website</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
+                        </strong><br>
+                        <em>🗓️ September – October 2024</em><br>
+                        <strong>Deskripsi:</strong>
+                        <p>
+                        Aplikasi katalog buku berbasis web yang memungkinkan pengguna melihat koleksi buku secara interaktif.
+                        <br>
+                        🌐 <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">Live Demo</a>
+                        </p>
+                    </li>
+                    <li>
+                        <strong>
                         <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">
-                            Submission - BookShelf App Submission (2024)
+                            BookShelf App
                         </a>
-                    </strong> - <em>(September 2024 - September 2024)</em>
-                    <p>This project is my submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.</p>
-                    <p>
-                        🌐 <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">View Website</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="#" target="_blank">
-                            Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest
-                        </a>
-                    </strong> - <em>(August 2024 - February 2025)</em>
-                    <p>This project aims to classify user sentiment toward various laptop brands based on YouTube comments. Data is collected through web scraping and processed using tokenization, filtering, stemming, and transformed using TF-IDF.
-                    </br>
-                    A Random Forest model is employed for sentiment classification, evaluated using a Confusion Matrix and K-Fold Cross-Validation. The model achieves over 92% accuracy, with the majority of comments being positive. However, data imbalance slightly affects the detection of negative sentiments.
-                    </br>
-                    This project offers valuable insights for laptop manufacturers to better understand user opinions and improve marketing strategies and product quality through sentiment analysis.
-                    </p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="#" target="_blank">
-                            Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping
-                        </a>
-                    </strong> - <em>(August 2024 - February 2025)</em>
-                    <p>The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.</p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">
-                            MySkill Short Class Task Monthly
-                        </a>
-                    </strong> - <em>(May 2024 - March 2025)</em>
-                    <p>Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.</p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">
-                            Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
-                        </a>
-                    </strong> - <em>(May 2024 - July 2024)</em>
-                    <p>Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).</p>
-                    <p>
-                        🌐 <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="https://ribathdt.com/" target="_blank">
-                            Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh
-                        </a>
-                    </strong> - <em>(May 2024 - July 2024)</em>
-                    <p>Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).</p>
-                    <p>
-                        🌐 <a href="https://ribathdt.com/" target="_blank">View Website</a>
-                    </p>
-                    <p>
-                        🌐 <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="https://ejournal.itats.ac.id/semtik/article/view/6169" target="_blank">
-                            Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall
-                        </a>
-                    </strong> - <em>(March 2024 - July 2024)</em>
-                    <p>As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.</p>
-                    <p>
-                        🌐 <a href="https://ejurnal.itats.ac.id/semtik/article/view/6169" target="_blank">View Prosiding</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="https://docs.google.com/presentation/d/1xoNftmpjdeyyektjhhVzNZ5j7kl0YIIX/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
-                            Analysis of Flight Delays and Airline Performance (Capstone Project)
-                        </a>
-                    </strong> - <em>(May 2024 - June 2024)</em>
-                    <br>MIKTI Independent Study Batch 6 Program - Capstone Project
-                    <p>Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.</p>
-                    <p>
-                        🌐 <a href="https://public.tableau.com/app/profile/zulaikha.anissa/viz/AirlinePerformanceDashboard_17188036489170/Dashboard1" target="_blank">View</a>
-                    </p>
-                </li>
-                <li>
-                    <strong>
-                        <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">
-                            Impact Analysis Covid-19 (Case Study Project)
-                        </a>
-                    </strong> - <em>(May 2024 - May 2024)</em>
-                    <br>MIKTI Independent Study Batch 6 Program - Case Study Project
-                    <p>Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.</p>
-                </li>
-            </ul>
+                        </strong><br>
+                        <em>🗓️ September 2024</em><br>
+                        <strong>Deskripsi:</strong>
+                        <p>
+                        Aplikasi front-end untuk menambah, mencari, dan menghapus koleksi buku. Menunjukkan pemahaman tentang localStorage dan JavaScript dasar.
+                        <br>
+                        🌐 <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">Live Demo</a>
+                        </p>
+                    </li>
+                </ul>
+            </summary>
+            </details>
         </div>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
         <h4><a href="https://www.animatedimages.org/cat-writers-1669.htm"><img src="https://www.animatedimages.org/data/media/1669/animated-writer-image-0027.gif" border="0" alt="animated-writer-image-0027" width="22" height="22"/></a> Publications</h4>
@@ -879,11 +867,11 @@
                                                 Urban population density mapping or urban utility planning requires a classification map based on individual buildings that are considered much more informative. The goal of this research is to determine how to extract the fine-grained boundaries of individual buildings from a street-view dataset. This paper proposes a general framework for classifying individual building functionality using a deep learning approach. The proposed method is based on a Convolutional Neural Network (CNN) that classifies facade structures from street view images, such as Street-View images. From the experiments conducted, the CNN classifier with the ResNet architecture was able to classify the Street-View data group with an accuracy value of 86.79%. We construct a dataset to train and evaluate the CNN classifier. Furthermore, the method is applied to generate a building classification map at the urban area scale.
                                             </p>
                                         </details>
-                                        <a href="https://doi.org/10.31284/p.snestik.2025.6874" 
+                                        <a href="https://doi.org/10.31284/p.snestik.2025.6874"
                                         style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read More</a>
                                         <br>
                                         <span style="font-size: 12px; color: gray; text-align: center; margin-top: 10px;">
-                                            If the DOI is not accessible, use 
+                                            If the DOI is not accessible, use
                                             <a href="https://ejurnal.itats.ac.id/snestik/article/view/6874" style="color: black; text-decoration: underline;">
                                                 this alternative link
                                             </a>.
