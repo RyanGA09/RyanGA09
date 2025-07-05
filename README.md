@@ -735,6 +735,7 @@
                     </table>
                 </div>
             </details>
+            <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0242.gif" border="0" alt="animated-line-image-0386" width="1920"/>
             <details>
                 <summary>
                     <h4>Project Details</h4>
@@ -747,22 +748,19 @@
                                     DigiTalent Fundamental Data Science - Self-Practice Project
                                 </a>
                                 </strong><br>
-                                <em>🗓️ June 2025</em><br>
-                                <strong>Deskripsi:</strong>
-                                <p>Kumpulan latihan mandiri untuk memperkuat konsep dasar data science: pengumpulan data, eksplorasi data, pembersihan data, dan anotasi. Menggunakan dataset nyata dan tools industri.</p>
+                                <em>🗓️ June 2025 - June 2025</em><br>
+                                <strong>Description:</strong>
+                                <p>This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency</p>
                             </li>
                             <li>
                                 <strong>
                                 <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">
-                                    Our Story App Submission (2025)
+                                    Submission - Our Story App Submission (2025)
                                 </a>
                                 </strong><br>
-                                <em>🗓️ April – June 2025</em><br>
-                                <strong>Deskripsi:</strong>
-                                <p>
-                                Aplikasi web SPA untuk berbagi cerita melalui foto dan lokasi. Terintegrasi dengan Dicoding Story API, menggunakan Leaflet.js dan Web Notification API, serta memenuhi standar aksesibilitas WCAG.
-                                <br>
-                                🌐 <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">Live Demo</a>
+                                <em>🗓️ April 2025 – June 2025</em><br>
+                                <strong>Description:</strong>
+                                <p>OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.
                                 </p>
                             </li>
                             <li>
@@ -771,48 +769,51 @@
                                     Machine Learning Task Implementation - Codveda Internship
                                 </a>
                                 </strong><br>
-                                <em>🗓️ March – April 2025</em><br>
-                                <strong>Deskripsi:</strong>
-                                <p>
-                                Implementasi tugas ML tingkat dasar hingga lanjut menggunakan Python, Scikit-Learn, TensorFlow, dan Keras. Fokus preprocessing, modeling, dan evaluasi performa.
+                                <em>🗓️ March 2025 – April 2025</em><br>
+                                <strong>Description:</strong>
+                                <p>As part of the internship program at Codveda Technologies, I worked on various Machine Learning tasks divided into three levels: Basic, Intermediate, and Advanced. Each level involves implementing ML algorithms using Python and libraries such as Scikit-Learn, TensorFlow, Keras, and Matplotlib.
+                                </br>
+                                    💡 Highlights:
+                                    <ul>
+                                        <li>✅ Data preprocessing (handling missing values, encoding, scaling).</li>
+                                        <li>✅ Implementing Linear Regression, KNN, Logistic Regression, Decision Tree, K-Means Clustering models.</li>
+                                        <li>✅ Developing Random Forest, Support Vector Machine (SVM), and Neural Network models.</li>
+                                        <li>✅ Model evaluation using metrics such as accuracy, precision, recall, and confusion matrix.</li>
+                                        <li>✅ Visualizing results using Seaborn and Matplotlib.</li>
+                                    </ul>
                                 </p>
                             </li>
                             <li>
                                 <strong>
                                 <a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">
-                                    Final Assessment - JavaScript Basic
+                                    Submission - Final Assessment Submission (2024)
                                 </a>
                                 </strong><br>
-                                <em>🗓️ September – October 2024</em><br>
-                                <strong>Deskripsi:</strong>
-                                <p>Aplikasi sederhana untuk menampilkan koleksi buku menggunakan dasar-dasar JavaScript dan manipulasi DOM.</p>
+                                <em>🗓️ September 2024 – October 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>This project is submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)".</p>
                             </li>
                             <li>
                                 <strong>
                                 <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">
-                                    Web Book Collection
+                                    Submission - Web Book Collection Submission (2024)
                                 </a>
                                 </strong><br>
-                                <em>🗓️ September – October 2024</em><br>
-                                <strong>Deskripsi:</strong>
-                                <p>
-                                Aplikasi katalog buku berbasis web yang memungkinkan pengguna melihat koleksi buku secara interaktif.
-                                <br>
-                                🌐 <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">Live Demo</a>
+                                <em>🗓️ September 2024 - October 2024</em><br>
+                                <strong>Description:</strong>
+                                <p>This project is submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.
                                 </p>
                             </li>
                             <li>
                                 <strong>
                                 <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">
-                                    BookShelf App
+                                    Submission - BookShelf App Submission (2024)
                                 </a>
                                 </strong><br>
-                                <em>🗓️ September 2024</em><br>
-                                <strong>Deskripsi:</strong>
+                                <em>🗓️ September 2024 - September 2024</em><br>
+                                <strong>Description:</strong>
                                 <p>
-                                Aplikasi front-end untuk menambah, mencari, dan menghapus koleksi buku. Menunjukkan pemahaman tentang localStorage dan JavaScript dasar.
-                                <br>
-                                🌐 <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">Live Demo</a>
+                                This project is submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.
                                 </p>
                             </li>
                         </ul>
