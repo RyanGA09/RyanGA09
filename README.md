@@ -619,7 +619,7 @@
                         <strong>Description:</strong><br>
                         This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.</td>
                         <td>June 2025 - June 2025</td>
-                        <td>Python, Pandas, EDA</td>
+                        <td>Python, Pandas, Requests, Beautifulsoup4, Seaborn, Matplotlib, Jupyter Notebook, Scikit-Learn</td>
                         <td><a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
@@ -628,7 +628,7 @@
                         OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.
                         </td>
                         <td>April 2025 - June 2025</td>
-                        <td>JS, SPA, API</td>
+                        <td>HTML, CSS, Javascript, Webpack, Vite, API, Microsoft Visual Studio Code</td>
                         <td>
                             <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">GitHub</a><br>
                             <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">Live Demo</a>
@@ -649,7 +649,7 @@
                             </ul>
                         </td>
                         <td>March 2025 - April 2025</td>
-                        <td>Sklearn, TensorFlow</td>
+                        <td>Python, Pandas, Scikit-Learn, OS, Plotly, NumPy, Matplotlib, Seaborn, Mplcursors, Scipy, Mlxtend, Datetime, Imblearn, TensorFlow/Keras, Microsoft Visual Studio Code</td>
                         <td><a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
@@ -658,7 +658,7 @@
                         This project is submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)".
                         </td>
                         <td>September 2024 - October 2024</td>
-                        <td>JavaScript</td>
+                        <td>JavaScript, Microsoft Visual Studio Code</td>
                         <td><a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
@@ -667,7 +667,7 @@
                         This project is submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.
                         </td>
                         <td>September 2024 - October 2024</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
                         <td>
                             <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">GitHub</a><br>
                             <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">Live Demo</a>
@@ -679,7 +679,7 @@
                         This project is submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.
                         </td>
                         <td>(September 2024 - September 2024)</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
                         <td>
                             <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">GitHub</a><br>
                             <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">Live Demo</a>
@@ -695,7 +695,7 @@
                         This project offers valuable insights for laptop manufacturers to better understand user opinions and improve marketing strategies and product quality through sentiment analysis.
                         </td>
                         <td>August 2024 - February 2025</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
                         <td>
                             <a href="#" target="_blank">GitHub</a><br>
                             <a href="#" target="_blank">Journal</a>
@@ -707,7 +707,7 @@
                         The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.
                         </td>
                         <td>August 2024 - February 2025</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
                         <td>
                             <p>-</p>
                         </td>
@@ -718,7 +718,7 @@
                         Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
                         </td>
                         <td>May 2024 - March 2025</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>Powerpoint, Excel, Figma, Python, Jupyter Notebook, Canva, Microsoft Visual Studio Code, HTML, CSS, Javascript</td>
                         <td>
                             <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">Google Drive</a><br>
                         </td>
@@ -729,7 +729,7 @@
                         Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
                         </td>
                         <td>May 2024 - July 2024</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>HTML, CSS, Bootstrap, Laravel, Microsoft Visual Studio Code</td>
                         <td>
                             <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
                         </td>
@@ -740,7 +740,7 @@
                         Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
                         </td>
                         <td>May 2024 - July 2024</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>Wordpress</td>
                         <td>
                             <a href="https://ribathdt.com/" target="_blank">Website</a><br>
                             <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
@@ -752,7 +752,7 @@
                         As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.
                         </td>
                         <td>March 2024 - July 2024</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
                         <td>
                             <a href="https://ejurnal.itats.ac.id/semtik/article/view/6169" target="_blank">Proceeding</a>
                         </td>
@@ -763,7 +763,7 @@
                         Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.
                         </td>
                         <td>May 2024 - June 2024</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>Google Colaboratory, Jupyter Notebook, Powerpoint</td>
                         <td>
                             <a href="https://docs.google.com/presentation/d/1xoNftmpjdeyyektjhhVzNZ5j7kl0YIIX/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">Presentation</a><br>
                             <a href="https://public.tableau.com/app/profile/zulaikha.anissa/viz/AirlinePerformanceDashboard_17188036489170/Dashboard1" target="_blank">Tableau</a>
@@ -775,7 +775,7 @@
                         Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
                         </td>
                         <td>May 2024 - May 2024</td>
-                        <td>HTML, CSS, JS</td>
+                        <td>Google Colaboratory, Jupyter Notebook, Powerpoint</td>
                         <td>
                             <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">Presentation</a>
                         </td>
