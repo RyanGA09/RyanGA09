@@ -607,10 +607,10 @@
             <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
                 <thead>
                     <tr>
-                        <th>Project</th>
+                        <th>📁 Project</th>
                         <th>🗓️ Date</th>
-                        <th>Tech</th>
-                        <th>Link</th>
+                        <th>💻 Tech</th>
+                        <th>🔗 Link</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -620,7 +620,8 @@
                         This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.</td>
                         <td>June 2025 - June 2025</td>
                         <td>Python, Pandas, Requests, Beautifulsoup4, Seaborn, Matplotlib, Jupyter Notebook, Scikit-Learn</td>
-                        <td><a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">GitHub</a></td>
+                        <td>
+                        🔗 <a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
                         <td>Submission - Our Story App Submission (2025)<br>
@@ -630,8 +631,8 @@
                         <td>April 2025 - June 2025</td>
                         <td>HTML, CSS, Javascript, Webpack, Vite, API, Microsoft Visual Studio Code</td>
                         <td>
-                            <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">GitHub</a><br>
-                            <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">Live Demo</a>
+                        🔗 <a href="https://github.com/RyanGA09/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate" target="_blank">GitHub</a><br>
+                        🌐 <a href="https://ryanga09.github.io/Dicoding_OurStoryApp-BelajarPengembanganWebIntermediate/" target="_blank">Live Demo</a>
                         </td>
                     </tr>
                     <tr>
@@ -650,7 +651,8 @@
                         </td>
                         <td>March 2025 - April 2025</td>
                         <td>Python, Pandas, Scikit-Learn, OS, Plotly, NumPy, Matplotlib, Seaborn, Mplcursors, Scipy, Mlxtend, Datetime, Imblearn, TensorFlow/Keras, Microsoft Visual Studio Code</td>
-                        <td><a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">GitHub</a></td>
+                        <td>
+                        🔗 <a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
                         <td>Submission - Final Assessment Submission (2024)<br>
@@ -659,7 +661,8 @@
                         </td>
                         <td>September 2024 - October 2024</td>
                         <td>JavaScript, Microsoft Visual Studio Code</td>
-                        <td><a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">GitHub</a></td>
+                        <td>
+                        🔗 <a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
                         <td>Submission - Web Book Collection Submission (2024)<br>
@@ -669,8 +672,8 @@
                         <td>September 2024 - October 2024</td>
                         <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
                         <td>
-                            <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">GitHub</a><br>
-                            <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">Live Demo</a>
+                        🔗 <a href="https://github.com/RyanGA09/Web_BookCollection-BelajarDasarPemrogramanWeb" target="_blank">GitHub</a><br>
+                        🌐 <a href="https://ryanga09.github.io/Dicoding_WebBookCollection-BelajarDasarPemrogramanWeb/#" target="_blank">Live Demo</a>
                         </td>
                     </tr>
                     <tr>
@@ -681,8 +684,8 @@
                         <td>(September 2024 - September 2024)</td>
                         <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
                         <td>
-                            <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">GitHub</a><br>
-                            <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">Live Demo</a>
+                        🔗 <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">GitHub</a><br>
+                        🌐 <a href="https://ryanga09.github.io/Dicoding_BookShelfApp-BelajarMembuatFrontEndWebUntukPemula/" target="_blank">Live Demo</a>
                         </td>
                     </tr>
                     <tr>
@@ -697,8 +700,8 @@
                         <td>August 2024 - February 2025</td>
                         <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
                         <td>
-                            <a href="#" target="_blank">GitHub</a><br>
-                            <a href="#" target="_blank">Journal</a>
+                        🔗 <a href="#" target="_blank">GitHub</a><br>
+                        📄 <a href="#" target="_blank">Journal</a>
                         </td>
                     </tr>
                     <tr>
@@ -720,7 +723,7 @@
                         <td>May 2024 - March 2025</td>
                         <td>Powerpoint, Excel, Figma, Python, Jupyter Notebook, Canva, Microsoft Visual Studio Code, HTML, CSS, Javascript</td>
                         <td>
-                            <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">Google Drive</a><br>
+                        📂 <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">Google Drive</a>
                         </td>
                     </tr>
                     <tr>
@@ -731,7 +734,7 @@
                         <td>May 2024 - July 2024</td>
                         <td>HTML, CSS, Bootstrap, Laravel, Microsoft Visual Studio Code</td>
                         <td>
-                            <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
+                        ▶️ <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
                         </td>
                     </tr>
                     <tr>
@@ -742,8 +745,8 @@
                         <td>May 2024 - July 2024</td>
                         <td>Wordpress</td>
                         <td>
-                            <a href="https://ribathdt.com/" target="_blank">Website</a><br>
-                            <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
+                        🌍 <a href="https://ribathdt.com/" target="_blank">Website</a><br>
+                        ▶️ <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
                         </td>
                     </tr>
                     <tr>
@@ -754,7 +757,7 @@
                         <td>March 2024 - July 2024</td>
                         <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
                         <td>
-                            <a href="https://ejurnal.itats.ac.id/semtik/article/view/6169" target="_blank">Proceeding</a>
+                        📄 <a href="https://ejurnal.itats.ac.id/semtik/article/view/6169" target="_blank">Proceeding</a>
                         </td>
                     </tr>
                     <tr>
@@ -765,8 +768,8 @@
                         <td>May 2024 - June 2024</td>
                         <td>Google Colaboratory, Jupyter Notebook, Powerpoint</td>
                         <td>
-                            <a href="https://docs.google.com/presentation/d/1xoNftmpjdeyyektjhhVzNZ5j7kl0YIIX/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">Presentation</a><br>
-                            <a href="https://public.tableau.com/app/profile/zulaikha.anissa/viz/AirlinePerformanceDashboard_17188036489170/Dashboard1" target="_blank">Tableau</a>
+                        🖥️ <a href="https://docs.google.com/presentation/d/1xoNftmpjdeyyektjhhVzNZ5j7kl0YIIX/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">Presentation</a><br>
+                        📊 <a href="https://public.tableau.com/app/profile/zulaikha.anissa/viz/AirlinePerformanceDashboard_17188036489170/Dashboard1" target="_blank">Tableau</a>
                         </td>
                     </tr>
                     <tr>
@@ -777,7 +780,7 @@
                         <td>May 2024 - May 2024</td>
                         <td>Google Colaboratory, Jupyter Notebook, Powerpoint</td>
                         <td>
-                            <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">Presentation</a>
+                        🖥️ <a href="https://docs.google.com/presentation/d/1k7IcOmSu4Md0fI4jnNxPwWdc3P7hkgFp/edit?usp=sharing&ouid=112148492610338199493&rtpof=true&sd=true" target="_blank">Presentation</a>
                         </td>
                     </tr>
                 </tbody>
