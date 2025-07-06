@@ -607,10 +607,10 @@
             <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
                 <thead>
                     <tr>
-                        <th width="55%">📁 Project</th>
+                        <th width="60%">📁 Project</th>
                         <th width="15%">🗓️ Date</th>
                         <th width="10%">💻 Tech</th>
-                        <th width="20%">🔗 Link</th>
+                        <th width="15%">🔗 Link</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -681,7 +681,7 @@
                         <strong>Description:</strong><br>
                         This project is submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.
                         </td>
-                        <td>(September 2024 - September 2024)</td>
+                        <td>September 2024 - September 2024</td>
                         <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
                         <td>
                         🔗 <a href="https://github.com/RyanGA09/BookShelfApp-BelajarMembuatFrontEndWebUntukPemula" target="_blank">GitHub</a><br>
@@ -734,7 +734,7 @@
                         <td>May 2024 - July 2024</td>
                         <td>HTML, CSS, Bootstrap, Laravel, Microsoft Visual Studio Code</td>
                         <td>
-                        ▶️ <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
+                        ▶️ <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">Youtube</a>
                         </td>
                     </tr>
                     <tr>
@@ -746,7 +746,7 @@
                         <td>Wordpress</td>
                         <td>
                         🌍 <a href="https://ribathdt.com/" target="_blank">Website</a><br>
-                        ▶️ <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">View Youtube</a>
+                        ▶️ <a href="https://www.youtube.com/watch?v=zyu6oyx76BQ" target="_blank">Youtube</a>
                         </td>
                     </tr>
                     <tr>
