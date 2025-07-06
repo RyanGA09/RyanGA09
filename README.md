@@ -723,7 +723,7 @@
                         <td>May 2024 - March 2025</td>
                         <td>Powerpoint, Excel, Figma, Python, Jupyter Notebook, Canva, Microsoft Visual Studio Code, HTML, CSS, Javascript</td>
                         <td>
-                        📂 <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">Google Drive</a>
+                        📂 <a href="https://drive.google.com/drive/folders/1N5dUOYmSay2KxBu8v7U4hpQBgnoOkpiZ?usp=sharing" target="_blank">GDrive</a>
                         </td>
                     </tr>
                     <tr>
