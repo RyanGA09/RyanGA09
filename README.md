@@ -511,7 +511,7 @@
                                 <li>Belajar Pengembangan Web Intermediate</li>
                             </ul>
                             <p>
-                                Enrolled in the IDCamp 2024 Scholarship Program in the Front-End Web Developer learning pathway. This program is designed to provide a comprehensive understanding of web development and the fundamentals of artificial intelligence. Through these courses, I aim to enhance my technical skills and prepare myself to tackle challenges in the tech industry.
+                                Enrolled in the IDCamp 2024 Scholarship Program in the Front-End Web Developer learning pathway. This program is designed to provide a comprehensive understanding of web development and the fundamentals of artificial intelligence. The courses are aimed at enhancing technical skills and preparing participants to tackle challenges in the tech industry.
                             </p>
                         </td>
                     </tr>
@@ -567,7 +567,7 @@
                                 <li>Belajar Machine Learning untuk Pemula</li>
                             </ul>
                             <p>
-                                Enrolled in the IDCamp 2023 Scholarship Program in the Data Scientist learning pathway. This program is designed to provide a comprehensive understanding of data science and artificial intelligence. Through these courses, I aim to enhance my technical skills and prepare myself to tackle challenges in the tech industry.
+                                Enrolled in the IDCamp 2023 Scholarship Program in the Data Scientist learning pathway. This program is designed to provide a comprehensive understanding of data science and artificial intelligence. The courses are aimed at enhancing technical skills and building strong foundations to tackle challenges in the tech industry.
                             </p>
                         </td>
                     </tr>
@@ -589,7 +589,7 @@
                                 <li>Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)</li>
                             </ul>
                             <p>
-                                Enrolled in the IDCamp 2022 Scholarship Program in the Back-End Developer learning pathway. This program is designed to provide a comprehensive understanding of Back-End Through these courses, I aim to enhance my technical skills and prepare myself to tackle challenges in the tech industry.
+                                Enrolled in the IDCamp 2022 Scholarship Program in the Back-End Developer learning pathway. This program is designed to provide a comprehensive understanding of back-end development. The courses are aimed at enhancing technical skills and preparing participants to tackle challenges in the tech industry.
                             </p>
                         </td>
                     </tr>
