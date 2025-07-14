@@ -244,9 +244,10 @@
                         <strong>Trainer</strong>
                         <em>[June 2025 - Present]</em>
                         <ul>
-                            <li><strong></strong> Web Development</li>
-                            <li><strong></strong> Data Analyst</li>
-                            <li><strong></strong> UI/UX</li>
+                            <li><strong></strong>Web Development</li>
+                            <li><strong></strong>Data Analyst</li>
+                            <li><strong></strong>UI/UX</li>
+                            <li><strong></strong>Office Administration (Word, Excel, & Powerpoint)</li>
                         </ul>
                     </td>
                 </tr>
