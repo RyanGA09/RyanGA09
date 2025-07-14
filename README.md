@@ -224,7 +224,7 @@
                             <sub>Kalananti by Ruangguru</sub>
                         </div>
                     </td>
-                    <td align="center" valign="middle">Freelance</td>
+                    <td align="center" valign="middle">Contract</td>
                     <td valign="middle">
                         <strong>Coding Teacher</strong>
                         <em>[July 2025 - Present]</em>
