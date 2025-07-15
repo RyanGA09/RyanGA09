@@ -1433,7 +1433,7 @@
                             </a>
                             <!-- PgAdmin -->
                             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" alt="pgAdmin" width="40" height="40"/>
+                                <img src="https://developer.asustor.com/uploadIcons/0020_96009_1552971827_pgadmin-icon.png" alt="pgAdmin" width="40" height="40"/>
                             </a>
                         </div>
                         </br>
@@ -1488,7 +1488,7 @@
                             </a>
                             <!-- Mendeley -->
                             <a href="https://www.mendeley.com/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/mendeley-icon-1024x1014-1lbqt9d3.png" alt="Mendeley" width="40" height="40"/>
+                                <img src="https://images.icon-icons.com/1381/PNG/512/mendeleydesktop_93629.png" alt="Mendeley" width="40" height="40"/>
                             </a>
                         </div>
                         </br>
