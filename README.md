@@ -1153,7 +1153,7 @@
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Data Format -->
                             <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/csv-icon-1500x2048-1ofw6mtf.png" alt="CSV" width="40" height="40"/>
+                                <img src="https://cdn3.iconfinder.com/data/icons/file-extension-28/267/csv-1024.png" alt="CSV" width="40" height="40"/>
                             </a>
                             <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
                                 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="SQL" width="40" height="40"/>
