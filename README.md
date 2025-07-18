@@ -805,6 +805,22 @@
                             <tr>
                                 <td>
                                     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                                        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*lydndQed2WI6mt7gpNV-OA.png" title="Introduction to Programming for Beginners with Python" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+                                    </div>
+                                </td>
+                                <td>
+                                    <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                        <details style="text-align: center;">
+                                            <summary style="font-size: 14px; color: black; font-weight: bold;">Introduction to Programming for Beginners with Python</summary>
+                                            <p style="font-size: 12px; color: black;">A beginner-friendly introduction to programming using Python. Learn core concepts like variables, data types, conditional logic, and functions. Includes a simple interactive mini-project and quiz.</p>
+                                        </details>
+                                        <a href="https://medium.com/@ryangadingabdullah/introduction-to-programming-for-beginners-7a9220aaa24f" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">Read more</a>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                                         <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*Rhkk91iwSlX87yCOj2giVw.png" title="Scraping Book Data from “Books to Scrape” with Python: Basic Version (V1)" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
                                     </div>
                                 </td>
