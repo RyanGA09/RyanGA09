@@ -349,7 +349,7 @@
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                                 <a href="https://codveda.com/" target="_blank">
-                                    <img src="https://codveda.com/images/logo/codveda-light.png" width="100" height="60" alt="Codveda Logo" />
+                                    <img src="https://codveda.com/wp-content/uploads/2025/07/cropped-1.png" width="100" height="60" alt="Codveda Logo" />
                                 </a><br/>
                                 <sub>Codveda Technologies</sub>
                             </div>
