@@ -45,6 +45,18 @@
 <!--     <a href="https://www.fiverr.com/ryanga09" target="_blank">
         <img src="https://img.shields.io/badge/Fiverr-Hire-green?logo=fiverr&style=for-the-badge" alt="Hire on Fiverr" />
     </a> -->
+    <!-- FlexJobs Badge -->
+<!--     <a href="https://www.flexjobs.com/publicProfile/your_profile_id" target="_blank">
+        <img src="https://img.shields.io/badge/FlexJobs-Hire-00558C?style=for-the-badge" alt="Hire on FlexJobs" />
+    </a> -->
+    <!-- Freelancer.com Badge -->
+    <a href="https://www.freelancer.com/u/RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/Freelancer-Hire-29B2FE?logo=freelancer&style=for-the-badge" alt="Hire on Freelancer" />
+    </a>
+    <!-- Toptal Badge -->
+<!--     <a href="https://www.toptal.com/resume/your_name" target="_blank">
+        <img src="https://img.shields.io/badge/Toptal-Hire-3863A0?logo=toptal&style=for-the-badge" alt="Hire on Toptal" />
+    </a> -->
     <!-- Instagram Badge -->
     <a href="https://www.instagram.com/ryan_g._a" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
