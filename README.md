@@ -1162,7 +1162,7 @@
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
                             </a>
                             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-                                <img src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Bash" width="40" height="40"/>
+                                <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/96964ea0-513e-4974-9a79-687f888032a1"/>
                             </a>
                         </div>
                         </br>
