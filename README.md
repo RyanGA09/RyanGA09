@@ -1043,7 +1043,7 @@
                     <p>`Microsoft Visual Studio Code` `IntelliJ IDEA` `Jupyter Notebook` `Dev C++` `Google Colaboratory`</p>
                     <p>`Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Mendeley`</p>
                     <p>`PhpMyAdmin` `Laragon` `XAMPP`</p>
-                    <p>`Capcut` `Canva` `Open Broadcaster Software (OBS)` `Handbrake`</p>
+                    <p>`Capcut` `Canva` `Figma` `Open Broadcaster Software (OBS)` `Handbrake`</p>
                     <p>`Tableau` `Looker Studio`</p>
                     <p>`Google Drive`</p>
                 </td>
