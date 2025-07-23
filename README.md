@@ -1030,7 +1030,7 @@
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
                     <p>`Frontend Development` `Programming` `Structured Programming` `Data Structures` `Black Box Testing` `Software Testing`</p>
-                    <p>`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Web Scraping` `Sentiment Analysis`</p>
+                    <p>`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Random Forest` `Convolutional Neural Network (CNN)` `Artificial Neural Network (ANN)` `Recurrent Neural Network (RNN)` `Sentiment Analysis`</p>
                     <p>`Writing` `Academic Writing` `Technical Writing`</p>
                     <p>`Treasurer`</p>
                 </td>
