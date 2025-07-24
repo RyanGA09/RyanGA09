@@ -8,7 +8,9 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&weight=500&size=30&pause=1000&color=3399FFFF&center=true&vCenter=true&multiline=true&width=500&height=75&lines=I'm+Ryan+Gading+Abdullah" alt="Typing SVG"/>
     </a>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Font+Sans+Serif&weight=900&size=40&duration=2000&pause=1000&color=00EDFF&center=true&vCenter=true&width=1000&height=75&lines=Data+Analyst+%26+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Writing;Frontend+Developer;Web+Developer;UI+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Font+Sans+Serif&weight=900&size=40&duration=2000&pause=1000&color=00EDFF&center=true&vCenter=true&width=1000&height=75&lines=Data+Analyst+%26+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Writing;Frontend+Developer;Web+Developer;UI%2FUX+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG" />
+    </a>
 </div>
 </br>
 <div align="center">
