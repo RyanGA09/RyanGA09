@@ -107,9 +107,13 @@
         <img src="https://img.shields.io/badge/Dribbble-Follow-pink?logo=dribbble&style=for-the-badge" alt="Follow on Dribbble" />
     </a> -->
     <!-- Pinterest Badge -->
-<!--         <a href="https://www.pinterest.com/yourprofile" target="blank">
+<!--     <a href="https://www.pinterest.com/yourprofile" target="blank">
         <img src="https://img.shields.io/badge/Pinterest-Follow-red?logo=pinterest&style=for-the-badge" alt="Follow on Pinterest" />
     </a> -->
+    <!-- Figma Badge -->
+    <a href="https://www.figma.com/@RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/Figma-Follow-black?logo=figma&style=for-the-badge" alt="Follow on Figma" />
+    </a>
     <!-- Stack Overflow Badge -->
 <!--         <a href="https://stackoverflow.com/users/yourprofile" target="blank">
         <img src="https://img.shields.io/badge/Stack_Overflow-Follow-orange?logo=stackoverflow&style=for-the-badge" alt="Follow on Stack Overflow" />
@@ -119,7 +123,7 @@
         <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
     </a> -->
     <!-- WordPress Blog Badge -->
-        <a href="https://free91445.wordpress.com/" target="blank">
+    <a href="https://free91445.wordpress.com/" target="blank">
         <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
     </a>
     <!-- GitHub Sponsors Badge -->
@@ -131,7 +135,7 @@
         <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
     </a> -->
     <!-- Steam Badge -->
-        <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
+    <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
     </a>
     <!-- Epic Games Badge -->
