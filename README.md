@@ -1038,7 +1038,6 @@
                     <p>`Frontend Development` `Programming` `Structured Programming` `Data Structures` `Black Box Testing` `Software Testing`</p>
                     <p>`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Random Forest` `Convolutional Neural Network (CNN)` `Artificial Neural Network (ANN)` `Recurrent Neural Network (RNN)` `Sentiment Analysis`</p>
                     <p>`Writing` `Academic Writing` `Technical Writing`</p>
-                    <p>`Treasurer`</p>
                 </td>
             </tr>
             <tr style="border-bottom: 2px solid #ccc;">
