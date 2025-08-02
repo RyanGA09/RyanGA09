@@ -1147,7 +1147,7 @@
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
                             </a>
                             <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+                                <img src="https://images.icon-icons.com/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/>
                             </a>
                             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
