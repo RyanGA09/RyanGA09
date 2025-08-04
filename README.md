@@ -478,7 +478,7 @@
                                 <li>Undergraduate Thesis/ Bachelor Thesis (Skripsi)</li>
                             </ul>
                             <p>
-                                Enrolled in Bachelor of Computer Science by Institut Teknologi Adhi Tama Surabaya, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
+                                Graduated from Bachelor of Computer Science by Institut Teknologi Adhi Tama Surabaya, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
                             </p>
                         </td>
                     </tr>
@@ -494,6 +494,28 @@
                         <td valign="middle">
                             <strong>High School Graduate in Natural Sciences</strong><br/>
                             <em>[July 2017 - July 2020]</em>
+                            <ul style="margin-top: 5px; padding-left: 20px;">
+                                <li>Teaching and Learning Activities</li>
+                                <li>Paskibra</li>
+                                <li>Sie Kerohanian Islam (SKI)</li>
+                                <li>Practice:
+                                    <ul>
+                                        <li>Maulid Nabi</li>
+                                        <li>Pondok Ramadhan</li>
+                                        <li>Diklat</li>
+                                        <li>Banjari</li>
+                                        <li>Music Band</li>
+                                        <li>Istighasah</li>
+                                    </ul>
+                                </li>
+                                <li>Karate</li>
+                                <li>Practical Exam</li>
+                                <li>Scout (Pramuka)</li>
+                                <li>English Learning Club (ELC)</li>
+                            </ul>
+                            <p>
+                                Graduated from SMAN 15 Surabaya, majoring in Mathematics and Natural Sciences (MIPA/MIA). Actively engaged in both academic and extracurricular activities, including teaching and learning programs, practical exams, and various student organizations. Participated in Paskibra, Scout (Pramuka), and the English Learning Club (ELC). Contributed to the Islamic Spiritual Section (Sie Kerohanian Islam/SKI), organizing and taking part in events such as Maulid Nabi, Pondok Ramadhan, religious trainings (Diklat), Banjari music, Islamic music band, and Istighasah. Also involved in Karate and school-wide events, demonstrating discipline, teamwork, and leadership.
+                            </p>
                         </td>
                     </tr>
                 </tbody>
