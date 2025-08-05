@@ -335,20 +335,6 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- <tr>
-                        <td align="center" valign="middle">
-                            <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-                                <a href="https://www.capraecapital.com/" target="_blank">
-                                    <img src="https://static.wixstatic.com/media/52c648_733d5bfa02f442768d97cea6dff4809a~mv2.png/v1/fill/w_101,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot_2024-07-06_at_3_50_edited.png" width="60" height="60" alt="Caprae Logo" />
-                                </a><br/>
-                                <sub>Caprae Capital Partners</sub>
-                            </div>
-                        </td>
-                        <td valign="middle">
-                            <strong>Machine Learning Engineer Intern</strong>
-                            <em>[April 2025 - Present]</em>
-                        </td>
-                    </tr> -->
                     <tr>
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
