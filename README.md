@@ -426,6 +426,48 @@
                     </tr>
                 </thead>
                 <tbody>
+                    <!-- <tr>
+                        <td align="center" valign="middle">
+                            <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                                <a href="https://itats.ac.id/" target="_blank">
+                                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-itats-0.png" width="40" height="60" alt="ITATS Logo" />
+                                </a><br/>
+                                <sub>Institut Teknologi Adhi Tama Surabaya</sub>
+                            </div>
+                        </td>
+                        <td valign="middle">
+                            <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
+                            <em>[September 2021 - February 2025]</em>
+                            <ul style="margin-top: 5px; padding-left: 20px;">
+                                <li>Teaching and Learning Activities</li>
+                                <li>Practice:
+                                <ul>
+                                    <li>Structured Programming</li>
+                                    <li>Data Structure</li>
+                                    <li>Object Oriented Programming</li>
+                                    <li>Operating System</li>
+                                    <li>Database</li>
+                                    <li>Computer Network</li>
+                                </ul>
+                                </li>
+                                <li>Laboratory Assistant:
+                                <ul>
+                                    <li>Programming Languages</li>
+                                    <li>Software Engineering (Programming Languages)</li>
+                                </ul>
+                                </li>
+                                <li>Seminars/ Webinars</li>
+                                <li>Practical Work/ Internship (KP)</li>
+                                <li>Community Service Program / Field Work (KKN)</li>
+                                <li>MBKM/ Kampus Merdeka</li>
+                                <li>TEFL Course & Test</li>
+                                <li>Undergraduate Thesis/ Bachelor Thesis (Skripsi)</li>
+                            </ul>
+                            <p>
+                                Graduated from Bachelor of Computer Science by Institut Teknologi Adhi Tama Surabaya, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
+                            </p>
+                        </td>
+                    </tr> -->
                     <tr>
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
