@@ -440,31 +440,13 @@
                             <em>[September 2021 - February 2025]</em>
                             <ul style="margin-top: 5px; padding-left: 20px;">
                                 <li>Teaching and Learning Activities</li>
-                                <li>Practice:
-                                <ul>
-                                    <li>Structured Programming</li>
-                                    <li>Data Structure</li>
-                                    <li>Object Oriented Programming</li>
-                                    <li>Operating System</li>
-                                    <li>Database</li>
-                                    <li>Computer Network</li>
-                                </ul>
-                                </li>
-                                <li>Laboratory Assistant:
-                                <ul>
-                                    <li>Programming Languages</li>
-                                    <li>Software Engineering (Programming Languages)</li>
-                                </ul>
-                                </li>
                                 <li>Seminars/ Webinars</li>
-                                <li>Practical Work/ Internship (KP)</li>
-                                <li>Community Service Program / Field Work (KKN)</li>
                                 <li>MBKM/ Kampus Merdeka</li>
                                 <li>TEFL Course & Test</li>
-                                <li>Undergraduate Thesis/ Bachelor Thesis (Skripsi)</li>
+                                <li>Graduate thesis / Master's thesis (Tesis)</li>
                             </ul>
                             <p>
-                                Graduated from Bachelor of Computer Science by Institut Teknologi Adhi Tama Surabaya, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
+                                Enrolled to Master of Computer Science at Institut Teknologi Sepuluh Nopember, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
                             </p>
                         </td>
                     </tr> -->
@@ -533,7 +515,7 @@
                                         <li>Diklat</li>
                                         <li>Banjari</li>
                                         <li>Music Band</li>
-                                        <li>Istighasah</li>
+                                        <li>Istighotsah</li>
                                     </ul>
                                 </li>
                                 <li>Karate</li>
@@ -1353,6 +1335,10 @@
                             <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
                                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
                             </a>
+                            <!-- Bitbucket -->
+                            <!-- <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+                                <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"/> height="40" alt="gitlab logo"  />
+                            </a> -->
                         </div>
                     </td>
                 </tr>
