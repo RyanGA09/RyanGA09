@@ -63,6 +63,10 @@
     <a href="https://www.instagram.com/ryan_g._a" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
     </a>
+    <!-- Scratch Badge -->
+    <a href="https://scratch.mit.edu/users/ryangaedu/" target="_blank">
+        <img src="https://img.shields.io/badge/Scratch-Follow-orange?logo=scratch&style=for-the-badge" alt="Follow on Scratch" />
+    </a>
     <!-- GitHub Badge -->
     <a href="https://github.com/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
@@ -75,17 +79,25 @@
 <!--     <a href="https://bitbucket.org/RyanGA09" target="_blank">
         <img src="https://img.shields.io/badge/Bitbucket-Follow-blue?logo=bitbucket&style=for-the-badge" alt="Follow on Bitbucket" />
     </a> -->
+    <!-- WordPress Blog Badge -->
+    <a href="https://free91445.wordpress.com/" target="blank">
+        <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
+    </a>
+    <!-- Quora Badge -->
+        <a href="https://id.quora.com/profile/Ryan-Gading-Abdullah" target="blank">
+        <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
+    </a>
     <!-- Medium Badge -->
     <a href="https://medium.com/@ryangadingabdullah" target="_blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
     </a>
+    <!-- Figma Badge -->
+    <a href="https://www.figma.com/@RyanGA09" target="_blank">
+        <img src="https://img.shields.io/badge/Figma-Follow-black?logo=figma&style=for-the-badge" alt="Follow on Figma" />
+    </a>
     <!-- Tableau Badge -->
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
-    </a>
-    <!-- Scratch Badge -->
-    <a href="https://scratch.mit.edu/users/ryangaedu/" target="_blank">
-        <img src="https://img.shields.io/badge/Scratch-Follow-orange?logo=scratch&style=for-the-badge" alt="Follow on Scratch" />
     </a>
     <!-- YouTube Badge - Ryan G. Abdullah -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="blank">
@@ -114,10 +126,6 @@
 <!--     <a href="https://www.pinterest.com/yourprofile" target="blank">
         <img src="https://img.shields.io/badge/Pinterest-Follow-red?logo=pinterest&style=for-the-badge" alt="Follow on Pinterest" />
     </a> -->
-    <!-- Figma Badge -->
-    <a href="https://www.figma.com/@RyanGA09" target="_blank">
-        <img src="https://img.shields.io/badge/Figma-Follow-black?logo=figma&style=for-the-badge" alt="Follow on Figma" />
-    </a>
     <!-- Stack Overflow Badge -->
 <!--         <a href="https://stackoverflow.com/users/yourprofile" target="blank">
         <img src="https://img.shields.io/badge/Stack_Overflow-Follow-orange?logo=stackoverflow&style=for-the-badge" alt="Follow on Stack Overflow" />
@@ -126,18 +134,10 @@
 <!--         <a href="https://yourbloggerblog.blogspot.com" target="blank">
         <img src="https://img.shields.io/badge/Blogger-Visit-orange?style=for-the-badge&logo=blogger" alt="Visit My Blogger Blog" />
     </a> -->
-    <!-- WordPress Blog Badge -->
-    <a href="https://free91445.wordpress.com/" target="blank">
-        <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
-    </a>
     <!-- GitHub Sponsors Badge -->
 <!--         <a href="https://github.com/sponsors/yourusername" target="blank">
         <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
     </a> -->
-    <!-- Quora Badge -->
-        <a href="https://id.quora.com/profile/Ryan-Gading-Abdullah" target="blank">
-        <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
-    </a>
     <!-- Steam Badge -->
     <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
