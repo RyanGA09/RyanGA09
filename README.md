@@ -83,6 +83,10 @@
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
+    <!-- Scratch Badge -->
+    <a href="https://scratch.mit.edu/users/ryangaedu/" target="_blank">
+        <img src="https://img.shields.io/badge/Scratch-Follow-orange?logo=scratch&style=for-the-badge" alt="Follow on Scratch" />
+    </a>
     <!-- YouTube Badge - Ryan G. Abdullah -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="blank">
         <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
