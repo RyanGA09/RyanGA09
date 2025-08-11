@@ -135,9 +135,9 @@
         <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
     </a> -->
     <!-- Quora Badge -->
-<!--         <a href="https://www.quora.com/profile/yourusername" target="blank">
+        <a href="https://id.quora.com/profile/Ryan-Gading-Abdullah" target="blank">
         <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
-    </a> -->
+    </a>
     <!-- Steam Badge -->
     <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
