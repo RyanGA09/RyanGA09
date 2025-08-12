@@ -100,16 +100,16 @@
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
     <!-- YouTube Badge - Ryan G. Abdullah -->
-    <a href="https://www.youtube.com/@RyanGAbdullah" target="blank">
+<!--     <a href="https://www.youtube.com/@RyanGAbdullah" target="blank">
         <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
-    </a>
-    <!-- <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
+    </a> -->
+    <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20(Ryan%20G.%20Abdullah)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah" />
-    </a> -->
+    </a>
     <!-- YouTube Badge - Lightning 19045 -->
-    <!-- <a href="https://www.youtube.com/@Lightning19045" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube%20(Lightning%2019045)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning 19045" />
-    </a> -->
+    <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube%20(Lightning%2019045)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA" />
+    </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
         <img src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge" alt="Join on Discord" />
