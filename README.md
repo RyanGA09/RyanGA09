@@ -105,7 +105,7 @@
     </a>
     <!-- YouTube Badge - Lightning 19045 -->
     <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube%20(Lightning%2019045)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA" />
+        <img src="https://img.shields.io/badge/YouTube%20(Lightning%20RGA)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA" />
     </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">

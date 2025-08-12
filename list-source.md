@@ -8,3 +8,6 @@
 - [Draw.io](https://drawio-app.com/)
 - [Mac.Informer](https://macdownload.informer.com/)
 - [AnimatedImages.org](https://www.animatedimages.org/)
+- [KIBRISPDR](https://www.kibrispdr.org/)
+- [PNGWING](https://www.pngwing.com/)
+- [Simple Icons](https://simpleicons.org/)
