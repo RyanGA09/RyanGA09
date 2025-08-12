@@ -100,9 +100,6 @@
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
     <!-- YouTube Badge - Ryan G. Abdullah -->
-<!--     <a href="https://www.youtube.com/@RyanGAbdullah" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
-    </a> -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20(Ryan%20G.%20Abdullah)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah" />
     </a>
