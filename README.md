@@ -18,7 +18,6 @@
 </div>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> About Me:</h2>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
 <div align="justify">
     <p>
         I am a fresh graduate of Informatics Engineering from Institut Teknologi Adhi Tama Surabaya, specializing in data analysis and web development. With a strong technical foundation and hands-on experience, I have worked on various web development projects, leveraging frameworks such as Laravel, Tailwind, and Bootstrap to build intuitive and user-friendly applications.
@@ -32,7 +31,6 @@
 </div>
 
 <h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
 <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="30" height="25"/> My Social</h3>
 <div align="center">
     <!-- LinkedIn Badge -->
@@ -103,7 +101,7 @@
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20(Ryan%20G.%20Abdullah)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah" />
     </a>
-    <!-- YouTube Badge - Lightning 19045 -->
+    <!-- YouTube Badge - Lightning RGA -->
     <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20(Lightning%20RGA)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA" />
     </a>
@@ -145,6 +143,8 @@
     </a>
 </div>
 </br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
+</br>
 <h3><img src="https://www.animatedimages.org/data/media/100/animated-money-image-0010.gif" border="0" alt="animated-money-image-0010" width="22" height="22"/> Support Me:</h3>
 <div align="center">
     <!-- Patreon Badge -->
@@ -184,7 +184,6 @@
 <details>
     <summary>
         <h2><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0461.gif" border="0" alt="animated-computer-image-0040" width="25" height="30"/> GitHub Profiles</h2>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" border="0" alt="animated-line-image-0392" width="22" height="22"/> Streak Stats:</h3>
     <div align="center">
@@ -1140,7 +1139,7 @@
                     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="40" height="40"> Visual Design
                 </td>
                 <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    <p>`UI/UX Design` `User Interface Design` `User Experience (UX)` `Flowcharting`</p>
+                    <p>`UI/UX Design` `User Interface (UI) Design` `User Experience (UX)` `Flowcharting`</p>
                     <p>`Graphic Design` `Logo Design` `Video Editing`</p>
                 </td>
             </tr>
@@ -1622,5 +1621,4 @@
             </tbody>
         </table>
     </div>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
 </details>
