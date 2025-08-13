@@ -323,7 +323,7 @@
                 </tr>
             </tbody>
             </table>
-            <br/>
+            </br>
             <!-- Internship Experiences -->
             <strong>Internships:</strong>
             <table>
@@ -411,7 +411,9 @@
                     </tr>
                 </tbody>
             </table>
-            <br/>
+            </br>
+            <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
+            </br>
             <h4>
                 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="education-icon" width="22" height="22"/> Educations
             </h4>
