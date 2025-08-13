@@ -1051,104 +1051,65 @@
             </tr>
         </thead>
         <tbody>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" width="40" height="40"/> Soft Skills
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    <p>`Leadership` `Teamwork` `Group Work` `Collaboration` `Team Coordination`</p>
-                    <p>`Communication` `Presentation` `Teaching`</p>
-                    <p>`Problem Solving` `Critical Thinking` `Listening` `Analytical Thinking`</p>
-                </td>
+            <tr>
+                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" width="40" height="40"/> Soft Skills</td>
+                <td>Leadership, Teamwork, Group Work, Collaboration, Team Coordination, Communication, Presentation, Teaching, Problem Solving, Critical Thinking, Listening, Analytical Thinking</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" width="40" height="40"/> Hard Skills
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    <p>`Frontend Development` `Programming` `Structured Programming` `Data Structures` `Black Box Testing` `Software Testing`</p>
-                    <p>`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Random Forest` `Convolutional Neural Network (CNN)` `Artificial Neural Network (ANN)` `Recurrent Neural Network (RNN)` `Sentiment Analysis`</p>
-                    <p>`Writing` `Academic Writing` `Technical Writing`</p>
-                </td>
+            <tr>
+                <td><img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="40" height="40"/> Programming & Dev</td>
+                <td>Structured Programming, Data Structures, Frontend Development, Black Box Testing, Software Testing</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" border="0" alt="animated-computer-image-0117" width="40" height="40"/> Software & Tools
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    <p>`Microsoft Visual Studio Code` `IntelliJ IDEA` `Jupyter Notebook` `Dev C++` `Google Colaboratory`</p>
-                    <p>`Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Mendeley`</p>
-                    <p>`PhpMyAdmin` `Laragon` `XAMPP`</p>
-                    <p>`Capcut` `Canva` `Figma` `Open Broadcaster Software (OBS)` `Handbrake`</p>
-                    <p>`Tableau` `Looker Studio`</p>
-                    <p>`Google Drive`</p>
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" width="40" height="40"/> Programming Languages</td>
+                <td>Python, C++, C, PHP, MATLAB, SQL, HTML, CSS, JavaScript</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="40" height="40"/> Programming
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Python` `C++` `C` `PHP` `MATLAB` `SQL` `HTML` `CSS`, Javascript
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0494.gif" width="40" height="40"/> Web Development</td>
+                <td>Bootstrap, Tailwind CSS, Laravel, Flask, Streamlit, WordPress</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0494.gif" border="0" alt="animated-computer-image-0494" width="40" height="40"/> Web Development
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Bootstrap` `Tailwind CSS` `Laravel` `Flask` `Streamlit` `WordPress`
-                </td>
+            <tr>
+                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" width="40" height="40"/> Data Science</td>
+                <td>Data Analysis, Data Science, Sentiment Analysis, Business Understanding, Data Understanding, Data Wrangling, Data Cleaning, EDA, Data Visualization, Data Storytelling</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                   <img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" border="0" alt="animated-tool-image-0068" width="40" height="40"/> Machine Learning
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `TensorFlow` `Keras` `Scikit-Learn`
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" width="40" height="40"/> ML & AI</td>
+                <td>Machine Learning, Deep Learning, Random Forest, CNN, ANN, RNN</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0273.gif" border="0" alt="animated-computer-image-0273" width="40" height="40"/> Databases
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `MySQL` `PostgreSQL`
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" width="40" height="40"/> ML Libraries</td>
+                <td>TensorFlow, Keras, Scikit-Learn</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" border="0" alt="animated-line-image-0392" width="40" height="40"/> Data Science & Analytics
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    <p>`Business Understanding` `Data Understanding` `Data Wrangling` `Data Cleaning` `Exploratory Data Analysis (EDA)` `Data Visualization` `Data Storytelling`</p>
-                    <p>`Pandas` `NumPy` `Matplotlib` `Seaborn`</p>
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" width="40" height="40"/> Data Tools</td>
+                <td>Pandas, NumPy, Matplotlib, Seaborn, Tableau, Looker Studio, Google Colaboratory, Jupyter Notebook</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0040.gif" border="0" alt="animated-computer-image-0040" width="40" height="40"/> Version Control
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Git` `GitHub` `GitLab`
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0040.gif" width="40" height="40"/> Version Control</td>
+                <td>Git, GitHub, GitLab</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="40" height="40"> Visual Design
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    <p>`UI/UX Design` `User Interface (UI) Design` `User Experience (UX)` `Flowcharting`</p>
-                    <p>`Graphic Design` `Logo Design` `Video Editing`</p>
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" width="40" height="40"/> Software & IDEs</td>
+                <td>Visual Studio Code, IntelliJ IDEA, Dev C++, PhpMyAdmin, Laragon, XAMPP</td>
             </tr>
-            <tr style="border-bottom: 2px solid #ccc;">
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 20%;">
-                    <img src="https://www.animatedimages.org/data/media/365/animated-finance-image-0001.gif" border="0" alt="animated-finance-image-0001" width="40" height="40"/> Finance & Treasury
-                </td>
-                <td style="padding: 20px 10px; vertical-align: top; border: 2px solid #000; width: 80%;">
-                    `Financial Management` `Cash Management` `Treasury` `Finance` `Accounting`
-                </td>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" width="40" height="40"/> Office Tools</td>
+                <td>Microsoft Word, Excel, PowerPoint, Google Drive, Mendeley</td>
+            </tr>
+            <tr>
+                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" width="40" height="40"/> Design & Visual</td>
+                <td>UI/UX Design, UI Design, UX Design, Flowcharting, Graphic Design, Logo Design</td>
+            </tr>
+            <tr>
+                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" width="40" height="40"/> Media Tools</td>
+                <td>Video Editing, CapCut, Canva, Figma, OBS Studio, HandBrake</td>
+            </tr>
+            <tr>
+                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d/512.webp" width="40" height="40"/> Writing Skills</td>
+                <td>Writing, Academic Writing, Technical Writing</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.animatedimages.org/data/media/365/animated-finance-image-0001.gif" width="40" height="40"/> Finance & Treasury</td>
+                <td>Financial Management, Cash Management, Treasury, Finance, Accounting</td>
             </tr>
         </tbody>
     </table>
