@@ -211,7 +211,6 @@
 <details>
     <summary>
         <h2><img src="https://www.animatedimages.org/data/media/1137/animated-diploma-and-graduation-image-0004.gif" border="0" alt="animated-diploma-and-graduation-image-0004" width="22" height="22"/> Qualification & Portfolio</h2>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <details>
         <summary>
@@ -648,7 +647,6 @@
             </table>
         </div>
     </details>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
     <details>
         <summary>
             <h3>Portfolio</h3>
@@ -1040,7 +1038,6 @@
 <details>
     <summary>
         <h2><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0192.gif" border="0" alt="animated-tool-image-0192" width="22" height="22"/> Skill and Tools</h2>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0392.gif" border="0" alt="animated-line-image-0392" width="1920" height="10"/>
     </summary>
     <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="22" height="22"> Skills:</h3>
     <div align="left">
