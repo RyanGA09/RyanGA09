@@ -12,3 +12,4 @@
 - [PNGWING](https://www.pngwing.com/)
 - [Simple Icons](https://simpleicons.org/)
 - [Medium](https://medium.com/)
+- [EmojiAll](https://www.emojiall.com/)

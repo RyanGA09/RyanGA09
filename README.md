@@ -838,7 +838,7 @@
             </table>
         </div>
         <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
-        <h4><a href="https://www.animatedimages.org/cat-writers-1669.htm"><img src="https://www.animatedimages.org/data/media/1669/animated-writer-image-0027.gif" border="0" alt="animated-writer-image-0027" width="22" height="22"/></a> Publications</h4>
+        <h4><img src="https://www.animatedimages.org/data/media/1669/animated-writer-image-0027.gif" border="0" alt="animated-writer-image-0027" width="22" height="22"/> Publications</h4>
         <div>
             <ul>
                 <li>
@@ -1068,12 +1068,12 @@
                 <td>Bootstrap, Tailwind CSS, Laravel, Flask, Streamlit, WordPress</td>
             </tr>
             <tr>
-                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" width="40" height="40"/> Data Science</td>
-                <td>Data Analysis, Data Science, Sentiment Analysis, Business Understanding, Data Understanding, Data Wrangling, Data Cleaning, EDA, Data Visualization, Data Storytelling</td>
+                <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" width="40" height="40"/> Data Analyst & Science</td>
+                <td>Data Analysis, Data Science, Sentiment Analysis, Business Understanding, Data Understanding, Data Wrangling, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Data Storytelling</td>
             </tr>
             <tr>
                 <td><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" width="40" height="40"/> ML & AI</td>
-                <td>Machine Learning, Deep Learning, Random Forest, CNN, ANN, RNN</td>
+                <td>Machine Learning, Deep Learning, Random Forest, Convolutional Neural Network (CNN), Artificial Neural Network (ANN), Recurrent Neural Network (RNN)</td>
             </tr>
             <tr>
                 <td><img src="https://www.animatedimages.org/data/media/146/animated-tool-image-0068.gif" width="40" height="40"/> ML Libraries</td>
