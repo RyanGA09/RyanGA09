@@ -1150,7 +1150,7 @@
                             <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
                             </a>
-                            <a href="https://www.script.com/" target="_blank" rel="noreferrer">
+                            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
                             </a>
                         </div>
@@ -1215,7 +1215,7 @@
                                 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
                             </a>
                             <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/>
+                                <img src="https://logospng.org/wp-content/uploads/vite-js-logo.png" alt="Vite" width="40" height="40"/>
                             </a>
                             <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="40" height="40"/>

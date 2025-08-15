@@ -13,3 +13,7 @@
 - [Simple Icons](https://simpleicons.org/)
 - [Medium](https://medium.com/)
 - [EmojiAll](https://www.emojiall.com/)
+- [Free Icons PNG](https://www.freeiconspng.com/)
+- [LOGOS PNG](https://logospng.org/)
+- [Icons8](https://icons8.com/)
+- [WorldVectorLogo](https://worldvectorlogo.com/)
