@@ -19,6 +19,11 @@
 - [LOGOS PNG](https://logospng.org/)
 - [Icons8](https://icons8.com/)
 - [WorldVectorLogo](https://worldvectorlogo.com/)
+- [Icon Ape](https://iconape.com/)
+- [Pavel Timofeev](https://ptimofeev.com/)
+- [nTopLearn](https://learn.ntop.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
+- [jsDelivr](https://www.jsdelivr.com/)
 
 ## Generator
 
