@@ -9,7 +9,7 @@
     </a>
     <br/>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Font+Sans+Serif&weight=900&size=40&duration=2000&pause=1000&color=00EDFF&center=true&vCenter=true&width=1000&height=75&lines=Data+Analyst+%26+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Writing;Frontend+Developer;Web+Developer;UI%2FUX+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Font+Sans+Serif&weight=900&size=40&duration=2000&pause=1000&color=00EDFF&center=true&vCenter=true&width=1000&height=75&lines=Data+Analyst+%26+Scientist+Enthusiast;Teaching+Enthusiast;Treasurer;Writing;Frontend+Developer;Web+Developer;UI%2FUX+Design+(Figma);Graphic+Design+(Canva)" alt="Typing SVG" />
     </a>
 </div>
 </br>
@@ -1061,7 +1061,7 @@
             </tr>
             <tr>
                 <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0117.gif" width="40" height="40"/> Programming Languages</td>
-                <td>Python, C++, C, PHP, MATLAB, SQL, HTML, CSS, JavaScript</td>
+                <td>Python, C++, C, PHP, MATLAB, SQL, HTML, CSS, JavaScript, Scratch</td>
             </tr>
             <tr>
                 <td><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0494.gif" width="40" height="40"/> Web Development</td>
