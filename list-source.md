@@ -32,3 +32,4 @@
 - [Profile Readme Generator](https://profile-readme-generator.com/)
 - [Github Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)
+- [Readme Typing SVG (DencerCoder)](https://github.com/DenverCoder1/readme-typing-svg)
