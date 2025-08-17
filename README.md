@@ -345,7 +345,7 @@
                         </td>
                         <td valign="middle">
                             <strong>Associate Data Scientist Professional</strong>
-                            <em>[May 2025 - Present]</em>
+                            <em>[May 2025 - August 2025]</em>
                         </td>
                     </tr>
                     <tr>
@@ -427,7 +427,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- <tr>
+                    <tr>
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                                 <a href="https://www.its.ac.id/" target="_blank">
@@ -437,8 +437,8 @@
                             </div>
                         </td>
                         <td valign="middle">
-                            <strong>Bachelor of Computer Engineering, Informatics Engineering</strong><br/>
-                            <em>[September 2021 - February 2025]</em>
+                            <strong>Master of Computer Engineering (Magister), Informatics Engineering</strong><br/>
+                            <em>[August 2025 - 2027 (Expected)]</em>
                             <ul style="margin-top: 5px; padding-left: 20px;">
                                 <li>Teaching and Learning Activities</li>
                                 <li>Seminars/ Webinars</li>
@@ -450,7 +450,7 @@
                                 Enrolled to Master of Computer Science at Institut Teknologi Sepuluh Nopember, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
                             </p>
                         </td>
-                    </tr> -->
+                    </tr>
                     <tr>
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
