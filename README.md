@@ -431,7 +431,7 @@
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                                 <a href="https://www.its.ac.id/" target="_blank">
-                                    <img src="https://w7.pngwing.com/pngs/309/393/png-transparent-sepuluh-nopember-institute-of-technology-bandung-institute-of-technology-engineering-technology.png" width="40" height="60" alt="ITS Logo" />
+                                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-its-hd-5.jpg" width="40" height="60" alt="ITS Logo" />
                                 </a><br/>
                                 <sub>Institut Teknologi Sepuluh Nopember</sub>
                             </div>
