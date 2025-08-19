@@ -666,18 +666,27 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>DigiTalent Fundamental Data Science - Self-Practice Project<br>
-                        <strong>Description:</strong><br>
-                        This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.</td>
+                        <td>
+                            <details>
+                                <summary><strong>DigiTalent Fundamental Data Science - Self-Practice Project</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                This project comprises a collection of structured self-practice exercises aimed at reinforcing foundational concepts in data science as outlined in the DigiTalent training program. It systematically addresses key areas including data acquisition, exploratory data analysis, data cleansing, and data annotation. The exercises utilize real-world datasets and industry-standard tools to provide comprehensive hands-on experience, supporting the development of practical skills essential for data science proficiency.
+                                </p>
+                            </details>
+                        </td>
                         <td>June 2025 - June 2025</td>
                         <td>Python, Pandas, Requests, Beautifulsoup4, Seaborn, Matplotlib, Jupyter Notebook, Scikit-Learn</td>
                         <td>
                         🔗 <a href="https://github.com/RyanGA09/DigiTalent-FundamentalDataScience-SelfPractice" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
-                        <td>Submission - Our Story App Submission (2025)<br>
-                        <strong>Description:</strong><br>
-                        OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.
+                        <td>
+                            <details>
+                                <summary><strong>Submission - Our Story App Submission (2025)</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                OurStoryApp is a Single Page Application (SPA) web app developed to fulfill the submission requirements for the Learn Intermediate Web Development course from Dicoding. This application allows users to share stories through photos, descriptions, and locations. It integrates with the Dicoding Story API, uses Leaflet.js for maps, Web Notification API, and is optimized to meet WCAG accessibility standards.
+                                </p>
+                            </details>
                         </td>
                         <td>April 2025 - June 2025</td>
                         <td>HTML, CSS, Javascript, Webpack, Vite, API, Microsoft Visual Studio Code</td>
@@ -687,18 +696,21 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Machine Learning Task Implementation - Codveda Internship<br>
-                        <strong>Description:</strong><br>
-                        As part of the internship program at Codveda Technologies, I worked on various Machine Learning tasks divided into three levels: Basic, Intermediate, and Advanced. Each level involves implementing ML algorithms using Python and libraries such as Scikit-Learn, TensorFlow, Keras, and Matplotlib.
-                        </br>
-                            💡 Highlights:
-                            <ul>
-                                <li>✅ Data preprocessing (handling missing values, encoding, scaling).</li>
-                                <li>✅ Implementing Linear Regression, KNN, Logistic Regression, Decision Tree, K-Means Clustering models.</li>
-                                <li>✅ Developing Random Forest, Support Vector Machine (SVM), and Neural Network models.</li>
-                                <li>✅ Model evaluation using metrics such as accuracy, precision, recall, and confusion matrix.</li>
-                                <li>✅ Visualizing results using Seaborn and Matplotlib.</li>
-                            </ul>
+                        <td>
+                            <details>
+                                <summary><strong>Machine Learning Task Implementation - Codveda Internship</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                As part of the internship program at Codveda Technologies, I worked on various Machine Learning tasks divided into three levels: Basic, Intermediate, and Advanced. Each level involves implementing ML algorithms using Python and libraries such as Scikit-Learn, TensorFlow, Keras, and Matplotlib.
+                                </p>
+                                💡 <strong>Highlights:</strong>
+                                <ul>
+                                    <li>✅ Data preprocessing (handling missing values, encoding, scaling).</li>
+                                    <li>✅ Implementing Linear Regression, KNN, Logistic Regression, Decision Tree, K-Means Clustering models.</li>
+                                    <li>✅ Developing Random Forest, Support Vector Machine (SVM), and Neural Network models.</li>
+                                    <li>✅ Model evaluation using metrics such as accuracy, precision, recall, and confusion matrix.</li>
+                                    <li>✅ Visualizing results using Seaborn and Matplotlib.</li>
+                                </ul>
+                            </details>
                         </td>
                         <td>March 2025 - April 2025</td>
                         <td>Python, Pandas, Scikit-Learn, OS, Plotly, NumPy, Matplotlib, Seaborn, Mplcursors, Scipy, Mlxtend, Datetime, Imblearn, TensorFlow/Keras, Microsoft Visual Studio Code</td>
@@ -706,9 +718,13 @@
                         🔗 <a href="https://github.com/RyanGA09/codveda-ml-submission" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
-                        <td>Submission - Final Assessment Submission (2024)<br>
-                        <strong>Description:</strong><br>
-                        This project is submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)".
+                        <td>
+                            <details>
+                                <summary><strong>Submission - Final Assessment Submission (2024)</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                This project is submission for the Dicoding course about "Belajar Dasar Pemrograman JavaScript (Learn Basic JavaScript Programming)".
+                                </p>
+                            </details>
                         </td>
                         <td>September 2024 - October 2024</td>
                         <td>JavaScript, Microsoft Visual Studio Code</td>
@@ -716,9 +732,13 @@
                         🔗 <a href="https://github.com/RyanGA09/Dicoding_FinalAssessment-BelajarDasarPemrogramanJavaScript" target="_blank">GitHub</a></td>
                     </tr>
                     <tr>
-                        <td>Submission - Web Book Collection Submission (2024)<br>
-                        <strong>Description:</strong><br>
-                        This project is submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.
+                        <td>
+                            <details>
+                                <summary><strong>Submission - Web Book Collection Submission (2024)</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                This project is submission for the Dicoding course about "Belajar Dasar Pemrograman Web (Learn Basic Web Programming)". The Web Book Collection allows users to see book collection.
+                                </p>
+                            </details>
                         </td>
                         <td>September 2024 - October 2024</td>
                         <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
@@ -728,9 +748,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Submission - BookShelf App Submission (2024)<br>
-                        <strong>Description:</strong><br>
-                        This project is submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.
+                        <td>
+                            <details>
+                                <summary><strong>Submission - BookShelf App Submission (2024)</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                This project is submission for the Dicoding course about "Belajar Membuat Front-End Web untuk Pemula". The Bookshelf App allows users to add, remove, search, and list books, demonstrating fundamental front-end web development skills.
+                                </p>
+                            </details>
                         </td>
                         <td>September 2024 - September 2024</td>
                         <td>HTML, CSS, Javascript, Microsoft Visual Studio Code</td>
@@ -740,13 +764,15 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest<br>
-                        <strong>Description:</strong><br>
-                        This project aims to classify user sentiment toward various laptop brands based on YouTube comments. Data is collected through web scraping and processed using tokenization, filtering, stemming, and transformed using TF-IDF.
-                        </br>
-                        A Random Forest model is employed for sentiment classification, evaluated using a Confusion Matrix and K-Fold Cross-Validation. The model achieves over 92% accuracy, with the majority of comments being positive. However, data imbalance slightly affects the detection of negative sentiments.
-                        </br>
-                        This project offers valuable insights for laptop manufacturers to better understand user opinions and improve marketing strategies and product quality through sentiment analysis.
+                        <td>
+                            <details>
+                                <summary><strong>Analisis Sentimen Perbandingan Brand Laptop Menggunakan Metode Random Forest</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                This project aims to classify user sentiment toward various laptop brands based on YouTube comments. Data is collected through web scraping and processed using tokenization, filtering, stemming, and transformed using TF-IDF.</p>
+                                <p>A Random Forest model is employed for sentiment classification, evaluated using a Confusion Matrix and K-Fold Cross-Validation. The model achieves over 92% accuracy, with the majority of comments being positive. However, data imbalance slightly affects the detection of negative sentiments.</p>
+                                <p>This project offers valuable insights for laptop manufacturers to better understand user opinions and improve marketing strategies and product quality through sentiment analysis.
+                                </p>
+                            </details>
                         </td>
                         <td>August 2024 - February 2025</td>
                         <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
@@ -756,9 +782,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping<br>
-                        <strong>Description:</strong><br>
-                        The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.
+                        <td>
+                            <details>
+                                <summary><strong>Rancang Bangun Sistem Informasi Penelitian dan Pengabdian kepada Masyarakat ITATS Menggunakan Model Prototyping</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                The Research and Community Service Information System website at ITATS is designed to streamline the management of activities within the Research and Community Service Institute (LPPM). Built using the prototyping model, this platform allows students and lecturers to submit research and community service proposals online, simplifying the review and evaluation process. Additionally, the website offers access to schedules, guidelines, and important announcements related to LPPM activities. The primary goal of this system is to enhance efficiency, transparency, and accountability in managing LPPM programs, while also making it easier for students and lecturers to engage with and follow the offered programs.
+                                </p>
+                            </details>
                         </td>
                         <td>August 2024 - February 2025</td>
                         <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
@@ -767,9 +797,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>MySkill Short Class Task Monthly<br>
-                        <strong>Description:</strong><br>
-                        Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
+                        <td>
+                            <details>
+                                <summary><strong>MySkill Short Class Task Monthly</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                Enrolled in a multidisciplinary training program covering various fields of expertise, such as Human Resources, Digital Marketing, English & Postgraduate Scholarship Preparation, Product & Project Management, Microsoft Excel, Finance & Accounting, Software Engineering, Graphic Design, Sales & Business Development, Data Analysis, and UI/UX Research & Design.
+                                </p>
+                            </details>
                         </td>
                         <td>May 2024 - March 2025</td>
                         <td>Powerpoint, Excel, Figma, Python, Jupyter Notebook, Canva, Microsoft Visual Studio Code, HTML, CSS, Javascript</td>
@@ -778,9 +812,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh<br>
-                        <strong>Description:</strong><br>
-                        Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
+                        <td>
+                            <details>
+                                <summary><strong>Rancang Bangun Sistem Informasi Manajemen Penilaian Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                Community Service Program / Field Work (KKN) building a website for report card assessment management at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
+                                </p>
+                            </details>
                         </td>
                         <td>May 2024 - July 2024</td>
                         <td>HTML, CSS, Bootstrap, Laravel, Microsoft Visual Studio Code</td>
@@ -789,9 +827,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh<br>
-                        <strong>Description:</strong><br>
-                        Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
+                        <td>
+                            <details>
+                                <summary><strong>Rancang Bangun Sistem Informasi Profil Perusahaan Pondok Pesantren Ribath Daruttauhid Ta'lim-Tahfidh</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                Community Service Program / Field Work (KKN) building a website for company profiles at Pondok Pesantren Ribath Daruttauhid (Ta'lim-Tahfidh).
+                                </p>
+                            </details>
                         </td>
                         <td>May 2024 - July 2024</td>
                         <td>Wordpress</td>
@@ -801,9 +843,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall<br>
-                        <strong>Description:</strong><br>
-                        As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.
+                        <td>
+                            <details>
+                                <summary><strong>Rancang Bangun Sistem Informasi Manajemen Pengumpulan Dokumen Skripsi Mahasiswa dengan Menggunakan Model Waterfall</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                As part of my Practical Work (KP), I developed a Thesis Document Management Information System for the Informatics Engineering Study Program at Adhi Tama Institute of Technology (ITATS). This system is designed to streamline the collection and management of graduation data, as well as thesis documents, improving the efficiency of the administrative process. Built using the Waterfall model, the system follows a structured development approach, ensuring clear and systematic progress from requirement analysis to implementation. The primary goal of this system is to enhance administrative efficiency, simplify thesis document collection, and provide faster and more accurate access to graduation data for both students and administrative staff.
+                                </p>
+                            </details>
                         </td>
                         <td>March 2024 - July 2024</td>
                         <td>HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Microsoft Visual Studio Code</td>
@@ -812,9 +858,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Analysis of Flight Delays and Airline Performance (Capstone Project) - MIKTI Independent Study Batch 6 Program - Capstone Project<br>
-                        <strong>Description:</strong><br>
-                        Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.
+                        <td>
+                            <details>
+                                <summary><strong>Analysis of Flight Delays and Airline Performance (Capstone Project)</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                Case Study will be shown Troubleshooting Flight Delays and Airline related Case analysis with Python Programming on Google Collaboratory and visualized using Bar Chart, Line Chart, and Scatter Plot.
+                                </p>
+                            </details>
                         </td>
                         <td>May 2024 - June 2024</td>
                         <td>Google Colaboratory, Jupyter Notebook, Powerpoint</td>
@@ -824,9 +874,13 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Impact Analysis Covid-19 (Case Study Project) - MIKTI Independent Study Batch 6 Program - Case Study Project<br>
-                        <strong>Description:</strong><br>
-                        Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
+                        <td>
+                            <details>
+                                <summary><strong>Impact Analysis Covid-19 (Case Study Project)</strong></summary>
+                                <p><strong>Description:</strong><br>
+                                Case Study will be shown Troubleshooting COVID-19 related Case analysis with Python Programming on Google Collaboratory and visualized using line chart and line chart interactive.
+                                </p>
+                            </details>
                         </td>
                         <td>May 2024 - May 2024</td>
                         <td>Google Colaboratory, Jupyter Notebook, Powerpoint</td>
