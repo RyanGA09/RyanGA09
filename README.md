@@ -97,13 +97,13 @@
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
-    <!-- YouTube Badge - Ryan G. Abdullah -->
+        <!-- YouTube Badge - Ryan G. Abdullah (Non-Gaming / Personal) -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube%20(Ryan%20G.%20Abdullah)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah" />
+        <img src="https://img.shields.io/badge/YouTube%20(Ryan%20G.%20Abdullah)-Non--Gaming%20Content-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
     </a>
-    <!-- YouTube Badge - Lightning RGA -->
+    <!-- YouTube Badge - Lightning RGA (Gaming Channel) -->
     <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube%20(Lightning%20RGA)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA" />
+        <img src="https://img.shields.io/badge/YouTube%20(Lightning%20RGA)-Gaming%20Channel-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
     </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
@@ -658,10 +658,10 @@
             <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
                 <thead>
                     <tr>
-                        <th width="60%">📁 Project</th>
-                        <th width="15%">🗓️ Date</th>
-                        <th width="10%">💻 Tech</th>
-                        <th width="15%">🔗 Link</th>
+                        <th width="50%">📁 Project</th>
+                        <th width="16%">🗓️ Date</th>
+                        <th width="16%">💻 Tech</th>
+                        <th width="18%">🔗 Link</th>
                     </tr>
                 </thead>
                 <tbody>
