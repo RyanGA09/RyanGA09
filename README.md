@@ -99,11 +99,11 @@
     </a>
     <!-- YouTube Badge - Ryan G. Abdullah (Non-Gaming) -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube%20%7C%20Ryan%20G.%20Abdullah--Non--Gaming-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
+        <img src="https://img.shields.io/badge/YouTube%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
     </a>
     <!-- YouTube Badge - Lightning RGA (Gaming) -->
     <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube%20%7C%20Lightning%20RGA--Gaming-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
+        <img src="https://img.shields.io/badge/YouTube%20%7C%20Lightning%20RGA%20(Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
     </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
