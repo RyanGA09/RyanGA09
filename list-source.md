@@ -12,6 +12,7 @@
 - [AnimatedImages.org](https://www.animatedimages.org/)
 - [KIBRISPDR](https://www.kibrispdr.org/)
 - [PNGWING](https://www.pngwing.com/)
+- [SeekLogo](https://seeklogo.com/)
 - [Simple Icons](https://simpleicons.org/)
 - [Medium](https://medium.com/)
 - [EmojiAll](https://www.emojiall.com/)

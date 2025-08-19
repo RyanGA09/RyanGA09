@@ -1269,7 +1269,7 @@
                                 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
                             </a>
                             <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-                                <img src="https://logospng.org/wp-content/uploads/vite-js-logo.png" alt="Vite" width="40" height="40"/>
+                                <img src="https://w7.pngwing.com/pngs/859/290/png-transparent-vitejs-hd-logo.png" alt="Vite" width="40" height="40"/>
                             </a>
                             <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="Webpack" width="40" height="40"/>
