@@ -97,13 +97,13 @@
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
-    <!-- YouTube Badge - Ryan G. Abdullah (Non-Gaming / Personal) -->
+    <!-- YouTube Badge - Ryan G. Abdullah (Non-Gaming) -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
-        <img src="https://img.shields.io/badge/Non--Gaming--YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
+        <img src="https://img.shields.io/badge/Ryan%20G.%20Abdullah%E2%80%94Non--Gaming-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
     </a>
-    <!-- YouTube Badge - Lightning RGA (Gaming Channel) -->
+    <!-- YouTube Badge - Lightning RGA (Gaming) -->
     <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
-        <img src="https://img.shields.io/badge/Gaming--YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
+        <img src="https://img.shields.io/badge/Lightning%20RGA%E2%80%94Gaming-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
     </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
