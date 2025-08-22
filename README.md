@@ -1281,14 +1281,14 @@
                                 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
                             </a>
                             <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+                                <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
                             </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Github Pages -->
                             <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
-                                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Pages" width="40" height="40"/>
+                                <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Pages" width="40" height="40"/>
                             </a>
                             <!-- Hostinger -->
                             <!-- <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">

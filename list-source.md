@@ -2,35 +2,35 @@
 
 ## Image
 
-- [ICONFINDER](https://www.iconfinder.com/)
-- [Icon-Icons](https://icon-icons.com/)
-- [Devicon](https://devicon.dev/)
-- [Github](https://github.com)
-- [SVG Repo](https://svgrepo.com)
-- [Draw.io](https://drawio-app.com/)
-- [Mac.Informer](https://macdownload.informer.com/)
-- [AnimatedImages.org](https://www.animatedimages.org/)
-- [KIBRISPDR](https://www.kibrispdr.org/)
-- [PNGWING](https://www.pngwing.com/)
-- [SeekLogo](https://seeklogo.com/)
-- [Simple Icons](https://simpleicons.org/)
-- [Medium](https://medium.com/)
-- [EmojiAll](https://www.emojiall.com/)
-- [Free Icons PNG](https://www.freeiconspng.com/)
-- [LOGOS PNG](https://logospng.org/)
-- [Icons8](https://icons8.com/)
-- [WorldVectorLogo](https://worldvectorlogo.com/)
-- [Icon Ape](https://iconape.com/)
-- [Pavel Timofeev](https://ptimofeev.com/)
-- [nTopLearn](https://learn.ntop.com/)
-- [DigitalOcean](https://www.digitalocean.com/)
-- [jsDelivr](https://www.jsdelivr.com/)
+- [AnimatedImages.org](https://www.animatedimages.org/) - A collection of free animated GIF images.
+- [DEVICON](https://devicon.dev/) - Icons for various programming languages and developer tools.
+- [DigitalOcean](https://www.digitalocean.com/) - Cloud computing platform for developers.
+- [Draw.io](https://drawio-app.com/) - Web-based diagram drawing tool.
+- [EmojiAll](https://www.emojiall.com/) - Comprehensive emoji database.
+- [Free Icons PNG](https://www.freeiconspng.com/) - Collection of free PNG icons.
+- [Github](https://github.com) - Code hosting and developer collaboration platform.
+- [ICONFINDER](https://www.iconfinder.com/) - Marketplace for professional icons.
+- [Icons8](https://icons8.com/) - High-quality icons and illustrations.
+- [Icon Ape](https://iconape.com/) - Collection of free and premium icons.
+- [Icon-Icons](https://icon-icons.com/) - Free icons for various needs.
+- [jsDelivr](https://www.jsdelivr.com/) - CDN for JavaScript libraries.
+- [KIBRISPDR](https://www.kibrispdr.org/) - Source of IT tutorials and tools.
+- [LOGOS PNG](https://logospng.org/) - Collection of logos in PNG format.
+- [Mac.Informer](https://macdownload.informer.com/) - Software downloader for Mac.
+- [Medium](https://medium.com/) - Blogging and article platform.
+- [nTopLearn](https://learn.ntop.com/) - Learning platform for network technology.
+- [Pavel Timofeev](https://ptimofeev.com/) - Portfolio and design works.
+- [PNGWING](https://www.pngwing.com/) - Collection of free PNG images.
+- [SeekLogo](https://seeklogo.com/) - Company and brand logos.
+- [Simple Icons](https://simpleicons.org/) - Popular brand icons in SVG format.
+- [SVG Repo](https://svgrepo.com/) - Repository of free SVG icons.
+- [WorldVectorLogo](https://worldvectorlogo.com/) - Free vector logos of various brands.
 
 ## Generator
 
-- [Readme Widget Hub](https://xiaohuohumax.github.io/readme-widget-hub/en-US/)
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile Readme Generator](https://profile-readme-generator.com/)
 - [Github Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [Profile Readme Generator](https://profile-readme-generator.com/)
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)
 - [Readme Typing SVG (DencerCoder)](https://github.com/DenverCoder1/readme-typing-svg)
+- [Readme Widget Hub](https://xiaohuohumax.github.io/readme-widget-hub/en-US/)
