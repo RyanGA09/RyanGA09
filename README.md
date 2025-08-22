@@ -1288,7 +1288,7 @@
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <!-- Github Pages -->
                             <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
-                                <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Pages" width="40" height="40"/>
+                                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Pages" width="40" height="40"/>
                             </a>
                             <!-- Hostinger -->
                             <!-- <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">

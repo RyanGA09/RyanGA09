@@ -24,6 +24,8 @@
 - [SeekLogo](https://seeklogo.com/) - Company and brand logos.
 - [Simple Icons](https://simpleicons.org/) - Popular brand icons in SVG format.
 - [SVG Repo](https://svgrepo.com/) - Repository of free SVG icons.
+- [TGC India](https://www.tgcindia.com/) - Technology solutions and IT services provider.
+- [TheDataScientist](thedatascientist.com) - Data science courses, services, and AI insights.
 - [WorldVectorLogo](https://worldvectorlogo.com/) - Free vector logos of various brands.
 
 ## Generator
