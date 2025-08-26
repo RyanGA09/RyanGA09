@@ -447,7 +447,7 @@
                                 <li>Graduate thesis / Master's thesis (Tesis)</li>
                             </ul>
                             <p>
-                                Enrolled to Master of Computer Science at Institut Teknologi Sepuluh Nopember, an Informatics Engineering Learning Program, with a focus on programming, data analysis, and software engineering. Participated in practical labs, assistantships, seminars, internships, community service, and thesis research. Proficient in C++, Python, Laravel, SQL, Machine Learning, and various tools like Figma, Tableau, GitHub, and TensorFlow. Ready to contribute to the field of technology and data analytics.
+                                Enrolled to Master of Computer Science (Magister) at Institut Teknologi Sepuluh Nopember, an Informatics Engineering Learning Program, with a focus on programming and Analysis.
                             </p>
                         </td>
                     </tr>
