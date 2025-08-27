@@ -427,6 +427,29 @@
                     </tr>
                 </thead>
                 <tbody>
+                    <!-- <tr>
+                        <td align="center" valign="middle">
+                            <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                                <a href="https://www.its.ac.id/" target="_blank">
+                                    <img src="https://cdn.kibrispdr.org/data/106/download-logo-its-hd-5.jpg" width="40" height="60" alt="ITS Logo" />
+                                </a><br/>
+                                <sub>Institut Teknologi Sepuluh Nopember</sub>
+                            </div>
+                        </td>
+                        <td valign="middle">
+                            <strong>Master of Computer Engineering (Magister), Informatics Engineering</strong><br/>
+                            <em>[August 2025 - 2027 (Expected)]</em>
+                            <ul style="margin-top: 5px; padding-left: 20px;">
+                                <li>Teaching and Learning Activities</li>
+                                <li>Article Writing for Journals/Proceedings</li>
+                                <li>TEFL Course & Test</li>
+                                <li>Doctoral dissertation / PhD dissertation (Disertasi)</li>
+                            </ul>
+                            <p>
+                                Enrolled to Master of Computer Science (Magister) at Institut Teknologi Sepuluh Nopember, an Informatics Engineering Learning Program, with a focus on programming and Analysis.
+                            </p>
+                        </td>
+                    </tr> -->
                     <tr>
                         <td align="center" valign="middle">
                             <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -441,8 +464,7 @@
                             <em>[August 2025 - 2027 (Expected)]</em>
                             <ul style="margin-top: 5px; padding-left: 20px;">
                                 <li>Teaching and Learning Activities</li>
-                                <li>Seminars/ Webinars</li>
-                                <li>MBKM/ Kampus Merdeka</li>
+                                <li>Article Writing for Journals/Proceedings</li>
                                 <li>TEFL Course & Test</li>
                                 <li>Graduate thesis / Master's thesis (Tesis)</li>
                             </ul>
@@ -508,8 +530,7 @@
                             <ul style="margin-top: 5px; padding-left: 20px;">
                                 <li>Teaching and Learning Activities</li>
                                 <li>Paskibra</li>
-                                <li>Sie Kerohanian Islam (SKI)</li>
-                                <li>Practice:
+                                <li>Sie Kerohanian Islam (SKI)
                                     <ul>
                                         <li>Maulid Nabi</li>
                                         <li>Pondok Ramadhan</li>
@@ -519,6 +540,10 @@
                                         <li>Istighotsah</li>
                                     </ul>
                                 </li>
+                                <li>Practical Examination:</li>
+                                    <!-- <ul>
+                                        <li></li>
+                                    </ul> -->
                                 <li>Karate</li>
                                 <li>Practical Exam</li>
                                 <li>Scout (Pramuka)</li>
