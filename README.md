@@ -418,7 +418,7 @@
                 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" border="0" alt="education-icon" width="22" height="22"/> Educations
             </h4>
             <!-- Formal Education -->
-            <strong>Formal Education:</strong>
+            <strong>Formal Education</strong>
             <table>
                 <thead align="center">
                     <tr>
@@ -558,7 +558,7 @@
             </table>
             <br/>
             <!-- Non-Formal Education -->
-            <strong>Non-Formal Education:</strong>
+            <strong>Non-Formal Education</strong>
             <table>
                 <thead align="center">
                     <tr>
