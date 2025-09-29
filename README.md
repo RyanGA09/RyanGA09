@@ -102,7 +102,7 @@
         <img src="https://img.shields.io/badge/YouTube%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
     </a>
     <!-- YouTube Badge - Lightning RGA (Gaming) -->
-    <a href="https://www.youtube.com/@Lightning_RGA" target="_blank">
+    <a href="https://www.youtube.com/@LightningRGA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20%7C%20Lightning%20RGA%20(Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
     </a>
     <!-- Discord Badge -->
@@ -233,6 +233,20 @@
                 </thead>
             <tbody>
                 <tr>
+                    <!-- <td align="center" valign="middle">
+                        <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+                            <a href="" target="_blank">
+                                <img src="https://cdn-web-2.ruangguru.com/landing-pages/assets/hs/kalananti%202022/Kalananti%20by%20Ruangguru.png" width="160" height="60" alt="ITS Logo" />
+                            </a><br/>
+                            <sub>Institut Teknologi Sepuluh Nopember</sub>
+                        </div>
+                    </td>
+                    <td align="center" valign="middle">Part-time</td>
+                    <td valign="middle">
+                        <strong>Research Assistant</strong>
+                        <em>[October 2025 - Present]</em>
+                    </td>
+                </tr> -->
                     <td align="center" valign="middle">
                         <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
                             <a href="https://www.kalananti.id/" target="_blank">
@@ -1232,6 +1246,9 @@
                             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
                             </a>
+                            <!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+                            </a> -->
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
