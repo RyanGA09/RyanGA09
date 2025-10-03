@@ -32,6 +32,88 @@
 
 <h2><img src="https://www.animatedimages.org/data/media/1335/animated-mail-image-0232.gif" border="0" alt="animated-mail-image-0232" width="22" height="22"/> Connect & Find Me:</h2>
 <h3><img src="https://www.animatedimages.org/data/media/1456/animated-post-image-0001.gif" border="0" alt="animated-post-image-0001" width="30" height="25"/> My Social</h3>
+<!-- <div align="center">
+    <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
+        <thead align="center">
+            <tr>
+                <th>Kategori</th>
+                <th>Badge</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center"><strong>💼 Profesional & Freelancing</strong></td>
+                <td align="center">
+                    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center;">
+                        <a href="https://www.linkedin.com/in/ryan-gading-abdullah  " target="blank">
+                            <img src="https://img.shields.io/badge/LinkedIn-Connect/Follow-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+                        </a>
+                        <a href="  https://www.upwork.com/freelancers/~01786dce7666e1a0e4  " target="_blank">
+                            <img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?logo=upwork&style=for-the-badge" alt="Hire on Upwork" />
+                        </a>
+                        <a href="  https://www.freelancer.com/u/RyanGA09  " target="_blank">
+                            <img src="https://img.shields.io/badge/Freelancer-Hire-29B2FE?logo=freelancer&style=for-the-badge" alt="Hire on Freelancer" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td align="center"><strong>🎨 Sosial Media & Kreatif</strong></td>
+                <td align="center">
+                    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center;">
+                        <a href="  https://www.instagram.com/ryan_g._a  " target="_blank">
+                            <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
+                        </a>
+                        <a href="  https://www.youtube.com/@RyanGAbdullah  " target="_blank">
+                            <img src="https://img.shields.io/badge/YouTube%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
+                        </a>
+                        <a href="https://www.youtube.com/@LightningRGA  " target="_blank">
+                            <img src="https://img.shields.io/badge/YouTube%20%7C%20Lightning%20RGA%20(Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
+                        </a>
+                        <a href="  https://www.figma.com/@RyanGA09  " target="_blank">
+                            <img src="https://img.shields.io/badge/Figma-Follow-black?logo=figma&style=for-the-badge" alt="Follow on Figma" />
+                        </a>
+                        <a href="  https://scratch.mit.edu/users/ryangaedu/  " target="_blank">
+                            <img src="https://img.shields.io/badge/Scratch-Follow-orange?logo=scratch&style=for-the-badge" alt="Follow on Scratch" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td align="center"><strong>💻 Teknologi, Blogging & Gaming</strong></td>
+                <td align="center">
+                    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: center;">
+                        <a href="  https://github.com/RyanGA09  " target="_blank">
+                            <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
+                        </a>
+                        <a href="  https://gitlab.com/RyanGA09  " target="_blank">
+                            <img src="https://img.shields.io/badge/GitLab-Follow-FCA121?logo=gitlab&style=for-the-badge" alt="Follow on GitLab" />
+                        </a>
+                        <a href="  https://medium.com/@ryangadingabdullah  " target="_blank">
+                            <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
+                        </a>
+                        <a href="  https://free91445.wordpress.com/  " target="blank">
+                            <img src="https://img.shields.io/badge/WordPress-Visit-blue?style=for-the-badge&logo=wordpress" alt="Visit My WordPress Blog" />
+                        </a>
+                        <a href="  https://id.quora.com/profile/Ryan-Gading-Abdullah  " target="blank">
+                            <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
+                        </a>
+                        <a href="  https://public.tableau.com/app/profile/ryanga09/vizzes  " target="_blank">
+                            <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
+                        </a>
+                        <a href="  https://steamcommunity.com/id/Lightning19045/  " target="blank">
+                            <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
+                        </a>
+                        <a href="  https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c  " target="_blank" title="View on Epic Games">
+                            <img src="https://img.shields.io/badge/Epic_Games-View_Profile-313131?logo=epicgames&style=for-the-badge" alt="View on Epic Games" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div> -->
+
 <div align="center">
     <!-- LinkedIn Badge -->
     <a href="https://www.linkedin.com/in/ryan-gading-abdullah" target="blank">
