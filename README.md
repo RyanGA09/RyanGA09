@@ -1206,6 +1206,35 @@
                             </tr> -->
                         </tbody>
                     </table>
+                    <!-- Books section -->
+                    <div>Books</div>
+                    <h6>Available in Library</h6>
+                    <table align="center" border="2" cellpadding="10" cellspacing="0" style="width: 100%;">
+                        <thead align="center">
+                            <tr>
+                                <th width="30%">Book Info</th>
+                                <th width="70%">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="center">
+                                    <strong>Title:</strong> ANALISIS SENTIMEN PERBANDINGAN BRAND LAPTOP MENGGUNAKAN METODE RANDOM FOREST<br>
+                                    <strong>Author:</strong> Ryan Gading Abdullah<br>
+                                    <em>Published: 2025</em>
+                                    <!-- <em>ISBN: [Jika Ada]</em> -->
+                                </td>
+                                <td>
+                                    <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                                        <p style="font-size: 12px; color: black;">
+                                            Dalam era digital, opini pengguna terhadap suatu merek laptop menjadi faktor penting dalam keputusan pembelian. Namun, banyaknya komentar yang tersebar di platform seperti YouTube membuat analisis sentimen menjadi tantangan tersendiri. Permasalahan utama dalam penelitian ini adalah bagaimana mengimplementasikan metode analisis sentimen untuk membandingkan sentimen pengguna terhadap berbagai merek laptop serta bagaimana menguji keakuratan model yang digunakan. Penelitian ini bertujuan untuk menganalisis dan membandingkan sentimen pengguna terhadap merek? merek laptop menggunakan metode Random Forest. Data diperoleh melalui proses web scraping komentar YouTube, kemudian diproses melalui proses preprocessing, yaitu tokenisasi, filtering, dan stemming yang kemudian dilanjutkan ke tahap proses labelisasi dan pembobotan dengan TF-IDF. Tahap berikutnya …
+                                        </p>
+                                        <a href="https://library.itats.ac.id/index.php?p=show_detail&id=32725" style="color: black; text-decoration: none; font-size: 14px; margin-top: 10px; display: inline-block;">View Book</a>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </li>
             </ul>
         </div>
