@@ -1223,7 +1223,7 @@
                                     <strong>Author:</strong><br> Ryan Gading Abdullah<br><br>
                                     <em>Published: 2025</em><br>
                                     <!-- <em>ISBN: [Jika Ada]</em> -->
-                                    <em>Available at: Perpustakaan ITATS</em>
+                                    <em>Available at: <strong>Perpustakaan ITATS</strong></em>
                                 </td>
                                 <td>
                                     <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
