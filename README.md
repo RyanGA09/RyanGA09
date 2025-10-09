@@ -1541,7 +1541,7 @@
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
                             </a>
                             <a href="https://keras.io/" target="_blank" rel="noreferrer">
-                                <img src="https://www.tgcindia.com/wp-content/uploads/2023/01/1200px-Keras_logo.svg-1024x1024.png" alt="keras" width="40" height="40"/>
+                                <img src="Assets/Images/techicons.dev/Keras.png" alt="keras" width="40" height="40"/>
                             </a>
                         </div>
                         </br>

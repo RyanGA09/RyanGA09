@@ -27,6 +27,7 @@
 - [TGC India](https://www.tgcindia.com/) - Technology solutions and IT services provider.
 - [TheDataScientist](thedatascientist.com) - Data science courses, services, and AI insights.
 - [WorldVectorLogo](https://worldvectorlogo.com/) - Free vector logos of various brands.
+- [Tech Icons](https://techicons.dev/) - SVG and PNG tech icons
 
 ## Generator
 
