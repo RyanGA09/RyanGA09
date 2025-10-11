@@ -1374,6 +1374,9 @@
                             <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
                                 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" alt="Markdown" width="40" height="40"/>
                             </a>
+                            <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+                                <img src="https://cdn.creazilla.com/icons/3244148/latex-icon-md.png" alt="LaTeX" width="40" height="40"/>
+                            </a>
                         </div>
                         </br>
                         <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">

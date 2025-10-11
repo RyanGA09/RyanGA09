@@ -28,6 +28,7 @@
 - [TheDataScientist](thedatascientist.com) - Data science courses, services, and AI insights.
 - [WorldVectorLogo](https://worldvectorlogo.com/) - Free vector logos of various brands.
 - [Tech Icons](https://techicons.dev/) - SVG and PNG tech icons
+- [Creazilla](https://creazilla.com/) - graphic resources for content creators and designers.
 
 ## Generator
 
