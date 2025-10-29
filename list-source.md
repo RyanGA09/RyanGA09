@@ -1,6 +1,6 @@
 # List source
 
-## Image
+## Image & Gif
 
 - [AnimatedImages.org](https://www.animatedimages.org/) - A collection of free animated GIF images.
 - [DEVICON](https://devicon.dev/) - Icons for various programming languages and developer tools.

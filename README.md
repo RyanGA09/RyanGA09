@@ -168,7 +168,7 @@
         <img src="https://img.shields.io/badge/Quora-Follow-red?logo=quora&style=for-the-badge" alt="Follow on Quora" />
     </a>
     <!-- Medium Badge -->
-    <a href="https://medium.com/@ryangadingabdullah" target="_blank">
+    <a href="https://ryangadingabdullah.medium.com/" target="_blank">
         <img src="https://img.shields.io/badge/Medium-Follow-000000?logo=medium&style=for-the-badge" alt="Follow on Medium" />
     </a>
     <!-- Figma Badge -->
@@ -216,13 +216,13 @@
         <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
     </a> -->
     <!-- Steam Badge -->
-    <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
+    <!-- <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
         <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
-    </a>
+    </a> -->
     <!-- Epic Games Badge -->
-    <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank" title="View on Epic Games">
+    <!-- <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank" title="View on Epic Games">
         <img src="https://img.shields.io/badge/Epic_Games-View_Profile-313131?logo=epicgames&style=for-the-badge" alt="View on Epic Games" />
-    </a>
+    </a> -->
 </div>
 </br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" border="0" alt="animated-line-image-0386" width="1920"/>
