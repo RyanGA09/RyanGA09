@@ -143,6 +143,14 @@
     <a href="https://www.instagram.com/ryan_g._a" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
     </a>
+    <!-- Threads Badge -->
+    <a href="https://www.threads.com/@ryan_g._a" target="_blank">
+        <img src="https://img.shields.io/badge/Threads-Follow-black?logo=threads&style=for-the-badge" alt="Follow on Threads" />
+    </a>
+    <!-- TikTok Badge -->
+    <a href="http://tiktok.com/@ryangabdullah" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok" />
+    </a>
     <!-- Scratch Badge -->
     <a href="https://scratch.mit.edu/users/ryangaedu/" target="_blank">
         <img src="https://img.shields.io/badge/Scratch-Follow-orange?logo=scratch&style=for-the-badge" alt="Follow on Scratch" />
